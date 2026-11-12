@@ -41,7 +41,7 @@ Android 키보드 「판코보드」(day.loaweek.pankoboard)의 「사전」 카
 ## 라이선스 / License
 
 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) — 출처를 밝히면 상업 이용을 포함해 자유롭게 쓸 수 있고, 고쳐서 배포할 때는 같은 라이선스를 적용해야 합니다.
-출처 표기 예: 「판코보드 사전 (https://github.com/<계정>/pankoboard-dictionary), CC BY-SA 4.0」
+출처 표기 예: 「판코보드 사전 (https://github.com/peakhhok/pankoboard-dictionary), CC BY-SA 4.0」
 
 ## 사전 오류 신고 / Report a mistake
 
