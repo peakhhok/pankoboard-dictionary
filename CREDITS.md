@@ -5,5 +5,6 @@
 - 常用漢字表 (2010年 内閣告示, 文化庁) — 한자 음훈 읽기 표는 앱 쪽 데이터(`joyo_readings.tsv`)이며 이 파일에는 들어 있지 않습니다.
 - Tatoeba (https://tatoeba.org, CC BY 2.0 FR) — 일본어 문장에서 낱말이 쓰이는 빈도를 세는 데만 썼고, 문장은 들어 있지 않습니다.
 - Mozc 사전 (BSD 라이선스) — 변환 사전의 낱말 후보 빈도를 참고했고 내용은 들어 있지 않습니다.
+- JMdict (EDRDG, https://www.edrdg.org, CC BY-SA 4.0) — 일본어 낱말을 고를 때 '흔한 낱말' 빈도 표시(ichi1, news1, nf 등)를 참고했습니다. 영어 뜻풀이를 보되 베끼지 않았고, 이 파일의 뜻·설명·예문은 직접 쓴 것입니다.
 
-앞으로 JMdict/KANJIDIC(EDRDG, CC BY-SA 4.0), 우리말샘(국립국어원, CC BY-SA 2.0 KR) 등을 참고하게 되면 이 파일에 출처와 사용 방식을 적습니다.
+앞으로 KANJIDIC(EDRDG, CC BY-SA 4.0), 우리말샘(국립국어원, CC BY-SA 2.0 KR) 등을 참고하게 되면 이 파일에 출처와 사용 방식을 적습니다.
