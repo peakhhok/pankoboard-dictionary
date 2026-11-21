@@ -1,0 +1,6081 @@
+# 사전 카드의 종류 표시: lang TAB word TAB reading TAB tag (onom 의성의태어, proverb 속담, yoji 사자성어, idiom 관용구).
+# 만든 곳: tools/glossary_check/tags/make_tags.py (ja_tags.tsv, ko_tags.tsv에서).
+ja	あたふた		onom
+ja	頭に来る	あたまにくる	idiom
+ja	あっさり		onom
+ja	あはは		onom
+ja	いそいそ		onom
+ja	イチャイチャ		onom
+ja	一生懸命	いっしょうけんめい	yoji
+ja	イライラ		onom
+ja	ウキウキ		onom
+ja	うじうじ		onom
+ja	うずうず		onom
+ja	うだうだ		onom
+ja	うっかり		onom
+ja	うっとり		onom
+ja	うとうと		onom
+ja	うふふ		onom
+ja	うようよ		onom
+ja	うるうる		onom
+ja	うろうろ		onom
+ja	うろちょろ		onom
+ja	うんざり		onom
+ja	えーん		onom
+ja	おっとり		onom
+ja	おどおど		onom
+ja	おろおろ		onom
+ja	音信不通	おんしんふつう	yoji
+ja	カクカク		onom
+ja	かさかさ		onom
+ja	カチカチ		onom
+ja	カチンと		onom
+ja	かっと		onom
+ja	カツカツ		onom
+ja	からから		onom
+ja	からっと		onom
+ja	カリカリ		onom
+ja	かんかん		onom
+ja	がくがく		onom
+ja	がくっと		onom
+ja	がさがさ		onom
+ja	がたがた		onom
+ja	ガタンゴトン		onom
+ja	ガチガチ		onom
+ja	ガチャン		onom
+ja	がっかり		onom
+ja	がっくり		onom
+ja	がっしり		onom
+ja	がっちり		onom
+ja	ガッツリ		onom
+ja	がっぽり		onom
+ja	がつがつ		onom
+ja	ガツンと		onom
+ja	がぶがぶ		onom
+ja	ガミガミ		onom
+ja	がやがや		onom
+ja	ガラガラ		onom
+ja	がらっと		onom
+ja	がらんと		onom
+ja	ガリガリ		onom
+ja	ガンガン		onom
+ja	ガーン		onom
+ja	気が合う	きがあう	idiom
+ja	気が利く	きがきく	idiom
+ja	気が向く	きがむく	idiom
+ja	きちんと		onom
+ja	きっちり		onom
+ja	きっぱり		onom
+ja	喜怒哀楽	きどあいらく	yoji
+ja	きびきび		onom
+ja	キャー		onom
+ja	キュン		onom
+ja	キュンキュン		onom
+ja	キュンと		onom
+ja	きょとん		onom
+ja	きょとんと		onom
+ja	きょろきょろ		onom
+ja	キラキラ		onom
+ja	きりきり		onom
+ja	きりっと		onom
+ja	キンキン		onom
+ja	ぎくしゃく		onom
+ja	ぎくっと		onom
+ja	ギザギザ		onom
+ja	ギスギス		onom
+ja	ぎっしり		onom
+ja	ぎゅうぎゅう		onom
+ja	ぎゅっと		onom
+ja	ぎゅー		onom
+ja	ぎょっと		onom
+ja	ぎらぎら		onom
+ja	ギリギリ		onom
+ja	空気を読む	くうきをよむ	idiom
+ja	くしゃくしゃ		onom
+ja	くすくす		onom
+ja	くすっと		onom
+ja	クタクタ		onom
+ja	くっきり		onom
+ja	くどくど		onom
+ja	くねくね		onom
+ja	くよくよ		onom
+ja	くらくら		onom
+ja	くるくる		onom
+ja	ぐいぐい		onom
+ja	ぐいっと		onom
+ja	グサッと		onom
+ja	ぐすん		onom
+ja	ぐずぐず		onom
+ja	グダグダ		onom
+ja	ぐちぐち		onom
+ja	ぐちゃぐちゃ		onom
+ja	ぐっすり		onom
+ja	ぐったり		onom
+ja	ぐっと		onom
+ja	ぐつぐつ		onom
+ja	ぐにゃぐにゃ		onom
+ja	ぐらぐら		onom
+ja	ぐるぐる		onom
+ja	ぐんぐん		onom
+ja	ぐんと		onom
+ja	グーグー		onom
+ja	ケラケラ		onom
+ja	ケロッと		onom
+ja	げっそり		onom
+ja	ゲラゲラ		onom
+ja	げんなり		onom
+ja	コケコッコー		onom
+ja	こそこそ		onom
+ja	こそっと		onom
+ja	こっそり		onom
+ja	こってり		onom
+ja	コツコツ		onom
+ja	ことこと		onom
+ja	こりこり		onom
+ja	ころころ		onom
+ja	ころっと		onom
+ja	こんがり		onom
+ja	コンコン		onom
+ja	ごくごく		onom
+ja	ごくり		onom
+ja	ごしごし		onom
+ja	ごそごそ		onom
+ja	ごちゃごちゃ		onom
+ja	ごっそり		onom
+ja	ごつごつ		onom
+ja	ゴホゴホ		onom
+ja	ゴロゴロ		onom
+ja	サクサク		onom
+ja	さくっと		onom
+ja	さっさと		onom
+ja	さっと		onom
+ja	さっぱり		onom
+ja	さばさば		onom
+ja	さらさら		onom
+ja	さらっと		onom
+ja	ざあざあ		onom
+ja	ざっくり		onom
+ja	ざっと		onom
+ja	ざらざら		onom
+ja	ざわざわ		onom
+ja	しくしく		onom
+ja	しっかり		onom
+ja	しっくり		onom
+ja	しっとり		onom
+ja	質疑応答	しつぎおうとう	yoji
+ja	しとしと		onom
+ja	しみじみ		onom
+ja	しゃきしゃき		onom
+ja	しゃきっと		onom
+ja	春夏秋冬	しゅんかしゅうとう	yoji
+ja	しゅんと		onom
+ja	しょぼしょぼ		onom
+ja	しょぼん		onom
+ja	しょんぼり		onom
+ja	しれっと		onom
+ja	しわしわ		onom
+ja	しんみり		onom
+ja	しーん		onom
+ja	ジタバタ		onom
+ja	じっくり		onom
+ja	じっと		onom
+ja	ジメジメ		onom
+ja	ジャジャーン		onom
+ja	じゃんじゃん		onom
+ja	ジュージュー		onom
+ja	じりじり		onom
+ja	じろじろ		onom
+ja	じわじわ		onom
+ja	じんじん		onom
+ja	すいすい		onom
+ja	スカスカ		onom
+ja	スカッと		onom
+ja	すくすく		onom
+ja	すたすた		onom
+ja	すっかり		onom
+ja	すっきり		onom
+ja	すっと		onom
+ja	すっぽり		onom
+ja	すべすべ		onom
+ja	すやすや		onom
+ja	すらすら		onom
+ja	すらっと		onom
+ja	すりすり		onom
+ja	ずかずか		onom
+ja	ズキズキ		onom
+ja	ずけずけ		onom
+ja	ずっしり		onom
+ja	ズバリ		onom
+ja	ずらっと		onom
+ja	ずるずる		onom
+ja	せかせか		onom
+ja	せっせと		onom
+ja	ゼーゼー		onom
+ja	そっと		onom
+ja	そわそわ		onom
+ja	ぞくぞく		onom
+ja	ゾクゾク		onom
+ja	ぞっと		onom
+ja	ぞろぞろ		onom
+ja	たっぷり		onom
+ja	ダラダラ		onom
+ja	チカチカ		onom
+ja	ちくちく		onom
+ja	ちびちび		onom
+ja	ちまちま		onom
+ja	ちゃっかり		onom
+ja	ちゃっちゃと		onom
+ja	ちゃんと		onom
+ja	ちやほや		onom
+ja	中途半端	ちゅうとはんぱ	yoji
+ja	チュンチュン		onom
+ja	チュー		onom
+ja	ちょいちょい		onom
+ja	調子に乗る	ちょうしにのる	idiom
+ja	ちょこちょこ		onom
+ja	ちょこっと		onom
+ja	ちょこんと		onom
+ja	ちょろちょろ		onom
+ja	ちらちら		onom
+ja	ちらっと		onom
+ja	ちらほら		onom
+ja	チン		onom
+ja	ちんたら		onom
+ja	チーン		onom
+ja	つくづく		onom
+ja	つやつや		onom
+ja	つるつる		onom
+ja	ツンツン		onom
+ja	つんと		onom
+ja	てきぱき		onom
+ja	てくてく		onom
+ja	デレデレ		onom
+ja	東西南北	とうざいなんぼく	yoji
+ja	とことこ		onom
+ja	とぼとぼ		onom
+ja	とろとろ		onom
+ja	とんとん		onom
+ja	ドキッと		onom
+ja	ドキドキ		onom
+ja	ドタバタ		onom
+ja	どっさり		onom
+ja	どっしり		onom
+ja	どっと		onom
+ja	どんどん		onom
+ja	どんより		onom
+ja	にこっと		onom
+ja	ニコニコ		onom
+ja	にっこり		onom
+ja	ニャー		onom
+ja	ニヤニヤ		onom
+ja	にやり		onom
+ja	にょろにょろ		onom
+ja	ぬくぬく		onom
+ja	ぬるぬる		onom
+ja	ねちねち		onom
+ja	ねばねば		onom
+ja	年功序列	ねんこうじょれつ	yoji
+ja	のびのび		onom
+ja	のほほん		onom
+ja	のろのろ		onom
+ja	のんびり		onom
+ja	はあはあ		onom
+ja	はきはき		onom
+ja	ハクション		onom
+ja	はっきり		onom
+ja	はっと		onom
+ja	腹が立つ	はらがたつ	idiom
+ja	ハラハラ		onom
+ja	バキバキ		onom
+ja	バクバク		onom
+ja	バタバタ		onom
+ja	バタン		onom
+ja	ばっさり		onom
+ja	ばったり		onom
+ja	ばっちり		onom
+ja	バラバラ		onom
+ja	バリバリ		onom
+ja	バンバン		onom
+ja	ぱくっと		onom
+ja	ぱくぱく		onom
+ja	パサパサ		onom
+ja	パチパチ		onom
+ja	ぱったり		onom
+ja	ぱっちり		onom
+ja	ぱっと		onom
+ja	ぱぱっと		onom
+ja	ぱらぱら		onom
+ja	パリパリ		onom
+ja	パンパン		onom
+ja	ひそひそ		onom
+ja	ひっそり		onom
+ja	ひやひや		onom
+ja	ひょっこり		onom
+ja	ひょろひょろ		onom
+ja	ひらひら		onom
+ja	ひりひり		onom
+ja	ひんやり		onom
+ja	びくっと		onom
+ja	ビクビク		onom
+ja	びしっと		onom
+ja	びしょびしょ		onom
+ja	びっくり		onom
+ja	びっしょり		onom
+ja	びっしり		onom
+ja	ピカッと		onom
+ja	ピカピカ		onom
+ja	ぴくぴく		onom
+ja	ぴたっと		onom
+ja	ぴちぴち		onom
+ja	ぴったり		onom
+ja	ぴょんぴょん		onom
+ja	ピリッと		onom
+ja	ピリピリ		onom
+ja	ぴんと		onom
+ja	ぴんぴん		onom
+ja	ピンポン		onom
+ja	ふかふか		onom
+ja	ふさふさ		onom
+ja	ふっくら		onom
+ja	ふにゃふにゃ		onom
+ja	ふらっと		onom
+ja	ふらふら		onom
+ja	ふわっと		onom
+ja	ふわふわ		onom
+ja	ふんわり		onom
+ja	ぶかぶか		onom
+ja	ぶくぶく		onom
+ja	ぶつぶつ		onom
+ja	ぶよぶよ		onom
+ja	ぶらっと		onom
+ja	ぶらぶら		onom
+ja	ぶるっと		onom
+ja	ぶるぶる		onom
+ja	ぶんぶん		onom
+ja	ブーブー		onom
+ja	ぷかぷか		onom
+ja	ぷにぷに		onom
+ja	ぷりぷり		onom
+ja	ぷるぷる		onom
+ja	ぷんぷん		onom
+ja	ヘトヘト		onom
+ja	へらへら		onom
+ja	へろへろ		onom
+ja	ベタベタ		onom
+ja	べったり		onom
+ja	べとべと		onom
+ja	べらべら		onom
+ja	べろべろ		onom
+ja	ペコペコ		onom
+ja	ぺこり		onom
+ja	ぺちゃくちゃ		onom
+ja	ぺちゃんこ		onom
+ja	ペラペラ		onom
+ja	ぺろぺろ		onom
+ja	ぺろり		onom
+ja	ホイホイ		onom
+ja	ほかほか		onom
+ja	ほくほく		onom
+ja	ほっこり		onom
+ja	ほっそり		onom
+ja	ほっと		onom
+ja	ほのぼの		onom
+ja	ほやほや		onom
+ja	ほんのり		onom
+ja	ほんわか		onom
+ja	ぼけっと		onom
+ja	ボコボコ		onom
+ja	ぼさぼさ		onom
+ja	ぼそっと		onom
+ja	ぼそぼそ		onom
+ja	ぼちぼち		onom
+ja	ボロボロ		onom
+ja	ぼんやり		onom
+ja	ぼーっと		onom
+ja	ポイっと		onom
+ja	ぽかぽか		onom
+ja	ぽかんと		onom
+ja	ぽたぽた		onom
+ja	ポチッと		onom
+ja	ぽっかり		onom
+ja	ぽっちゃり		onom
+ja	ぽっと		onom
+ja	ぽつぽつ		onom
+ja	ぽつんと		onom
+ja	ぽろぽろ		onom
+ja	ぽんと		onom
+ja	ぽんぽん		onom
+ja	まったり		onom
+ja	ムカムカ		onom
+ja	ムキムキ		onom
+ja	むしむし		onom
+ja	むずむず		onom
+ja	むっと		onom
+ja	めきめき		onom
+ja	めそめそ		onom
+ja	めらめら		onom
+ja	メロメロ		onom
+ja	もぐもぐ		onom
+ja	もこもこ		onom
+ja	もごもご		onom
+ja	もじもじ		onom
+ja	もじゃもじゃ		onom
+ja	もぞもぞ		onom
+ja	もたもた		onom
+ja	もちもち		onom
+ja	もっちり		onom
+ja	もふもふ		onom
+ja	モヤモヤ		onom
+ja	もりもり		onom
+ja	優柔不断	ゆうじゅうふだん	yoji
+ja	ゆっくり		onom
+ja	ゆったり		onom
+ja	ゆらゆら		onom
+ja	ゆるゆる		onom
+ja	よちよち		onom
+ja	よれよれ		onom
+ja	よろよろ		onom
+ja	臨機応変	りんきおうへん	yoji
+ja	ルンルン		onom
+ja	ワイワイ		onom
+ja	ワクワク		onom
+ja	わんわん		onom
+ja	きちっと		onom
+ja	きっかり		onom
+ja	しいんと		onom
+ja	すんなり		onom
+ja	ずらり		onom
+ja	そうっと		onom
+ja	だぶだぶ		onom
+ja	ぴたり		onom
+ja	ぼつぼつ		onom
+ja	まごまご		onom
+ja	じんわり		onom
+ja	ザクザク		onom
+ja	手に入れる	てにいれる	idiom
+ja	目を向ける	めをむける	idiom
+ja	気を使う	きをつかう	idiom
+ja	目から鱗	めからうろこ	idiom
+ko	가는 날이 장날	ganeun nali jangnal	proverb
+ko	가는 말이 고와야 오는 말이 곱다	ganeun mali gowaya oneun mali gobda	proverb
+ko	가닥을 잡다	gadag'eul jabda	idiom
+ko	가물가물	gamulgamul	onom
+ko	가뭄에 콩 나듯	gamum'e kong nadeus	proverb
+ko	가슴에 새기다	gaseum'e saegida	idiom
+ko	가슴이 벅차다	gaseum'i beogchada	idiom
+ko	가슴이 찢어지다	gaseum'i jjij'eojida	idiom
+ko	가슴이 철렁하다	gaseum'i cheolreonghada	idiom
+ko	가재는 게 편	gajaeneun ge pyeon	proverb
+ko	가지 많은 나무에 바람 잘 날 없다	gaji manheun namue baram jal nal eobsda	proverb
+ko	각양각색	gag'yanggagsaeg	yoji
+ko	간을 보다	gan'eul boda	idiom
+ko	간이 콩알만 해지다	gan'i kong'alman haejida	idiom
+ko	간이 크다	gan'i keuda	idiom
+ko	갈수록 태산	galsurog taesan	proverb
+ko	감투를 쓰다	gamtureul sseuda	idiom
+ko	갑론을박	gabron'eulbag	yoji
+ko	개구리 올챙이 적 생각 못 한다	gaeguri olchaeng'i jeog saenggag mos handa	proverb
+ko	개천에서 용 난다	gaecheon'eseo yong nanda	proverb
+ko	갸우뚱	gyauttung	onom
+ko	고래 싸움에 새우 등 터진다	gorae ssaum'e saeu deung teojinda	proverb
+ko	고배를 마시다	gobaereul masida	idiom
+ko	고분고분	gobungobun	onom
+ko	고비를 넘기다	gobireul neomgida	idiom
+ko	고생 끝에 낙이 온다	gosaeng kkeute nag'i onda	proverb
+ko	고양이 목에 방울 달기	goyangi moge bang'ul dalgi	proverb
+ko	고육지책	goyugjichaeg	yoji
+ko	고진감래	gojingamrae	yoji
+ko	골치가 아프다	golchiga apeuda	idiom
+ko	공든 탑이 무너지랴	gongdeun tab'i muneojirya	proverb
+ko	과유불급	gwayubulgeub	yoji
+ko	관혼상제	gwanhonsangje	yoji
+ko	구불구불	gubulgubul	onom
+ko	구사일생	gusailsaeng	yoji
+ko	국물도 없다	gugmuldo eobsda	idiom
+ko	국수를 먹다	gugsureul meogda	idiom
+ko	귀가 따갑다	gwiga ttagabda	idiom
+ko	귀가 솔깃하다	gwiga solgishada	idiom
+ko	귀가 얇다	gwiga yalbda	idiom
+ko	귀를 기울이다	gwireul giul'ida	idiom
+ko	귀에 걸면 귀걸이 코에 걸면 코걸이	gwie geolmyeon gwigeoli ko'e geolmyeon kogeol'i	proverb
+ko	귀에 못이 박히다	gwie mos'i baghida	idiom
+ko	귀에 익다	gwie igda	idiom
+ko	그 아버지에 그 아들	geu abeojie geu adeul	proverb
+ko	그렁그렁	geureonggeureong	onom
+ko	그림의 떡	geurim'ui tteog	proverb
+ko	글썽글썽	geulsseonggeulsseong	onom
+ko	금강산도 식후경	geumgangsando sighugyeong	proverb
+ko	금상첨화	geumsangcheomhwa	yoji
+ko	금시초문	geumsichomun	yoji
+ko	기가 막히다	giga maghida	idiom
+ko	기가 죽다	giga jugda	idiom
+ko	기를 쓰다	gireul sseuda	idiom
+ko	기승을 부리다	giseung'eul burida	idiom
+ko	기웃기웃	giusgius	onom
+ko	기진맥진	gijinmaegjin	yoji
+ko	김이 새다	gimi saeda	idiom
+ko	김칫국부터 마시다	gimchisgugbuteo masida	proverb
+ko	깔깔	kkalkkal	onom
+ko	깨가 쏟아지다	kkaega ssod'ajida	idiom
+ko	껄껄	kkeolkkeol	onom
+ko	꼬깃꼬깃	kkogiskkogis	onom
+ko	꼬르륵	kkoreureug	onom
+ko	꼬리가 길면 밟힌다	kkoriga gilmyeon balbhinda	proverb
+ko	꼬리를 내리다	kkorireul naerida	idiom
+ko	꼬리를 물다	kkorireul mulda	idiom
+ko	꼬불꼬불	kkobulkkobul	onom
+ko	꼬투리를 잡다	kkoturireul jabda	idiom
+ko	꼼짝	kkomjjag	onom
+ko	꽁꽁	kkongkkong	onom
+ko	꽈당	kkwadang	onom
+ko	꾸물꾸물	kkumulkkumul	onom
+ko	꾸벅꾸벅	kkubeogkkubeog	onom
+ko	꾸역꾸역	kkuyeogkkuyeog	onom
+ko	꿀꺽	kkulkkeog	onom
+ko	꿈보다 해몽	kkumboda haemong	proverb
+ko	꿈쩍	kkumjjeog	onom
+ko	꿩 대신 닭	kkwong daesin dalg	proverb
+ko	꿩 먹고 알 먹기	kkwong meoggo al meoggi	proverb
+ko	끄덕끄덕	kkeudeogkkeudeog	onom
+ko	끙끙	kkeungkkeung	onom
+ko	나풀나풀	napulnapul	onom
+ko	낙인이 찍히다	nag'in'i jjighida	idiom
+ko	날개 돋친 듯 팔리다	nalgae dodchin deus palrida	idiom
+ko	남녀노소	namnyeonoso	yoji
+ko	남의 떡이 커 보인다	nam'ui tteogi keo boinda	proverb
+ko	낫 놓고 기역 자도 모른다	nas nohgo giyeog jado moreunda	proverb
+ko	낮말은 새가 듣고 밤말은 쥐가 듣는다	najmal'eun saega deudgo bammal'eun jwiga deudneunda	proverb
+ko	낯을 가리다	nach'eul garida	idiom
+ko	낯이 익다	nach'i igda	idiom
+ko	내우외환	naeuoehwan	yoji
+ko	냠냠	nyamnyam	onom
+ko	넋이 나가다	neogs'i nagada	idiom
+ko	넌더리가 나다	neondeoriga nada	idiom
+ko	노심초사	nosimchosa	yoji
+ko	녹초가 되다	nogchoga doeda	idiom
+ko	누워서 떡 먹기	nuwoseo tteog meoggi	proverb
+ko	누워서 침 뱉기	nuwoseo chim baetgi	proverb
+ko	눈 가리고 아웅	nun garigo aung	proverb
+ko	눈 깜짝할 사이	nun kkamjjaghal sai	idiom
+ko	눈 딱 감고	nun ttag gamgo	idiom
+ko	눈 밖에 나다	nun bakke nada	idiom
+ko	눈 하나 깜짝 안 하다	nun hana kkamjjag an hada	idiom
+ko	눈앞이 캄캄하다	nun'ap'i kamkamhada	idiom
+ko	눈에 넣어도 아프지 않다	nune neoh'eodo apeuji anhda	idiom
+ko	눈에 띄다	nune ttuida	idiom
+ko	눈에 밟히다	nune balbhida	idiom
+ko	눈에 익다	nune igda	idiom
+ko	눈에는 눈 이에는 이	nun'eneun nun ieneun i	proverb
+ko	눈을 감아 주다	nuneul gam'a juda	idiom
+ko	눈을 돌리다	nuneul dolrida	idiom
+ko	눈을 붙이다	nuneul but'ida	idiom
+ko	눈이 높다	nuni nopda	idiom
+ko	눈이 멀다	nuni meolda	idiom
+ko	눈치를 보다	nunchireul boda	idiom
+ko	눈코 뜰 새 없다	nunko tteul sae eobsda	idiom
+ko	느릿느릿	neurisneuris	onom
+ko	다다익선	dadaigseon	yoji
+ko	담을 쌓다	dam'eul ssahda	idiom
+ko	대기만성	daegimanseong	yoji
+ko	대롱대롱	daerongdaerong	onom
+ko	더듬더듬	deodeumdeodeum	onom
+ko	덜덜	deoldeol	onom
+ko	덜미를 잡히다	deolmireul jabhida	idiom
+ko	덜컥	deolkeog	onom
+ko	덥석	deobseog	onom
+ko	덩그러니	deonggeureoni	onom
+ko	도란도란	dorandoran	onom
+ko	도마 위에 오르다	doma wie oreuda	idiom
+ko	도토리 키 재기	dotori ki jaegi	proverb
+ko	돈을 물 쓰듯 하다	doneul mul sseudeus hada	idiom
+ko	돌다리도 두들겨 보고 건너라	doldarido dudeulgyeo bogo geonneora	proverb
+ko	동문서답	dongmunseodab	yoji
+ko	동분서주	dongbunseoju	yoji
+ko	동상이몽	dongsang'imong	yoji
+ko	될성부른 나무는 떡잎부터 알아본다	doelseongbureun namuneun tteog'ipbuteo al'abonda	proverb
+ko	두 번 다시	du beon dasi	idiom
+ko	두근두근	dugeundugeun	onom
+ko	두리번두리번	duribeonduribeon	onom
+ko	둘째가라면 서럽다	duljjaegaramyeon seoreobda	idiom
+ko	뒤끝이 있다	dwikkeut'i issda	idiom
+ko	뒤뚱뒤뚱	dwittungdwittung	onom
+ko	뒤통수를 치다	dwitongsureul chida	idiom
+ko	뒷북을 치다	dwisbug'eul chida	idiom
+ko	뒷전으로 밀리다	dwisjeon'euro milrida	idiom
+ko	뒷짐을 지다	dwisjim'eul jida	idiom
+ko	드르렁	deureureong	onom
+ko	들썩들썩	deulsseogdeulsseog	onom
+ko	듬뿍	deumppug	onom
+ko	등을 돌리다	deungeul dolrida	idiom
+ko	등잔 밑이 어둡다	deungjan mit'i eodubda	proverb
+ko	딩동댕	dingdongdaeng	onom
+ko	땅 짚고 헤엄치기	ttang jipgo heeomchigi	proverb
+ko	땅을 치고 후회하다	ttangeul chigo huhoehada	idiom
+ko	또박또박	ttobagttobag	onom
+ko	똑 부러지다	ttog bureojida	idiom
+ko	뚝딱	ttugttag	onom
+ko	뚝뚝	ttugttug	onom
+ko	뛰는 놈 위에 나는 놈 있다	ttwineun nom wie naneun nom issda	proverb
+ko	뜨거운 감자	tteugeoun gamja	idiom
+ko	뜸을 들이다	tteum'eul deul'ida	idiom
+ko	띄엄띄엄	ttuieomttuieom	onom
+ko	마음에 들다	maeume deulda	idiom
+ko	마음을 비우다	ma'eum'eul biuda	idiom
+ko	마음이 놓이다	ma'eum'i noh'ida	idiom
+ko	마음이 무겁다	ma'eum'i mugeobda	idiom
+ko	마이동풍	maidongpung	yoji
+ko	막상막하	magsangmagha	yoji
+ko	막을 내리다	mag'eul naerida	idiom
+ko	막을 올리다	mag'eul olrida	idiom
+ko	말 놓다	mal nohda	idiom
+ko	말 한마디로 천 냥 빚을 갚는다	mal hanmadiro cheon nyang bij'eul gapneunda	proverb
+ko	말꼬리를 잡다	malkkorireul jabda	idiom
+ko	말똥말똥	malttongmalttong	onom
+ko	말문이 막히다	malmun'i maghida	idiom
+ko	말을 놓다	maleul nohda	idiom
+ko	말을 돌리다	maleul dolrida	idiom
+ko	말을 아끼다	maleul akkida	idiom
+ko	말이 씨가 된다	mali ssiga doenda	proverb
+ko	말이 통하다	mali tonghada	idiom
+ko	맞장구를 치다	maj'janggureul chida	idiom
+ko	머리를 굴리다	meorireul gulrida	idiom
+ko	머리를 맞대다	meorireul majdaeda	idiom
+ko	머리를 식히다	meorireul sighida	idiom
+ko	머리를 싸매다	meorireul ssamaeda	idiom
+ko	머뭇머뭇	meomusmeomus	onom
+ko	멀뚱멀뚱	meolttungmeolttung	onom
+ko	멈칫	meomchis	onom
+ko	면목이 없다	myeonmog'i eobsda	idiom
+ko	모 아니면 도	mo animyeon do	idiom
+ko	모락모락	moragmorag	onom
+ko	모르는 게 약	moreuneun ge yag	proverb
+ko	목소리를 높이다	mogsorireul nop'ida	idiom
+ko	목이 빠지게 기다리다	mogi ppajige gidarida	idiom
+ko	몸 둘 바를 모르다	mom dul bareul moreuda	idiom
+ko	몸을 사리다	momeul sarida	idiom
+ko	몸이 열 개라도 모자라다	momi yeol gaerado mojarada	idiom
+ko	무게가 실리다	mugega silrida	idiom
+ko	무릎을 꿇다	mureup'eul kkulhda	idiom
+ko	무릎을 치다	mureup'eul chida	idiom
+ko	무소식이 희소식	musosig'i huisosig	proverb
+ko	문전성시	munjeonseongsi	yoji
+ko	문턱이 높다	munteog'i nopda	idiom
+ko	물 건너가다	mul geonneogada	idiom
+ko	물 만난 고기	mul mannan gogi	idiom
+ko	물 쓰듯 하다	mul sseudeus hada	idiom
+ko	물거품이 되다	mulgeopum'i doeda	idiom
+ko	물꼬를 트다	mulkkoreul teuda	idiom
+ko	물끄러미	mulkkeureomi	onom
+ko	물불을 가리지 않다	mulbul'eul gariji anhda	idiom
+ko	물의를 일으키다	mul'uireul il'eukida	idiom
+ko	뭉게뭉게	munggemungge	onom
+ko	미역국을 먹다	miyeoggug'eul meogda	idiom
+ko	믿는 도끼에 발등 찍힌다	midneun dokkie baldeung jjighinda	proverb
+ko	밑져야 본전	mitjyeoya bonjeon	proverb
+ko	바가지를 긁다	bagajireul geulgda	idiom
+ko	바가지를 쓰다	bagajireul sseuda	idiom
+ko	바글바글	bageulbageul	onom
+ko	바늘방석에 앉다	baneulbangseog'e anjda	idiom
+ko	바닥을 치다	badag'eul chida	idiom
+ko	바닥이 나다	badag'i nada	idiom
+ko	바득바득	badeugbadeug	onom
+ko	바람을 맞다	baram'eul majda	idiom
+ko	바람을 쐬다	baram'eul ssoeda	idiom
+ko	바삭바삭	basagbasag	onom
+ko	바짝	bajjag	onom
+ko	박박	bagbag	onom
+ko	박수갈채	bagsugalchae	yoji
+ko	박학다식	baghagdasig	yoji
+ko	반신반의	bansinban'ui	yoji
+ko	반짝반짝	banjjagbanjjag	onom
+ko	발 디딜 틈이 없다	bal didil teum'i eobsda	idiom
+ko	발 벗고 나서다	bal beosgo naseoda	idiom
+ko	발 없는 말이 천 리 간다	bal eobsneun mali cheon ri ganda	proverb
+ko	발걸음이 무겁다	balgeol'eum'i mugeobda	idiom
+ko	발끈	balkkeun	onom
+ko	발등에 불이 떨어지다	baldeung'e buli tteol'eojida	idiom
+ko	발목을 잡다	balmog'eul jabda	idiom
+ko	발을 끊다	baleul kkeunhda	idiom
+ko	발을 동동 구르다	baleul dongdong gureuda	idiom
+ko	발을 빼다	baleul ppaeda	idiom
+ko	발이 넓다	bali neolbda	idiom
+ko	발이 묶이다	bali mukk'ida	idiom
+ko	밥 먹듯 하다	bab meogdeus hada	idiom
+ko	밥맛이 떨어지다	babmas'i tteol'eojida	idiom
+ko	방긋	banggeus	onom
+ko	배가 아프다	baega apeuda	idiom
+ko	배꼽을 잡다	baekkob'eul jabda	idiom
+ko	배보다 배꼽이 더 크다	baeboda baekkob'i deo keuda	proverb
+ko	백문이 불여일견	baegmun'i bul'yeoilgyeon	proverb
+ko	백지장도 맞들면 낫다	baegjijangdo majdeulmyeon nasda	proverb
+ko	버럭	beoreog	onom
+ko	번뜩	beontteug	onom
+ko	번쩍	beonjjeog	onom
+ko	벌떡	beoltteog	onom
+ko	벌러덩	beolreodeong	onom
+ko	벌벌	beolbeol	onom
+ko	벌컥벌컥	beolkeogbeolkeog	onom
+ko	벼는 익을수록 고개를 숙인다	byeoneun ig'eulsurog gogaereul sug'inda	proverb
+ko	병 주고 약 주다	byeong jugo yag juda	proverb
+ko	보글보글	bogeulbogeul	onom
+ko	보슬보슬	boseulboseul	onom
+ko	본전도 못 찾다	bonjeondo mos chajda	idiom
+ko	부글부글	bugeulbugeul	onom
+ko	부들부들	budeulbudeul	onom
+ko	부랴부랴	buryaburya	onom
+ko	부스럭부스럭	buseureogbuseureog	onom
+ko	부슬부슬	buseulbuseul	onom
+ko	북적북적	bugjeogbugjeog	onom
+ko	불끈	bulkkeun	onom
+ko	불난 집에 부채질하다	bulnan jibe buchaejilhada	proverb
+ko	불쑥	bulssug	onom
+ko	불에 기름을 붓다	bul'e gireum'eul busda	idiom
+ko	불을 보듯 뻔하다	buleul bodeus ppeonhada	idiom
+ko	불티나게 팔리다	bultinage palrida	idiom
+ko	비 오듯 하다	bi odeus hada	idiom
+ko	비 온 뒤에 땅이 굳어진다	bi on dwie ttangi gud'eojinda	proverb
+ko	비위를 맞추다	biwireul majchuda	idiom
+ko	비일비재	biilbijae	yoji
+ko	비쩍	bijjeog	onom
+ko	비틀비틀	biteulbiteul	onom
+ko	비행기를 태우다	bihaenggireul taeuda	idiom
+ko	빈 수레가 요란하다	bin surega yoranhada	proverb
+ko	빙그레	binggeure	onom
+ko	빙빙	bingbing	onom
+ko	빙산의 일각	bingsan'ui ilgag	idiom
+ko	빚더미에 앉다	bijdeomie anjda	idiom
+ko	빛 좋은 개살구	bich joheun gaesalgu	proverb
+ko	빵 터지다	ppang teojida	idiom
+ko	뻘뻘	ppeolppeol	onom
+ko	사각사각	sagagsagag	onom
+ko	사공이 많으면 배가 산으로 간다	sagong'i manh'eumyeon baega saneuro ganda	proverb
+ko	사르르	sareureu	onom
+ko	사면초가	samyeonchoga	yoji
+ko	사뿐사뿐	sappunsappun	onom
+ko	산 넘어 산	san neom'eo san	proverb
+ko	산들산들	sandeulsandeul	onom
+ko	산통을 깨다	santong'eul kkaeda	idiom
+ko	살금살금	salgeumsalgeum	onom
+ko	살랑살랑	salrangsalrang	onom
+ko	살살	salsal	onom
+ko	삼한사온	samhansaon	yoji
+ko	새 발의 피	sae bal'ui pi	proverb
+ko	새근새근	saegeunsaegeun	onom
+ko	새옹지마	saeongjima	yoji
+ko	생글생글	saenggeulsaenggeul	onom
+ko	서당 개 삼 년이면 풍월을 읊는다	seodang gae sam nyeon'imyeon pung'wol'eul eulpneunda	proverb
+ko	선수를 치다	seonsureul chida	idiom
+ko	선을 긋다	seon'eul geusda	idiom
+ko	선을 넘다	seon'eul neomda	idiom
+ko	선을 보다	seon'eul boda	idiom
+ko	설렁설렁	seolreongseolreong	onom
+ko	설상가상	seolsanggasang	yoji
+ko	성큼성큼	seongkeumseongkeum	onom
+ko	세 살 버릇 여든까지 간다	se sal beoreus yeodeunkkaji ganda	proverb
+ko	세상에 공짜는 없다	sesange gongjjaneun eobsda	proverb
+ko	소 잃고 외양간 고친다	so ilhgo oeyanggan gochinda	proverb
+ko	소곤소곤	sogonsogon	onom
+ko	소름 돋다	soreum dodda	idiom
+ko	소름이 끼치다	soreum'i kkichida	idiom
+ko	소름이 돋다	soreum'i dodda	idiom
+ko	속는 셈 치고	sogneun sem chigo	idiom
+ko	속수무책	sogsumuchaeg	yoji
+ko	속을 썩이다	sogeul sseog'ida	idiom
+ko	속이 상하다	sogi sanghada	idiom
+ko	속이 시원하다	sogi siwonhada	idiom
+ko	속이 타다	sogi tada	idiom
+ko	손 안 대고 코 풀기	son an daego ko pulgi	proverb
+ko	손가락질을 받다	songaragjil'eul badda	idiom
+ko	손꼽아 기다리다	sonkkob'a gidarida	idiom
+ko	손바닥 뒤집듯	sonbadag dwijibdeus	idiom
+ko	손발이 맞다	sonbal'i majda	idiom
+ko	손에 땀을 쥐다	sone ttameul jwida	idiom
+ko	손에 익다	sone igda	idiom
+ko	손에 잡히지 않다	sone jabhiji anhda	idiom
+ko	손을 들어 주다	soneul deuleo juda	idiom
+ko	손을 떼다	soneul tteda	idiom
+ko	손을 벌리다	soneul beolrida	idiom
+ko	손을 쓰다	soneul sseuda	idiom
+ko	손이 많이 가다	soni manhi gada	idiom
+ko	손이 모자라다	soni mojarada	idiom
+ko	손이 크다	soni keuda	idiom
+ko	솔솔	solsol	onom
+ko	송골송골	songgolsonggol	onom
+ko	수군수군	sugunsugun	onom
+ko	수박 겉 핥기	subag geot haltgi	proverb
+ko	수지가 맞다	sujiga majda	idiom
+ko	수포로 돌아가다	suporo dol'agada	idiom
+ko	술술	sulsul	onom
+ko	숨을 돌리다	sum'eul dolrida	idiom
+ko	숨이 막히다	sum'i maghida	idiom
+ko	스르르	seureureu	onom
+ko	슬금슬금	seulgeumseulgeum	onom
+ko	승승장구	seungseungjanggu	yoji
+ko	시간을 때우다	sigan'eul ttaeuda	idiom
+ko	시작이 반이다	sijag'i banida	proverb
+ko	시치미를 떼다	sichimireul tteda	idiom
+ko	시행착오	sihaengchag'o	yoji
+ko	식은 죽 먹기	sig'eun jug meoggi	proverb
+ko	신세를 지다	sinsereul jida	idiom
+ko	심금을 울리다	simgeum'eul ulrida	idiom
+ko	심사숙고	simsasuggo	yoji
+ko	십시일반	sibsiilban	yoji
+ko	십중팔구	sibjungpalgu	yoji
+ko	싱글벙글	singgeulbeonggeul	onom
+ko	싼 게 비지떡	ssan ge bijitteog	proverb
+ko	쌩쌩	ssaengssaeng	onom
+ko	쑥쑥	ssugssug	onom
+ko	쓴맛을 보다	sseunmas'eul boda	idiom
+ko	아는 것이 힘이다	aneun geosi him'ida	proverb
+ko	아니 땐 굴뚝에 연기 날까	ani ttaen gulttug'e yeongi nalkka	proverb
+ko	아등바등	adeungbadeung	onom
+ko	아삭아삭	asag'asag	onom
+ko	아옹다옹	aongdaong	onom
+ko	아장아장	ajang'ajang	onom
+ko	안절부절	anjeolbujeol	onom
+ko	안하무인	anhamuin	yoji
+ko	알록달록	alrogdalrog	onom
+ko	알콩달콩	alkongdalkong	onom
+ko	앓던 이가 빠진 것 같다	alhdeon iga ppajin geos gatda	idiom
+ko	애가 타다	aega tada	idiom
+ko	애를 먹다	aereul meogda	idiom
+ko	애를 쓰다	aereul sseuda	idiom
+ko	애매모호	aemaemoho	yoji
+ko	애지중지	aejijungji	yoji
+ko	어깨가 무겁다	eokkaega mugeobda	idiom
+ko	어깨를 나란히 하다	eokkaereul naranhi hada	idiom
+ko	어부지리	eobujiri	yoji
+ko	어슬렁어슬렁	eoseulreong'eoseulreong	onom
+ko	어영부영	eoyeongbuyeong	onom
+ko	어이가 없다	eoiga eobsda	idiom
+ko	어처구니가 없다	eocheoguniga eobsda	idiom
+ko	얼굴에 먹칠을 하다	eolgul'e meogchil'eul hada	idiom
+ko	얼굴을 내밀다	eolgul'eul naemilda	idiom
+ko	얼굴을 들 수 없다	eolgul'eul deul su eobsda	idiom
+ko	얼굴이 두껍다	eolgul'i dukkeobda	idiom
+ko	얼룩덜룩	eolrugdeolrug	onom
+ko	엉거주춤	eonggeojuchum	onom
+ko	엉금엉금	eonggeum'eonggeum	onom
+ko	엉엉	eong'eong	onom
+ko	엎어지면 코 닿을 데	eop'eojimyeon ko dah'eul de	idiom
+ko	엎질러진 물	eopjilreojin mul	proverb
+ko	엎친 데 덮친 격	eopchin de deopchin gyeog	proverb
+ko	역지사지	yeogjisaji	yoji
+ko	열 번 찍어 안 넘어가는 나무 없다	yeol beon jjigeo an neom'eoganeun namu eobsda	proverb
+ko	열을 받다	yeol'eul badda	idiom
+ko	열을 올리다	yeol'eul olrida	idiom
+ko	오들오들	odeul'odeul	onom
+ko	오리무중	orimujung	yoji
+ko	오리발을 내밀다	oribal'eul naemilda	idiom
+ko	오물오물	omul'omul	onom
+ko	오순도순	osundosun	onom
+ko	오십보백보	osibbobaegbo	yoji
+ko	옥신각신	ogsingagsin	onom
+ko	온고지신	ongojisin	yoji
+ko	옴짝달싹	omjjagdalssag	onom
+ko	옹기종기	onggijonggi	onom
+ko	와글와글	wageul'wageul	onom
+ko	와락	warag	onom
+ko	와르르	wareureu	onom
+ko	와장창	wajangchang	onom
+ko	왈칵	walkag	onom
+ko	용두사미	yongdusami	yoji
+ko	우두커니	udukeoni	onom
+ko	우르르	ureureu	onom
+ko	우물 안 개구리	umul an gaeguri	proverb
+ko	우물쭈물	umuljjumul	onom
+ko	우여곡절	uyeogogjeol	yoji
+ko	우왕좌왕	uwangjwawang	yoji
+ko	우유부단	uyubudan	yoji
+ko	우후죽순	uhujugsun	yoji
+ko	욱신욱신	ugsin'ugsin	onom
+ko	울긋불긋	ulgeusbulgeus	onom
+ko	울렁울렁	ulreong'ulreong	onom
+ko	울며 겨자 먹기	ulmyeo gyeoja meoggi	proverb
+ko	울컥	ulkeog	onom
+ko	움찔	umjjil	onom
+ko	웃는 얼굴에 침 못 뱉는다	usneun eolgul'e chim mos baetneunda	proverb
+ko	웅성웅성	ungseong'ungseong	onom
+ko	원숭이도 나무에서 떨어진다	wonsung'ido namueseo tteol'eojinda	proverb
+ko	윙윙	wing'wing	onom
+ko	유명무실	yumyeongmusil	yoji
+ko	유비무환	yubimuhwan	yoji
+ko	유유상종	yuyusangjong	yoji
+ko	으슬으슬	euseul'euseul	onom
+ko	으쓱	eusseug	onom
+ko	이구동성	igudongseong	yoji
+ko	이글이글	igeul'igeul	onom
+ko	이를 갈다	ireul galda	idiom
+ko	이를 악물다	ireul agmulda	idiom
+ko	이름을 날리다	ireum'eul nalrida	idiom
+ko	이만저만이 아니다	imanjeoman'i anida	idiom
+ko	이심전심	isimjeonsim	yoji
+ko	이열치열	iyeolchiyeol	yoji
+ko	인과응보	ingwa'eungbo	yoji
+ko	일사천리	ilsacheonri	yoji
+ko	일석이조	ilseog'ijo	yoji
+ko	일장일단	iljang'ildan	yoji
+ko	일취월장	ilchwiwoljang	yoji
+ko	임기응변	imgieungbyeon	yoji
+ko	입만 살다	ibman salda	idiom
+ko	입에 달고 살다	ibe dalgo salda	idiom
+ko	입에 침이 마르도록 칭찬하다	ibe chim'i mareudorog chingchanhada	idiom
+ko	입을 모으다	ibeul mo'euda	idiom
+ko	입이 가볍다	ibi gabyeobda	idiom
+ko	입이 귀에 걸리다	ibi gwie geolrida	idiom
+ko	입이 떡 벌어지다	ibi tteog beol'eojida	idiom
+ko	입이 무겁다	ibi mugeobda	idiom
+ko	입이 짧다	ibi jjalbda	idiom
+ko	자수성가	jasuseongga	yoji
+ko	자업자득	ja'eobjadeug	yoji
+ko	자초지종	jachojijong	yoji
+ko	자화자찬	jahwajachan	yoji
+ko	작심삼일	jagsimsam'il	yoji
+ko	작은 고추가 맵다	jageun gochuga maebda	proverb
+ko	장단을 맞추다	jangdan'eul majchuda	idiom
+ko	재잘재잘	jaejaljaejal	onom
+ko	적반하장	jeogbanhajang	yoji
+ko	전무후무	jeonmuhumu	yoji
+ko	전화위복	jeonhwawibog	yoji
+ko	정신을 차리다	jeongsin'eul charida	idiom
+ko	제 눈에 안경	je nune angyeong	proverb
+ko	제동을 걸다	jedong'eul geolda	idiom
+ko	조삼모사	josammosa	yoji
+ko	졸졸	joljol	onom
+ko	좋은 게 좋은 거다	joheun ge joheun geoda	proverb
+ko	주객전도	jugaegjeondo	yoji
+ko	주경야독	jugyeong'yadog	yoji
+ko	주렁주렁	jureongjureong	onom
+ko	주룩주룩	jurugjurug	onom
+ko	주르륵	jureureug	onom
+ko	주섬주섬	juseomjuseom	onom
+ko	주절주절	jujeoljujeol	onom
+ko	주춤	juchum	onom
+ko	죽마고우	jugmagou	yoji
+ko	죽이 되든 밥이 되든	jug'i doedeun babi doedeun	idiom
+ko	줄줄	juljul	onom
+ko	중얼중얼	jung'eoljung'eol	onom
+ko	쥐가 나다	jwiga nada	idiom
+ko	쥐구멍에라도 들어가고 싶다	jwigumeong'erado deul'eogago sipda	idiom
+ko	쥐도 새도 모르게	jwido saedo moreuge	idiom
+ko	지글지글	jigeuljigeul	onom
+ko	지끈지끈	jikkeunjikkeun	onom
+ko	지렁이도 밟으면 꿈틀한다	jireong'ido balb'eumyeon kkumteulhanda	proverb
+ko	진땀을 빼다	jinttam'eul ppaeda	idiom
+ko	진이 빠지다	jin'i ppajida	idiom
+ko	진저리가 나다	jinjeoriga nada	idiom
+ko	진통을 겪다	jintong'eul gyeokkda	idiom
+ko	진퇴양난	jintoeyangnan	yoji
+ko	질끈	jilkkeun	onom
+ko	짚고 넘어가다	jipgo neom'eogada	idiom
+ko	짚신도 짝이 있다	jipsindo jjag'i issda	proverb
+ko	쨍그랑	jjaenggeurang	onom
+ko	쨍쨍	jjaengjjaeng	onom
+ko	쩝쩝	jjeobjjeob	onom
+ko	쫄깃쫄깃	jjolgisjjolgis	onom
+ko	쫑긋	jjonggeus	onom
+ko	쭈뼛쭈뼛	jjuppyeosjjuppyeos	onom
+ko	찔끔	jjilkkeum	onom
+ko	차곡차곡	chagogchagog	onom
+ko	찬물을 끼얹다	chanmul'eul kkieonjda	idiom
+ko	찬밥 신세	chanbab sinse	idiom
+ko	척척	cheogcheog	onom
+ko	천 리 길도 한 걸음부터	cheon ri gildo han geol'eumbuteo	proverb
+ko	천고마비	cheongomabi	yoji
+ko	천생연분	cheonsaeng'yeonbun	yoji
+ko	천재지변	cheonjaejibyeon	yoji
+ko	천차만별	cheonchamanbyeol	yoji
+ko	철렁	cheolreong	onom
+ko	첩첩산중	cheobcheobsanjung	yoji
+ko	첫 단추를 잘못 끼우다	cheos danchureul jalmos kkiuda	idiom
+ko	첫발을 내딛다	cheosbal'eul naedidda	idiom
+ko	첫술에 배부르랴	cheos'sul'e baebureurya	proverb
+ko	청천벽력	cheongcheonbyeogryeog	yoji
+ko	청출어람	cheongchul'eoram	yoji
+ko	체면을 차리다	chemyeon'eul charida	idiom
+ko	초롱초롱	chorongchorong	onom
+ko	초읽기에 들어가다	choilggie deul'eogada	idiom
+ko	촉각을 곤두세우다	choggag'eul gonduse'uda	idiom
+ko	춘하추동	chunhachudong	yoji
+ko	출렁출렁	chulreongchulreong	onom
+ko	칠전팔기	chiljeonpalgi	yoji
+ko	칠칠맞지 못하다	chilchilmaj'ji moshada	idiom
+ko	칼로 물 베기	kalro mul begi	idiom
+ko	코가 납작해지다	koga nabjaghaejida	idiom
+ko	코앞에 닥치다	koap'e dagchida	idiom
+ko	콕콕	kogkog	onom
+ko	콜록콜록	kolrogkolrog	onom
+ko	콧대가 높다	kosdaega nopda	idiom
+ko	콩 심은 데 콩 나고 팥 심은 데 팥 난다	kong sim'eun de kong nago pat sim'eun de pat nanda	proverb
+ko	콩닥콩닥	kongdagkongdag	onom
+ko	콸콸	kwalkwal	onom
+ko	쿨쿨	kulkul	onom
+ko	큰소리를 치다	keunsorireul chida	idiom
+ko	키득키득	kideugkideug	onom
+ko	킥킥	kigkig	onom
+ko	탁상공론	tagsanggongron	yoji
+ko	탄력을 받다	tanryeog'eul badda	idiom
+ko	탈탈	taltal	onom
+ko	터벅터벅	teobeogteobeog	onom
+ko	털썩	teolsseog	onom
+ko	토닥토닥	todagtodag	onom
+ko	톡톡	togtog	onom
+ko	투덜투덜	tudeoltudeol	onom
+ko	툭툭	tugtug	onom
+ko	트집을 잡다	teujib'eul jabda	idiom
+ko	티격태격	tigyeogtaegyeog	onom
+ko	티끌 모아 태산	tikkeul moa taesan	proverb
+ko	파김치가 되다	pagimchiga doeda	idiom
+ko	파란만장	paranmanjang	yoji
+ko	파리를 날리다	parireul nalrida	idiom
+ko	판을 치다	pan'eul chida	idiom
+ko	팔방미인	palbangmiin	yoji
+ko	퍼뜩	peotteug	onom
+ko	펄럭펄럭	peolreogpeolreog	onom
+ko	펄펄	peolpeol	onom
+ko	펑펑	peongpeong	onom
+ko	폐를 끼치다	pyereul kkichida	idiom
+ko	폭풍전야	pogpungjeon'ya	yoji
+ko	피가 마르다	piga mareuda	idiom
+ko	피는 물보다 진하다	pineun mulboda jinhada	proverb
+ko	피땀을 흘리다	pittam'eul heulrida	idiom
+ko	피를 말리다	pireul malrida	idiom
+ko	피부로 느끼다	piburo neukkida	idiom
+ko	피식	pisig	onom
+ko	필름이 끊기다	pilreum'i kkeunhgida	idiom
+ko	하나부터 열까지	hanabuteo yeolkkaji	idiom
+ko	하늘 높은 줄 모르다	haneul nopeun jul moreuda	idiom
+ko	하늘을 찌르다	haneul'eul jjireuda	idiom
+ko	하늘의 별 따기	haneul'ui byeol ttagi	idiom
+ko	하늘이 무너져도 솟아날 구멍이 있다	haneul'i muneojyeodo sos'anal gumeong'i issda	proverb
+ko	하늘하늘	haneulhaneul	onom
+ko	하루가 멀다 하고	haruga meolda hago	idiom
+ko	하룻강아지 범 무서운 줄 모른다	harusgang'aji beom museoun jul moreunda	proverb
+ko	하하	haha	onom
+ko	학수고대	hagsugodae	yoji
+ko	한 귀로 듣고 한 귀로 흘리다	han gwiro deudgo han gwiro heulrida	idiom
+ko	한 배를 타다	han baereul tada	idiom
+ko	한 우물을 파다	han umul'eul pada	idiom
+ko	한 치 앞도 모르다	han chi apdo moreuda	idiom
+ko	한 획을 긋다	han hoeg'eul geusda	idiom
+ko	한눈을 팔다	hannun'eul palda	idiom
+ko	한술 더 뜨다	hansul deo tteuda	idiom
+ko	한숨 돌리다	hansum dolrida	idiom
+ko	한풀 꺾이다	hanpul kkeokk'ida	idiom
+ko	허겁지겁	heogeobjigeob	onom
+ko	허둥지둥	heodungjidung	onom
+ko	허리띠를 졸라매다	heorittireul jolramaeda	idiom
+ko	허심탄회	heosimtanhoe	yoji
+ko	허탕을 치다	heotang'eul chida	idiom
+ko	헉헉	heogheog	onom
+ko	헐레벌떡	heolrebeoltteog	onom
+ko	헤헤	hehe	onom
+ko	혀를 내두르다	hyeoreul naedureuda	idiom
+ko	혀를 차다	hyeoreul chada	idiom
+ko	형설지공	hyeongseoljigong	yoji
+ko	호랑이도 제 말 하면 온다	horang'ido je mal hamyeon onda	proverb
+ko	호박이 넝쿨째 굴러들어오다	hobag'i neongkuljjae gulreodeul'eooda	proverb
+ko	홀딱	holttag	onom
+ko	홀짝홀짝	holjjagholjjag	onom
+ko	화들짝	hwadeuljjag	onom
+ko	활짝	hwaljjag	onom
+ko	활활	hwalhwal	onom
+ko	횡설수설	hoengseolsuseol	yoji
+ko	후다닥	hudadag	onom
+ko	후덜덜	hudeoldeol	onom
+ko	후드득	hudeudeug	onom
+ko	후딱	huttag	onom
+ko	후루룩	hururug	onom
+ko	훌쩍	huljjeog	onom
+ko	훌쩍훌쩍	huljjeoghuljjeog	onom
+ko	훨훨	hwolhwol	onom
+ko	휘청휘청	hwicheonghwicheong	onom
+ko	흐지부지	heujibuji	onom
+ko	흑흑	heugheug	onom
+ko	흔들흔들	heundeulheundeul	onom
+ko	흠뻑	heumppeog	onom
+ko	흠칫	heumchis	onom
+ko	흥망성쇠	heungmangseongsoe	yoji
+ko	희로애락	huiroaerag	yoji
+ko	히죽히죽	hijughijug	onom
+ko	히히	hihi	onom
+ko	힐끗	hilkkeus	onom
+ko	바람을 피우다	baram'eul piuda	idiom
+ko	잠수를 타다	jamsureul tada	idiom
+ko	정이 떨어지다	jeongi tteol'eojida	idiom
+ko	정이 가다	jeongi gada	idiom
+ko	눈이 맞다	nuni majda	idiom
+ko	콩깍지가 씌다	kongkkagjiga ssuida	idiom
+ko	속이 터지다	sogi teojida	idiom
+ko	손발이 오그라들다	sonbal'i ogeuradeulda	idiom
+ko	일편단심	ilpyeondansim	yoji
+ko	꿀 떨어지다	kkul tteol'eojida	idiom
+ko	똑똑	ttogttog	onom
+ko	웅얼웅얼	ung'eol'ung'eol	onom
+ko	텅텅	teongteong	onom
+ko	질질	jiljil	onom
+ko	꼭꼭	kkogkkog	onom
+ko	야옹	yaong	onom
+ko	힐끔힐끔	hilkkeumhilkkeum	onom
+ko	오도카니	odokani	onom
+ko	싹둑	ssagdug	onom
+ko	뒤룩뒤룩	dwirugdwirug	onom
+ko	팍팍	pagpag	onom
+ko	근질근질	geunjilgeunjil	onom
+ko	에취	echwi	onom
+ja	他人行儀	たにんぎょうぎ	yoji
+ja	器用貧乏	きようびんぼう	yoji
+ja	敷居が高い	しきいがたかい	idiom
+ja	宙に浮く	ちゅうにうく	idiom
+ja	正々堂々	せいせいどうどう	yoji
+ja	一石二鳥	いっせきにちょう	yoji
+ja	自業自得	じごうじとく	yoji
+ja	一期一会	いちごいちえ	yoji
+ja	試行錯誤	しこうさくご	yoji
+ja	以心伝心	いしんでんしん	yoji
+ja	十人十色	じゅうにんといろ	yoji
+ja	絶体絶命	ぜったいぜつめい	yoji
+ja	一進一退	いっしんいったい	yoji
+ja	半信半疑	はんしんはんぎ	yoji
+ja	自作自演	じさくじえん	yoji
+ja	一喜一憂	いっきいちゆう	yoji
+ja	一長一短	いっちょういったん	yoji
+ja	大器晩成	たいきばんせい	yoji
+ja	自画自賛	じがじさん	yoji
+ja	起承転結	きしょうてんけつ	yoji
+ja	単刀直入	たんとうちょくにゅう	yoji
+ja	異口同音	いくどうおん	yoji
+ja	取捨選択	しゅしゃせんたく	yoji
+ja	時期尚早	じきしょうそう	yoji
+ja	心機一転	しんきいってん	yoji
+ja	一目瞭然	いちもくりょうぜん	yoji
+ja	本末転倒	ほんまつてんとう	yoji
+ja	前代未聞	ぜんだいみもん	yoji
+ja	四苦八苦	しくはっく	yoji
+ja	三日坊主	みっかぼうず	yoji
+ja	八方美人	はっぽうびじん	yoji
+ja	因果応報	いんがおうほう	yoji
+ja	弱肉強食	じゃくにくきょうしょく	yoji
+ja	適材適所	てきざいてきしょ	yoji
+ja	有言実行	ゆうげんじっこう	yoji
+ja	不言実行	ふげんじっこう	yoji
+ja	一心不乱	いっしんふらん	yoji
+ja	無我夢中	むがむちゅう	yoji
+ja	危機一髪	ききいっぱつ	yoji
+ja	言語道断	ごんごどうだん	yoji
+ja	油断大敵	ゆだんたいてき	yoji
+ja	温故知新	おんこちしん	yoji
+ja	一致団結	いっちだんけつ	yoji
+ja	一部始終	いちぶしじゅう	yoji
+ja	興味津々	きょうみしんしん	yoji
+ja	一件落着	いっけんらくちゃく	yoji
+ja	右往左往	うおうさおう	yoji
+ja	四六時中	しろくじちゅう	yoji
+ja	二人三脚	ににんさんきゃく	yoji
+ja	二者択一	にしゃたくいつ	yoji
+ja	十中八九	じっちゅうはっく	yoji
+ja	七転八倒	しちてんばっとう	yoji
+ja	七転八起	しちてんはっき	yoji
+ja	電光石火	でんこうせっか	yoji
+ja	一網打尽	いちもうだじん	yoji
+ja	一触即発	いっしょくそくはつ	yoji
+ja	完全無欠	かんぜんむけつ	yoji
+ja	二束三文	にそくさんもん	yoji
+ja	用意周到	よういしゅうとう	yoji
+ja	大胆不敵	だいたんふてき	yoji
+ja	五里霧中	ごりむちゅう	yoji
+ja	暗中模索	あんちゅうもさく	yoji
+ja	疑心暗鬼	ぎしんあんき	yoji
+ja	起死回生	きしかいせい	yoji
+ja	空前絶後	くうぜんぜつご	yoji
+ja	千載一遇	せんざいいちぐう	yoji
+ja	唯一無二	ゆいいつむに	yoji
+ja	天真爛漫	てんしんらんまん	yoji
+ja	自由自在	じゆうじざい	yoji
+ja	自由奔放	じゆうほんぽう	yoji
+ja	自給自足	じきゅうじそく	yoji
+ja	自問自答	じもんじとう	yoji
+ja	自暴自棄	じぼうじき	yoji
+ja	支離滅裂	しりめつれつ	yoji
+ja	意気投合	いきとうごう	yoji
+ja	意気消沈	いきしょうちん	yoji
+ja	意気揚々	いきようよう	yoji
+ja	悪戦苦闘	あくせんくとう	yoji
+ja	一刀両断	いっとうりょうだん	yoji
+ja	一挙両得	いっきょりょうとく	yoji
+ja	一朝一夕	いっちょういっせき	yoji
+ja	一騎当千	いっきとうせん	yoji
+ja	一攫千金	いっかくせんきん	yoji
+ja	一念発起	いちねんほっき	yoji
+ja	一心同体	いっしんどうたい	yoji
+ja	一言一句	いちごんいっく	yoji
+ja	一挙一動	いっきょいちどう	yoji
+ja	一世一代	いっせいちだい	yoji
+ja	一日千秋	いちじつせんしゅう	yoji
+ja	一蓮托生	いちれんたくしょう	yoji
+ja	一切合切	いっさいがっさい	yoji
+ja	他力本願	たりきほんがん	yoji
+ja	有耶無耶	うやむや	yoji
+ja	依怙贔屓	えこひいき	yoji
+ja	公私混同	こうしこんどう	yoji
+ja	責任転嫁	せきにんてんか	yoji
+ja	事実無根	じじつむこん	yoji
+ja	情状酌量	じょうじょうしゃくりょう	yoji
+ja	正真正銘	しょうしんしょうめい	yoji
+ja	誠心誠意	せいしんせいい	yoji
+ja	全身全霊	ぜんしんぜんれい	yoji
+ja	多種多様	たしゅたよう	yoji
+ja	千差万別	せんさばんべつ	yoji
+ja	三者三様	さんしゃさんよう	yoji
+ja	老若男女	ろうにゃくなんにょ	yoji
+ja	古今東西	ここんとうざい	yoji
+ja	津々浦々	つつうらうら	yoji
+ja	二転三転	にてんさんてん	yoji
+ja	紆余曲折	うよきょくせつ	yoji
+ja	波瀾万丈	はらんばんじょう	yoji
+ja	順風満帆	じゅんぷうまんぱん	yoji
+ja	急転直下	きゅうてんちょっか	yoji
+ja	前途多難	ぜんとたなん	yoji
+ja	前途洋々	ぜんとようよう	yoji
+ja	前人未到	ぜんじんみとう	yoji
+ja	日進月歩	にっしんげっぽ	yoji
+ja	新陳代謝	しんちんたいしゃ	yoji
+ja	旧態依然	きゅうたいいぜん	yoji
+ja	時代錯誤	じだいさくご	yoji
+ja	公明正大	こうめいせいだい	yoji
+ja	大義名分	たいぎめいぶん	yoji
+ja	大同小異	だいどうしょうい	yoji
+ja	大言壮語	たいげんそうご	yoji
+ja	針小棒大	しんしょうぼうだい	yoji
+ja	付和雷同	ふわらいどう	yoji
+ja	呉越同舟	ごえつどうしゅう	yoji
+ja	四面楚歌	しめんそか	yoji
+ja	朝三暮四	ちょうさんぼし	yoji
+ja	朝令暮改	ちょうれいぼかい	yoji
+ja	傍若無人	ぼうじゃくぶじん	yoji
+ja	厚顔無恥	こうがんむち	yoji
+ja	慇懃無礼	いんぎんぶれい	yoji
+ja	才色兼備	さいしょくけんび	yoji
+ja	容姿端麗	ようしたんれい	yoji
+ja	眉目秀麗	びもくしゅうれい	yoji
+ja	頭脳明晰	ずのうめいせき	yoji
+ja	文武両道	ぶんぶりょうどう	yoji
+ja	博学多才	はくがくたさい	yoji
+ja	品行方正	ひんこうほうせい	yoji
+ja	清廉潔白	せいれんけっぱく	yoji
+ja	質実剛健	しつじつごうけん	yoji
+ja	純真無垢	じゅんしんむく	yoji
+ja	冷静沈着	れいせいちんちゃく	yoji
+ja	即断即決	そくだんそっけつ	yoji
+ja	猪突猛進	ちょとつもうしん	yoji
+ja	勇猛果敢	ゆうもうかかん	yoji
+ja	獅子奮迅	ししふんじん	yoji
+ja	孤軍奮闘	こぐんふんとう	yoji
+ja	粉骨砕身	ふんこつさいしん	yoji
+ja	切磋琢磨	せっさたくま	yoji
+ja	臥薪嘗胆	がしんしょうたん	yoji
+ja	初志貫徹	しょしかんてつ	yoji
+ja	首尾一貫	しゅびいっかん	yoji
+ja	終始一貫	しゅうしいっかん	yoji
+ja	不撓不屈	ふとうふくつ	yoji
+ja	不眠不休	ふみんふきゅう	yoji
+ja	不老不死	ふろうふし	yoji
+ja	不可抗力	ふかこうりょく	yoji
+ja	不平不満	ふへいふまん	yoji
+ja	不倶戴天	ふぐたいてん	yoji
+ja	不承不承	ふしょうぶしょう	yoji
+ja	不得要領	ふとくようりょう	yoji
+ja	意味深長	いみしんちょう	yoji
+ja	意志薄弱	いしはくじゃく	yoji
+ja	虚心坦懐	きょしんたんかい	yoji
+ja	明鏡止水	めいきょうしすい	yoji
+ja	泰然自若	たいぜんじじゃく	yoji
+ja	茫然自失	ぼうぜんじしつ	yoji
+ja	平身低頭	へいしんていとう	yoji
+ja	平穏無事	へいおんぶじ	yoji
+ja	無病息災	むびょうそくさい	yoji
+ja	家内安全	かないあんぜん	yoji
+ja	商売繁盛	しょうばいはんじょう	yoji
+ja	千客万来	せんきゃくばんらい	yoji
+ja	大安吉日	たいあんきちじつ	yoji
+ja	冠婚葬祭	かんこんそうさい	yoji
+ja	良妻賢母	りょうさいけんぼ	yoji
+ja	亭主関白	ていしゅかんぱく	yoji
+ja	相思相愛	そうしそうあい	yoji
+ja	美辞麗句	びじれいく	yoji
+ja	巧言令色	こうげんれいしょく	yoji
+ja	三位一体	さんみいったい	yoji
+ja	三寒四温	さんかんしおん	yoji
+ja	四方八方	しほうはっぽう	yoji
+ja	五臓六腑	ごぞうろっぷ	yoji
+ja	百発百中	ひゃっぱつひゃくちゅう	yoji
+ja	百戦錬磨	ひゃくせんれんま	yoji
+ja	百花繚乱	ひゃっかりょうらん	yoji
+ja	千変万化	せんぺんばんか	yoji
+ja	奇想天外	きそうてんがい	yoji
+ja	天変地異	てんぺんちい	yoji
+ja	驚天動地	きょうてんどうち	yoji
+ja	喜色満面	きしょくまんめん	yoji
+ja	得意満面	とくいまんめん	yoji
+ja	破顔一笑	はがんいっしょう	yoji
+ja	抱腹絶倒	ほうふくぜっとう	yoji
+ja	拍手喝采	はくしゅかっさい	yoji
+ja	狂喜乱舞	きょうきらんぶ	yoji
+ja	感慨無量	かんがいむりょう	yoji
+ja	悲喜交々	ひきこもごも	yoji
+ja	青息吐息	あおいきといき	yoji
+ja	艱難辛苦	かんなんしんく	yoji
+ja	苦心惨憺	くしんさんたん	yoji
+ja	満身創痍	まんしんそうい	yoji
+ja	半死半生	はんしはんしょう	yoji
+ja	再起不能	さいきふのう	yoji
+ja	捲土重来	けんどちょうらい	yoji
+ja	戦々恐々	せんせんきょうきょう	yoji
+ja	周章狼狽	しゅうしょうろうばい	yoji
+ja	小心翼々	しょうしんよくよく	yoji
+ja	余裕綽々	よゆうしゃくしゃく	yoji
+ja	虎視眈々	こしたんたん	yoji
+ja	威風堂々	いふうどうどう	yoji
+ja	疾風怒濤	しっぷうどとう	yoji
+ja	疾風迅雷	しっぷうじんらい	yoji
+ja	風林火山	ふうりんかざん	yoji
+ja	神出鬼没	しんしゅつきぼつ	yoji
+ja	虚々実々	きょきょじつじつ	yoji
+ja	極悪非道	ごくあくひどう	yoji
+ja	天罰覿面	てんばつてきめん	yoji
+ja	百鬼夜行	ひゃっきやこう	yoji
+ja	魑魅魍魎	ちみもうりょう	yoji
+ja	阿鼻叫喚	あびきょうかん	yoji
+ja	諸行無常	しょぎょうむじょう	yoji
+ja	盛者必衰	じょうしゃひっすい	yoji
+ja	栄枯盛衰	えいこせいすい	yoji
+ja	輪廻転生	りんねてんせい	yoji
+ja	会者定離	えしゃじょうり	yoji
+ja	生老病死	しょうろうびょうし	yoji
+ja	森羅万象	しんらばんしょう	yoji
+ja	花鳥風月	かちょうふうげつ	yoji
+ja	山紫水明	さんしすいめい	yoji
+ja	風光明媚	ふうこうめいび	yoji
+ja	豪華絢爛	ごうかけんらん	yoji
+ja	古色蒼然	こしょくそうぜん	yoji
+ja	勧善懲悪	かんぜんちょうあく	yoji
+ja	信賞必罰	しんしょうひつばつ	yoji
+ja	一罰百戒	いちばつひゃっかい	yoji
+ja	無罪放免	むざいほうめん	yoji
+ja	公序良俗	こうじょりょうぞく	yoji
+ja	満場一致	まんじょういっち	yoji
+ja	衆人環視	しゅうじんかんし	yoji
+ja	開口一番	かいこういちばん	yoji
+ja	問答無用	もんどうむよう	yoji
+ja	門外不出	もんがいふしゅつ	yoji
+ja	他言無用	たごんむよう	yoji
+ja	天地無用	てんちむよう	yoji
+ja	真剣勝負	しんけんしょうぶ	yoji
+ja	先手必勝	せんてひっしょう	yoji
+ja	一気呵成	いっきかせい	yoji
+ja	全力投球	ぜんりょくとうきゅう	yoji
+ja	少数精鋭	しょうすうせいえい	yoji
+ja	新進気鋭	しんしんきえい	yoji
+ja	前途有望	ぜんとゆうぼう	yoji
+ja	猿も木から落ちる	さるもきからおちる	proverb
+ja	急がば回れ	いそがばまわれ	proverb
+ja	花より団子	はなよりだんご	proverb
+ja	石の上にも三年	いしのうえにもさんねん	proverb
+ja	七転び八起き	ななころびやおき	proverb
+ja	塵も積もれば山となる	ちりもつもればやまとなる	proverb
+ja	百聞は一見にしかず	ひゃくぶんはいっけんにしかず	proverb
+ja	早起きは三文の徳	はやおきはさんもんのとく	proverb
+ja	三人寄れば文殊の知恵	さんにんよればもんじゅのちえ	proverb
+ja	二兎を追う者は一兎をも得ず	にとをおうものはいっとをもえず	proverb
+ja	猫に小判	ねこにこばん	proverb
+ja	豚に真珠	ぶたにしんじゅ	proverb
+ja	馬の耳に念仏	うまのみみにねんぶつ	proverb
+ja	弘法も筆の誤り	こうぼうもふでのあやまり	proverb
+ja	河童の川流れ	かっぱのかわながれ	proverb
+ja	犬も歩けば棒に当たる	いぬもあるけばぼうにあたる	proverb
+ja	雨降って地固まる	あめふってじかたまる	proverb
+ja	案ずるより産むが易し	あんずるよりうむがやすし	proverb
+ja	失敗は成功のもと	しっぱいはせいこうのもと	proverb
+ja	時は金なり	ときはかねなり	proverb
+ja	知らぬが仏	しらぬがほとけ	proverb
+ja	備えあれば憂いなし	そなえあればうれいなし	proverb
+ja	笑う門には福来る	わらうかどにはふくきたる	proverb
+ja	嘘も方便	うそもほうべん	proverb
+ja	井の中の蛙大海を知らず	いのなかのかわずたいかいをしらず	proverb
+ja	類は友を呼ぶ	るいはともをよぶ	proverb
+ja	朱に交われば赤くなる	しゅにまじわればあかくなる	proverb
+ja	好きこそ物の上手なれ	すきこそもののじょうずなれ	proverb
+ja	習うより慣れろ	ならうよりなれろ	proverb
+ja	継続は力なり	けいぞくはちからなり	proverb
+ja	千里の道も一歩から	せんりのみちもいっぽから	proverb
+ja	能ある鷹は爪を隠す	のうあるたかはつめをかくす	proverb
+ja	出る杭は打たれる	でるくいはうたれる	proverb
+ja	口は災いの元	くちはわざわいのもと	proverb
+ja	沈黙は金	ちんもくはきん	proverb
+ja	郷に入っては郷に従え	ごうにいってはごうにしたがえ	proverb
+ja	後悔先に立たず	こうかいさきにたたず	proverb
+ja	覆水盆に返らず	ふくすいぼんにかえらず	proverb
+ja	転ばぬ先の杖	ころばぬさきのつえ	proverb
+ja	石橋を叩いて渡る	いしばしをたたいてわたる	proverb
+ja	灯台下暗し	とうだいもとくらし	proverb
+ja	棚からぼた餅	たなからぼたもち	proverb
+ja	泣き面に蜂	なきつらにはち	proverb
+ja	弱り目に祟り目	よわりめにたたりめ	proverb
+ja	踏んだり蹴ったり	ふんだりけったり	idiom
+ja	二度あることは三度ある	にどあることはさんどある	proverb
+ja	三度目の正直	さんどめのしょうじき	proverb
+ja	仏の顔も三度まで	ほとけのかおもさんどまで	proverb
+ja	人の噂も七十五日	ひとのうわさもしちじゅうごにち	proverb
+ja	噂をすれば影がさす	うわさをすればかげがさす	proverb
+ja	鬼に金棒	おににかなぼう	proverb
+ja	鬼の居ぬ間に洗濯	おにのいぬまにせんたく	proverb
+ja	鬼の目にも涙	おにのめにもなみだ	proverb
+ja	蛙の子は蛙	かえるのこはかえる	proverb
+ja	親の心子知らず	おやのこころこしらず	proverb
+ja	可愛い子には旅をさせよ	かわいいこにはたびをさせよ	proverb
+ja	三つ子の魂百まで	みつごのたましいひゃくまで	proverb
+ja	鉄は熱いうちに打て	てつはあついうちにうて	proverb
+ja	善は急げ	ぜんはいそげ	proverb
+ja	思い立ったが吉日	おもいたったがきちじつ	proverb
+ja	果報は寝て待て	かほうはねてまて	proverb
+ja	残り物には福がある	のこりものにはふくがある	proverb
+ja	捨てる神あれば拾う神あり	すてるかみあればひろうかみあり	proverb
+ja	情けは人の為ならず	なさけはひとのためならず	proverb
+ja	安物買いの銭失い	やすものがいのぜにうしない	proverb
+ja	タダより高いものはない	ただよりたかいものはない	proverb
+ja	腹が減っては戦ができぬ	はらがへってはいくさができぬ	proverb
+ja	背に腹は代えられない	せにはらはかえられない	proverb
+ja	虎穴に入らずんば虎子を得ず	こけつにいらずんばこじをえず	proverb
+ja	為せば成る	なせばなる	proverb
+ja	ローマは一日にして成らず	ろーまはいちにちにしてならず	proverb
+ja	すべての道はローマに通ず	すべてのみちはろーまにつうず	proverb
+ja	終わりよければすべてよし	おわりよければすべてよし	proverb
+ja	勝って兜の緒を締めよ	かってかぶとのおをしめよ	proverb
+ja	負けるが勝ち	まけるがかち	proverb
+ja	勝てば官軍	かてばかんぐん	proverb
+ja	長いものには巻かれろ	ながいものにはまかれろ	proverb
+ja	虎の威を借る狐	とらのいをかるきつね	proverb
+ja	飼い犬に手を噛まれる	かいいぬにてをかまれる	proverb
+ja	恩を仇で返す	おんをあだでかえす	idiom
+ja	立つ鳥跡を濁さず	たつとりあとをにごさず	proverb
+ja	後の祭り	あとのまつり	idiom
+ja	喉元過ぎれば熱さを忘れる	のどもとすぎればあつさをわすれる	proverb
+ja	人の振り見て我が振り直せ	ひとのふりみてわがふりなおせ	proverb
+ja	他山の石	たざんのいし	proverb
+ja	医者の不養生	いしゃのふようじょう	proverb
+ja	餅は餅屋	もちはもちや	proverb
+ja	船頭多くして船山に上る	せんどうおおくしてふねやまにのぼる	proverb
+ja	焼け石に水	やけいしにみず	proverb
+ja	暖簾に腕押し	のれんにうでおし	proverb
+ja	月とすっぽん	つきとすっぽん	proverb
+ja	雲泥の差	うんでいのさ	idiom
+ja	五十歩百歩	ごじっぽひゃっぽ	yoji
+ja	どんぐりの背比べ	どんぐりのせいくらべ	proverb
+ja	目くそ鼻くそを笑う	めくそはなくそをわらう	proverb
+ja	隣の芝生は青い	となりのしばふはあおい	proverb
+ja	人間万事塞翁が馬	にんげんばんじさいおうがうま	proverb
+ja	災い転じて福となす	わざわいてんじてふくとなす	proverb
+ja	怪我の功名	けがのこうみょう	idiom
+ja	火のない所に煙は立たぬ	ひのないところにけむりはたたぬ	proverb
+ja	論より証拠	ろんよりしょうこ	proverb
+ja	百害あって一利なし	ひゃくがいあっていちりなし	proverb
+ja	過ぎたるは猶及ばざるが如し	すぎたるはなおおよばざるがごとし	proverb
+ja	良薬は口に苦し	りょうやくはくちににがし	proverb
+ja	病は気から	やまいはきから	proverb
+ja	聞くは一時の恥聞かぬは一生の恥	きくはいっときのはじきかぬはいっしょうのはじ	proverb
+ja	袖振り合うも多生の縁	そでふりあうもたしょうのえん	proverb
+ja	遠くの親戚より近くの他人	とおくのしんせきよりちかくのたにん	proverb
+ja	壁に耳あり障子に目あり	かべにみみありしょうじにめあり	proverb
+ja	亀の甲より年の功	かめのこうよりとしのこう	proverb
+ja	光陰矢の如し	こういんやのごとし	proverb
+ja	明日は明日の風が吹く	あしたはあしたのかぜがふく	proverb
+ja	一寸先は闇	いっすんさきはやみ	proverb
+ja	一寸の虫にも五分の魂	いっすんのむしにもごぶのたましい	proverb
+ja	窮鼠猫を噛む	きゅうそねこをかむ	proverb
+ja	溺れる者は藁をも掴む	おぼれるものはわらをもつかむ	proverb
+ja	苦しい時の神頼み	くるしいときのかみだのみ	proverb
+ja	触らぬ神に祟りなし	さわらぬかみにたたりなし	proverb
+ja	臭いものに蓋をする	くさいものにふたをする	proverb
+ja	藪をつついて蛇を出す	やぶをつついてへびをだす	proverb
+ja	骨折り損のくたびれ儲け	ほねおりぞんのくたびれもうけ	proverb
+ja	漁夫の利	ぎょふのり	idiom
+ja	二足の草鞋を履く	にそくのわらじをはく	idiom
+ja	一を聞いて十を知る	いちをきいてじゅうをしる	proverb
+ja	馬子にも衣装	まごにもいしょう	proverb
+ja	住めば都	すめばみやこ	proverb
+ja	所変われば品変わる	ところかわればしなかわる	proverb
+ja	背水の陣	はいすいのじん	idiom
+ja	言うは易く行うは難し	いうはやすくおこなうはかたし	proverb
+ja	腐っても鯛	くさってもたい	proverb
+ja	急いては事を仕損じる	せいてはことをしそんじる	proverb
+ja	一難去ってまた一難	いちなんさってまたいちなん	proverb
+ja	羊の皮を被った狼	ひつじのかわをかぶったおおかみ	idiom
+ja	借りてきた猫	かりてきたねこ	idiom
+ja	犬猿の仲	けんえんのなか	idiom
+ja	飛んで火に入る夏の虫	とんでひにいるなつのむし	proverb
+ja	捕らぬ狸の皮算用	とらぬたぬきのかわざんよう	proverb
+ja	木を見て森を見ず	きをみてもりをみず	proverb
+ja	逃した魚は大きい	にがしたさかなはおおきい	proverb
+ja	海老で鯛を釣る	えびでたいをつる	proverb
+ja	ミイラ取りがミイラになる	みいらとりがみいらになる	proverb
+ja	天は二物を与えず	てんはにぶつをあたえず	proverb
+ja	人事を尽くして天命を待つ	じんじをつくしててんめいをまつ	proverb
+ja	初心忘るべからず	しょしんわするべからず	proverb
+ja	上には上がある	うえにはうえがある	proverb
+ja	下手の横好き	へたのよこずき	proverb
+ja	下手な鉄砲も数撃ちゃ当たる	へたなてっぽうもかずうちゃあたる	proverb
+ja	金の切れ目が縁の切れ目	かねのきれめがえんのきれめ	proverb
+ja	親しき仲にも礼儀あり	したしきなかにもれいぎあり	proverb
+ja	実るほど頭を垂れる稲穂かな	みのるほどこうべをたれるいなほかな	proverb
+ja	大は小を兼ねる	だいはしょうをかねる	proverb
+ja	山椒は小粒でもぴりりと辛い	さんしょうはこつぶでもぴりりとからい	proverb
+ja	絵に描いた餅	えにかいたもち	idiom
+ja	目は口ほどに物を言う	めはくちほどにものをいう	proverb
+ja	高嶺の花	たかねのはな	idiom
+ja	寝耳に水	ねみみにみず	idiom
+ja	青天の霹靂	せいてんのへきれき	idiom
+ja	鶴の一声	つるのひとこえ	idiom
+ja	顔が広い	かおがひろい	idiom
+ja	手を焼く	てをやく	idiom
+ja	足を引っ張る	あしをひっぱる	idiom
+ja	耳が痛い	みみがいたい	idiom
+ja	目がない	めがない	idiom
+ja	気が済む	きがすむ	idiom
+ja	手が離せない	てがはなせない	idiom
+ja	口が軽い	くちがかるい	idiom
+ja	口が堅い	くちがかたい	idiom
+ja	頭が痛い	あたまがいたい	idiom
+ja	気が重い	きがおもい	idiom
+ja	気が小さい	きがちいさい	idiom
+ja	気が短い	きがみじかい	idiom
+ja	気が長い	きがながい	idiom
+ja	気が強い	きがつよい	idiom
+ja	気が弱い	きがよわい	idiom
+ja	気が引ける	きがひける	idiom
+ja	気が抜ける	きがぬける	idiom
+ja	気が散る	きがちる	idiom
+ja	気が気でない	きがきでない	idiom
+ja	気が進まない	きがすすまない	idiom
+ja	気が遠くなる	きがとおくなる	idiom
+ja	気を取られる	きをとられる	idiom
+ja	気を引く	きをひく	idiom
+ja	気に障る	きにさわる	idiom
+ja	気が晴れる	きがはれる	idiom
+ja	手が足りない	てがたりない	idiom
+ja	手を抜く	てをぬく	idiom
+ja	手を貸す	てをかす	idiom
+ja	手を出す	てをだす	idiom
+ja	手を引く	てをひく	idiom
+ja	手を打つ	てをうつ	idiom
+ja	手を組む	てをくむ	idiom
+ja	手を尽くす	てをつくす	idiom
+ja	手を回す	てをまわす	idiom
+ja	手に負えない	てにおえない	idiom
+ja	手が届く	てがとどく	idiom
+ja	手が込む	てがこむ	idiom
+ja	手が空く	てがあく	idiom
+ja	手に汗を握る	てにあせをにぎる	idiom
+ja	手も足も出ない	てもあしもでない	idiom
+ja	手を広げる	てをひろげる	idiom
+ja	手が出ない	てがでない	idiom
+ja	手塩にかける	てしおにかける	idiom
+ja	手のひらを返す	てのひらをかえす	idiom
+ja	足を洗う	あしをあらう	idiom
+ja	足が出る	あしがでる	idiom
+ja	足を運ぶ	あしをはこぶ	idiom
+ja	足が棒になる	あしがぼうになる	idiom
+ja	足が早い	あしがはやい	idiom
+ja	足元を見る	あしもとをみる	idiom
+ja	二の足を踏む	にのあしをふむ	idiom
+ja	揚げ足を取る	あげあしをとる	idiom
+ja	耳を貸す	みみをかす	idiom
+ja	耳を傾ける	みみをかたむける	idiom
+ja	耳を疑う	みみをうたがう	idiom
+ja	耳にたこができる	みみにたこができる	idiom
+ja	耳が早い	みみがはやい	idiom
+ja	目を通す	めをとおす	idiom
+ja	目に余る	めにあまる	idiom
+ja	目が回る	めがまわる	idiom
+ja	目をつぶる	めをつぶる	idiom
+ja	目を丸くする	めをまるくする	idiom
+ja	目が高い	めがたかい	idiom
+ja	目に入れても痛くない	めにいれてもいたくない	idiom
+ja	目に浮かぶ	めにうかぶ	idiom
+ja	目が肥える	めがこえる	idiom
+ja	目を引く	めをひく	idiom
+ja	目と鼻の先	めとはなのさき	idiom
+ja	目の色を変える	めのいろをかえる	idiom
+ja	目の上のこぶ	めのうえのこぶ	idiom
+ja	目からうろこが落ちる	めからうろこがおちる	idiom
+ja	大目に見る	おおめにみる	idiom
+ja	長い目で見る	ながいめでみる	idiom
+ja	白い目で見る	しろいめでみる	idiom
+ja	痛い目に遭う	いたいめにあう	idiom
+ja	口を出す	くちをだす	idiom
+ja	口を挟む	くちをはさむ	idiom
+ja	口が滑る	くちがすべる	idiom
+ja	口が悪い	くちがわるい	idiom
+ja	口が上手い	くちがうまい	idiom
+ja	口に合う	くちにあう	idiom
+ja	口をそろえる	くちをそろえる	idiom
+ja	開いた口が塞がらない	あいたくちがふさがらない	idiom
+ja	鼻が高い	はながたかい	idiom
+ja	鼻にかける	はなにかける	idiom
+ja	鼻につく	はなにつく	idiom
+ja	頭が上がらない	あたまがあがらない	idiom
+ja	頭を抱える	あたまをかかえる	idiom
+ja	頭が固い	あたまがかたい	idiom
+ja	頭を冷やす	あたまをひやす	idiom
+ja	頭が切れる	あたまがきれる	idiom
+ja	頭が下がる	あたまがさがる	idiom
+ja	顔に泥を塗る	かおにどろをぬる	idiom
+ja	顔を出す	かおをだす	idiom
+ja	顔を立てる	かおをたてる	idiom
+ja	顔から火が出る	かおからひがでる	idiom
+ja	顔色をうかがう	かおいろをうかがう	idiom
+ja	合わせる顔がない	あわせるかおがない	idiom
+ja	腹を割る	はらをわる	idiom
+ja	腹を決める	はらをきめる	idiom
+ja	腹が黒い	はらがくろい	idiom
+ja	腹を括る	はらをくくる	idiom
+ja	腹の虫が治まらない	はらのむしがおさまらない	idiom
+ja	胸を張る	むねをはる	idiom
+ja	胸が痛む	むねがいたむ	idiom
+ja	胸がいっぱいになる	むねがいっぱいになる	idiom
+ja	胸を打つ	むねをうつ	idiom
+ja	胸をなで下ろす	むねをなでおろす	idiom
+ja	首を長くする	くびをながくする	idiom
+ja	首を突っ込む	くびをつっこむ	idiom
+ja	首になる	くびになる	idiom
+ja	首が回らない	くびがまわらない	idiom
+ja	首をかしげる	くびをかしげる	idiom
+ja	肩を持つ	かたをもつ	idiom
+ja	肩の荷が下りる	かたのにがおりる	idiom
+ja	肩を並べる	かたをならべる	idiom
+ja	肩身が狭い	かたみがせまい	idiom
+ja	腕が上がる	うでがあがる	idiom
+ja	腕を磨く	うでをみがく	idiom
+ja	腕を振るう	うでをふるう	idiom
+ja	骨が折れる	ほねがおれる	idiom
+ja	骨を折る	ほねをおる	idiom
+ja	歯が立たない	はがたたない	idiom
+ja	歯を食いしばる	はをくいしばる	idiom
+ja	舌を巻く	したをまく	idiom
+ja	腰が低い	こしがひくい	idiom
+ja	腰を据える	こしをすえる	idiom
+ja	腰が重い	こしがおもい	idiom
+ja	本腰を入れる	ほんごしをいれる	idiom
+ja	身にしみる	みにしみる	idiom
+ja	へそを曲げる	へそをまげる	idiom
+ja	後ろ髪を引かれる	うしろがみをひかれる	idiom
+ja	息が合う	いきがあう	idiom
+ja	息を呑む	いきをのむ	idiom
+ja	息が詰まる	いきがつまる	idiom
+ja	虫がいい	むしがいい	idiom
+ja	虫の居所が悪い	むしのいどころがわるい	idiom
+ja	猫をかぶる	ねこをかぶる	idiom
+ja	猫の手も借りたい	ねこのてもかりたい	idiom
+ja	猫の額	ねこのひたい	idiom
+ja	馬が合う	うまがあう	idiom
+ja	すずめの涙	すずめのなみだ	idiom
+ja	狐につままれる	きつねにつままれる	idiom
+ja	鯖を読む	さばをよむ	idiom
+ja	油を売る	あぶらをうる	idiom
+ja	火に油を注ぐ	ひにあぶらをそそぐ	idiom
+ja	水に流す	みずにながす	idiom
+ja	水を差す	みずをさす	idiom
+ja	水の泡	みずのあわ	idiom
+ja	根に持つ	ねにもつ	idiom
+ja	棚に上げる	たなにあげる	idiom
+ja	図に乗る	ずにのる	idiom
+ja	板に付く	いたにつく	idiom
+ja	話にならない	はなしにならない	idiom
+ja	話が早い	はなしがはやい	idiom
+ja	らちが明かない	らちがあかない	idiom
+ja	一目置く	いちもくおく	idiom
+ja	匙を投げる	さじをなげる	idiom
+ja	お茶を濁す	おちゃをにごす	idiom
+ja	羽目を外す	はめをはずす	idiom
+ja	けりをつける		idiom
+ja	釘を刺す	くぎをさす	idiom
+ja	太鼓判を押す	たいこばんをおす	idiom
+ja	しのぎを削る	しのぎをけずる	idiom
+ja	拍車をかける	はくしゃをかける	idiom
+ja	口火を切る	くちびをきる	idiom
+ja	後を絶たない	あとをたたない	idiom
+ja	棚からぼたもち	たなからぼたもち	proverb
+ja	音を上げる	ねをあげる	idiom
+ja	筋が通る	すじがとおる	idiom
+ja	肝に銘じる	きもにめいじる	idiom
+ja	肝が据わる	きもがすわる	idiom
+ja	気が置けない	きがおけない	idiom
+ja	間が悪い	まがわるい	idiom
+ja	間が持たない	まがもたない	idiom
+ja	裏目に出る	うらめにでる	idiom
+ja	棒に振る	ぼうにふる	idiom
+ja	踏ん切りがつく	ふんぎりがつく	idiom
+ja	腑に落ちない	ふにおちない	idiom
+ja	虫の知らせ	むしのしらせ	idiom
+ja	しびれを切らす	しびれをきらす	idiom
+ja	相槌を打つ	あいづちをうつ	idiom
+ja	地に足が着く	ちにあしがつく	idiom
+ja	血が騒ぐ	ちがさわぐ	idiom
+ja	血の気が多い	ちのけがおおい	idiom
+ja	血も涙もない	ちもなみだもない	idiom
+ja	心を鬼にする	こころをおににする	idiom
+ja	心が折れる	こころがおれる	idiom
+ja	心を奪われる	こころをうばわれる	idiom
+ja	心を許す	こころをゆるす	idiom
+ja	心が広い	こころがひろい	idiom
+ja	念を押す	ねんをおす	idiom
+ja	顎で使う	あごでつかう	idiom
+ja	喉から手が出る	のどからてがでる	idiom
+ja	足を踏み入れる	あしをふみいれる	idiom
+ja	手が回らない	てがまわらない	idiom
+ja	目を疑う	めをうたがう	idiom
+ja	腹が据わる	はらがすわる	idiom
+ja	後ろ指を指される	うしろゆびをさされる	idiom
+ja	鳥肌が立つ	とりはだがたつ	idiom
+ja	身も蓋もない	みもふたもない	idiom
+ja	身に覚えがない	みにおぼえがない	idiom
+ja	立つ瀬がない	たつせがない	idiom
+ja	足をすくわれる	あしをすくわれる	idiom
+ja	蚊帳の外	かやのそと	idiom
+ja	尻尾を出す	しっぽをだす	idiom
+ja	尻尾をつかむ	しっぽをつかむ	idiom
+ja	鵜呑みにする	うのみにする	idiom
+ja	閑古鳥が鳴く	かんこどりがなく	idiom
+ja	立て板に水	たていたにみず	idiom
+ja	弱音を吐く	よわねをはく	idiom
+ja	襟を正す	えりをただす	idiom
+ja	足元にも及ばない	あしもとにもおよばない	idiom
+ko	돌돌	doldol	onom
+ko	오매불망	omaebulmang	yoji
+ko	반짝	banjjag	onom
+ko	팔팔	palpal	onom
+ko	물씬	mulssin	onom
+ko	바싹	bassag	onom
+ko	우뚝	uttug	onom
+ko	딱딱	ttagttag	onom
+ko	자타공인	jatagong'in	yoji
+ko	쭉쭉	jjugjjug	onom
+ko	꾹꾹	kkugkkug	onom
+ko	움푹	umpug	onom
+ko	쏙쏙	ssogssog	onom
+ko	자유자재	jayujajae	yoji
+ko	빵빵	ppangppang	onom
+ja	一笑に付す	いっしょうにふす	idiom
+ja	途方に暮れる	とほうにくれる	idiom
+ja	疲労困憊	ひろうこんぱい	yoji
+ja	九死に一生を得る	きゅうしにいっしょうをえる	idiom
+ko	허허	heoheo	onom
+ja	おいおい		onom
+ja	からり		onom
+ja	ぐるっと		onom
+ja	じゃぶじゃぶ		onom
+ja	たらたら		onom
+ja	ちくり		onom
+ja	ちぐはぐ		onom
+ja	どしどし		onom
+ja	どろどろ		onom
+ja	ひしひし		onom
+ja	ふわり		onom
+ja	ぼやぼや		onom
+ja	ぽかん		onom
+ja	むっつり		onom
+ja	カッと		onom
+ja	ガシガシ		onom
+ja	チラリ		onom
+ja	ビリビリ		onom
+ko	새록새록	saerogsaerog	onom
+ko	꽉꽉	kkwagkkwag	onom
+ko	동동	dongdong	onom
+ko	똘똘	ttolttol	onom
+ko	고군분투	gogunbuntu	yoji
+ko	송송	songsong	onom
+ko	무궁무진	mugungmujin	yoji
+ko	둥둥	dungdung	onom
+ja	大同団結	だいどうだんけつ	yoji
+ja	合従連衡	がっしょうれんこう	yoji
+ja	有名無実	ゆうめいむじつ	yoji
+ja	不偏不党	ふへんふとう	yoji
+ja	出処進退	しゅっしょしんたい	yoji
+ja	文明開化	ぶんめいかいか	yoji
+ja	綱紀粛正	こうきしゅくせい	yoji
+ja	開店休業	かいてんきゅうぎょう	yoji
+ja	二律背反	にりつはいはん	yoji
+ja	反面教師	はんめんきょうし	yoji
+ja	吃驚	びっくり	onom
+ja	富国強兵	ふこくきょうへい	yoji
+ja	士農工商	しのうこうしょう	yoji
+ja	尊王攘夷	そんのうじょうい	yoji
+ja	身を引く	みをひく	idiom
+ja	恥をかく	はじをかく	idiom
+ja	物を言う	ものをいう	idiom
+ja	肌で感じる	はだでかんじる	idiom
+ja	名を連ねる	なをつらねる	idiom
+ja	地で行く	じでいく	idiom
+ja	思いを馳せる	おもいをはせる	idiom
+ja	命を落とす	いのちをおとす	idiom
+ja	尾を引く	おをひく	idiom
+ja	光を当てる	ひかりをあてる	idiom
+ja	目を奪われる	めをうばわれる	idiom
+ja	床につく	とこにつく	idiom
+ja	実を結ぶ	みをむすぶ	idiom
+ja	力を注ぐ	ちからをそそぐ	idiom
+ja	幕を閉じる	まくをとじる	idiom
+ja	肩の力を抜く	かたのちからをぬく	idiom
+ja	鼻で笑う	はなでわらう	idiom
+ja	腑に落ちる	ふにおちる	idiom
+ja	縦横無尽	じゅうおうむじん	yoji
+ja	甲乙つけがたい	こうおつつけがたい	idiom
+ja	身を任せる	みをまかせる	idiom
+ja	影が薄い	かげがうすい	idiom
+ja	似ても似つかない	にてもにつかない	idiom
+ja	分が悪い	ぶがわるい	idiom
+ja	身を委ねる	みをゆだねる	idiom
+ja	比ではない	ひではない	idiom
+ja	名を馳せる	なをはせる	idiom
+ja	不可思議	ふかしぎ	yoji
+ja	是が非でも	ぜがひでも	idiom
+ja	うじゃうじゃ		onom
+ja	うねうね		onom
+ja	カチン		onom
+ja	キーキー		onom
+ja	キュッと		onom
+ja	けばけば		onom
+ja	ゴタゴタ		onom
+ja	すらり		onom
+ja	つべこべ		onom
+ja	ぽちゃぽちゃ		onom
+ja	まざまざ		onom
+ja	やきもき		onom
+ja	カタカタ		onom
+ja	ざあっ		onom
+ja	しゃんと		onom
+ja	ドシン		onom
+ja	ふっと		onom
+ja	ジーンと		onom
+ja	ドスン		onom
+ja	ガクンと		onom
+ja	がぶり		onom
+ja	ぎゃあぎゃあ		onom
+ja	こっくり		onom
+ja	こっくりこっくり		onom
+ja	ごみごみ		onom
+ja	ズバズバ		onom
+ja	どかっと		onom
+ja	どぎまぎ		onom
+ja	のらくら		onom
+ja	のらりくらり		onom
+ja	プーンと		onom
+ja	ポツリ		onom
+ja	うつらうつら		onom
+ja	そそくさ		onom
+ja	ビュービュー		onom
+ja	どさっと		onom
+ja	がさっ		onom
+ja	ヒーヒー		onom
+ja	ぐしゃぐしゃ		onom
+ja	がたん		onom
+ja	すとん		onom
+ja	モーモー		onom
+ja	ずきん		onom
+ja	くちゃくちゃ		onom
+ja	ドカン		onom
+ja	ガチッと		onom
+ja	ポーン		onom
+ja	グースカ		onom
+ja	プチッ		onom
+ja	ブッブー		onom
+ja	ガクッ		onom
+ja	チュッ		onom
+ja	さっくり		onom
+ja	ちょん		onom
+ja	ばきっと		onom
+ja	キャン		onom
+ja	パチン		onom
+ja	ヒュー		onom
+ja	ぺたり		onom
+ja	つるり		onom
+ja	コトン		onom
+ja	ぴゅう		onom
+ja	どうと		onom
+ja	どしり		onom
+ja	こちょこちょ		onom
+ja	ボキボキ		onom
+ja	ビュッ		onom
+ja	にやっ		onom
+ja	にゃん		onom
+ja	グルル		onom
+ja	ぼっと		onom
+ja	ちんと		onom
+ja	シャー		onom
+ja	ぴょん		onom
+ja	ムカッ		onom
+ja	しゅー		onom
+ja	パクッ		onom
+ja	ぽい		onom
+ja	くるん		onom
+ja	バーン		onom
+ja	くらり		onom
+ja	もそり		onom
+ja	くりっ		onom
+ja	くいっ		onom
+ja	カチャッ		onom
+ja	情に厚い	じょうにあつい	idiom
+ja	兎にも角にも	とにもかくにも	idiom
+ja	荷が重い	にがおもい	idiom
+ja	話に花が咲く	はなしにはながさく	idiom
+ja	背を向ける	せをむける	idiom
+ja	底をつく	そこをつく	idiom
+ja	一所懸命	いっしょけんめい	yoji
+ja	たちが悪い	たちがわるい	idiom
+ja	願ってもない	ねがってもない	idiom
+ja	奇をてらう	きをてらう	idiom
+ja	縁を切る	えんをきる	idiom
+ja	和気藹々	わきあいあい	yoji
+ja	とどめを刺す	とどめをさす	idiom
+ja	色を付ける	いろをつける	idiom
+ja	性に合う	しょうにあう	idiom
+ja	合点がいく	がてんがいく	idiom
+ja	敵に回す	てきにまわす	idiom
+ja	未来永劫	みらいえいごう	yoji
+ja	我に返る	われにかえる	idiom
+ja	否が応でも	いやがおうでも	idiom
+ja	この期に及んで	このごにおよんで	idiom
+ja	異を唱える	いをとなえる	idiom
+ja	線が細い	せんがほそい	idiom
+ja	流れをくむ	ながれをくむ	idiom
+ja	真に受ける	まにうける	idiom
+ja	造詣が深い	ぞうけいがふかい	idiom
+ja	否応なしに	いやおうなしに	idiom
+ja	幕を下ろす	まくをおろす	idiom
+ja	数をこなす	かずをこなす	idiom
+ja	駒を進める	こまをすすめる	idiom
+ja	心が洗われる	こころがあらわれる	idiom
+ja	徹頭徹尾	てっとうてつび	yoji
+ja	懐が深い	ふところがふかい	idiom
+ja	教鞭をとる	きょうべんをとる	idiom
+ja	融通がきく	ゆうずうがきく	idiom
+ja	食が細い	しょくがほそい	idiom
+ja	根が深い	ねがふかい	idiom
+ja	眉をひそめる	まゆをひそめる	idiom
+ja	幕を引く	まくをひく	idiom
+ja	首を横に振る	くびをよこにふる	idiom
+ja	筆を置く	ふでをおく	idiom
+ja	悠々自適	ゆうゆうじてき	yoji
+ja	イジイジ		onom
+ja	オタオタ		onom
+ja	カチッと		onom
+ja	かっちり		onom
+ja	ガーッと		onom
+ja	ガチャリ		onom
+ja	がっぷり		onom
+ja	きちきち		onom
+ja	ぎょろぎょろ		onom
+ja	くさくさ		onom
+ja	げろげろ		onom
+ja	こせこせ		onom
+ja	ころり		onom
+ja	ゴボゴボ		onom
+ja	じくじく		onom
+ja	じゃあじゃあ		onom
+ja	じゃりじゃり		onom
+ja	スースー		onom
+ja	すっぱり		onom
+ja	するする		onom
+ja	するり		onom
+ja	ずんずん		onom
+ja	たじたじ		onom
+ja	ちゃんちゃん		onom
+ja	つかつか		onom
+ja	テカテカ		onom
+ja	でかでか		onom
+ja	でれっと		onom
+ja	ドッキリ		onom
+ja	どやどや		onom
+ja	なよなよ		onom
+ja	にちゃにちゃ		onom
+ja	ぬらぬら		onom
+ja	のこのこ		onom
+ja	のそのそ		onom
+ja	ばさばさ		onom
+ja	ぱちくり		onom
+ja	パチッ		onom
+ja	ひくひく		onom
+ja	ひょいと		onom
+ja	ひょこひょこ		onom
+ja	ひょろり		onom
+ja	びしびし		onom
+ja	びらびら		onom
+ja	ピクリ		onom
+ja	ピシッと		onom
+ja	ぴしゃり		onom
+ja	フーフー		onom
+ja	ふらり		onom
+ja	へなへな		onom
+ja	べちゃべちゃ		onom
+ja	ほろほろ		onom
+ja	ほろり		onom
+ja	ぼちゃん		onom
+ja	ボリボリ		onom
+ja	ぽっきり		onom
+ja	ぽってり		onom
+ja	ミンミン		onom
+ja	むにゃむにゃ		onom
+ja	むんむん		onom
+ja	もっこり		onom
+ja	ゆさゆさ		onom
+ja	よぼよぼ		onom
+ja	わらわら		onom
+ja	クンクン		onom
+ja	ぐりぐり		onom
+ja	ケロケロ		onom
+ja	ゴツン		onom
+ja	シュポシュポ		onom
+ja	ジュルジュル		onom
+ja	ズシン		onom
+ja	タポタポ		onom
+ja	チョキチョキ		onom
+ja	ドタン		onom
+ja	ドンパチ		onom
+ja	ヌーボー		onom
+ja	ピカドン		onom
+ja	ポタリ		onom
+ja	つらつら		onom
+ja	さわさわ		onom
+ja	むしゃむしゃ		onom
+ja	ベコベコ		onom
+ja	がたり		onom
+ja	きしきし		onom
+ja	くるり		onom
+ja	グラッと		onom
+ja	ぐんにゃり		onom
+ja	ごわごわ		onom
+ja	すっくと		onom
+ja	どくどく		onom
+ja	どたり		onom
+ja	にたにた		onom
+ja	ばさり		onom
+ja	びちゃびちゃ		onom
+ja	ぴょこん		onom
+ja	へどもど		onom
+ja	ぺったり		onom
+ja	むしゃくしゃ		onom
+ja	ムラムラ		onom
+ja	もしゃもしゃ		onom
+ja	くつくつ		onom
+ja	チリチリ		onom
+ja	にゃんにゃん		onom
+ja	りんりん		onom
+ja	おちおち		onom
+ja	どさくさ		onom
+ja	ガシャン		onom
+ja	ポツリポツリ		onom
+ja	ガラリ		onom
+ja	グサリ		onom
+ja	こんもり		onom
+ja	じろり		onom
+ja	とっぷり		onom
+ja	どかどか		onom
+ja	どっかと		onom
+ja	ぶつくさ		onom
+ja	ぶらり		onom
+ja	ぺろっと		onom
+ja	みっちり		onom
+ja	ぬめっと		onom
+ja	どたどた		onom
+ja	ずぶり		onom
+ja	ひたひた		onom
+ja	ごろんと		onom
+ja	むっちり		onom
+ja	ガーガー		onom
+ja	カーカー		onom
+ja	メーメー		onom
+ja	チューチュー		onom
+ja	どっぷり		onom
+ja	ポキッと		onom
+ja	ぽっくり		onom
+ja	とろん		onom
+ja	だらり		onom
+ja	オギャー		onom
+ja	おめおめ		onom
+ja	えへらえへら		onom
+ja	ごにょごにょ		onom
+ja	くだくだ		onom
+ja	キンキラキン		onom
+ja	カチャカチャ		onom
+ja	かちり		onom
+ja	かっきり		onom
+ja	どさどさ		onom
+ja	どっかり		onom
+ja	のうのう		onom
+ja	ギラッと		onom
+ja	クラッと		onom
+ja	ピシャッと		onom
+ja	カランコロン		onom
+ja	ぬっと		onom
+ja	かちゃり		onom
+ja	ひらり		onom
+ja	わなわな		onom
+ja	ぱちり		onom
+ja	ビンビン		onom
+ja	パタリ		onom
+ja	ぷいと		onom
+ja	すうすう		onom
+ja	ピーピー		onom
+ja	ざぶざぶ		onom
+ja	けろり		onom
+ja	ギーギー		onom
+ja	がさごそ		onom
+ja	ガシャッ		onom
+ja	ガタゴト		onom
+ja	がっぽがっぽ		onom
+ja	ガバガバ		onom
+ja	がばっと		onom
+ja	がらんがらん		onom
+ja	ウラウラ		onom
+ja	チャラチャラ		onom
+ja	もさもさ		onom
+ja	キャンキャン		onom
+ja	わあわあ		onom
+ja	シャカシャカ		onom
+ja	ポロリ		onom
+ja	ギクリ		onom
+ja	ギシギシ		onom
+ja	やっさもっさ		onom
+ja	ぼやっと		onom
+ja	きゃぴきゃぴ		onom
+ja	うかうか		onom
+ja	ジージー		onom
+ja	じろっと		onom
+ja	ずしずし		onom
+ja	ずんぐり		onom
+ja	ずんぐりむっくり		onom
+ja	そよそよ		onom
+ja	ちりんちりん		onom
+ja	しゃりしゃり		onom
+ja	ちょんちょん		onom
+ja	はたはた		onom
+ja	パタパタ		onom
+ja	パタン		onom
+ja	ぶすっと		onom
+ja	ぺたぺた		onom
+ja	ぺちゃぺちゃ		onom
+ja	ぽうっと		onom
+ja	こくんこくん		onom
+ja	こくん		onom
+ja	ぐじぐじ		onom
+ja	ドボドボ		onom
+ja	ずきんずきん		onom
+ja	クニャクニャ		onom
+ja	くりくり		onom
+ja	のっぺり		onom
+ja	コテコテ		onom
+ja	どろり		onom
+ja	さらり		onom
+ja	しっぽり		onom
+ja	どん		onom
+ja	きらっと		onom
+ja	のそり		onom
+ja	きらり		onom
+ja	ペンペン		onom
+ja	ちんまり		onom
+ja	ぐうっと		onom
+ja	ぐしゃっと		onom
+ja	ぐっしょり		onom
+ja	ごっくん		onom
+ja	ゾロリ		onom
+ja	きりり		onom
+ja	ともすると		onom
+ja	がたっと		onom
+ja	ねっとり		onom
+ja	ミシミシ		onom
+ja	カスカス		onom
+ja	いけしゃあしゃあ		onom
+ja	ガビーン		onom
+ja	ぼんぼん		onom
+ja	とろっと		onom
+ja	やいやい		onom
+ja	ビビビッ		onom
+ja	ガシッと		onom
+ja	ガクンガクン		onom
+ja	じっとり		onom
+ja	ククク		onom
+ja	ぼそり		onom
+ja	ひょいひょい		onom
+ja	しゅんしゅん		onom
+ja	プッツン		onom
+ja	おんおん		onom
+ja	ちらりほらり		onom
+ja	ゾクッと		onom
+ja	グキグキ		onom
+ja	グチョグチョ		onom
+ja	ぽてぽて		onom
+ja	むっくり		onom
+ja	なんたらかんたら		onom
+ja	パリッと		onom
+ja	まじまじ		onom
+ja	ギラリ		onom
+ja	ぐにゃっと		onom
+ja	じゅるり		onom
+ja	ぺったん		onom
+ja	イガイガ		onom
+ja	ゴトゴト		onom
+ja	うっぷ		onom
+ja	ギトギト		onom
+ja	あーん		onom
+ja	ちょこまか		onom
+ja	にょっきり		onom
+ja	ニタリ		onom
+ja	ビシャビシャ		onom
+ja	プチプチ		onom
+ja	ぼたり		onom
+ja	しゃっきり		onom
+ja	よたよた		onom
+ja	ムスッと		onom
+ja	カリッと		onom
+ja	かさこそ		onom
+ja	のたりのたり		onom
+ja	ぺたん		onom
+ja	ズドン		onom
+ja	でっぷり		onom
+ja	さやさや		onom
+ja	ごぼっ		onom
+ja	ちゃぷちゃぷ		onom
+ja	ピクッと		onom
+ja	バリン		onom
+ja	きちんきちん		onom
+ja	ぎくぎく		onom
+ja	ギチギチ		onom
+ja	ぎろぎろ		onom
+ja	ゴリゴリ		onom
+ja	ジャカスカ		onom
+ja	ジャラジャラ		onom
+ja	じゃんじゃか		onom
+ja	そろり		onom
+ja	ちょっきり		onom
+ja	つっと		onom
+ja	てらてら		onom
+ja	のっそり		onom
+ja	はらり		onom
+ja	ぴよぴよ		onom
+ja	びたびた		onom
+ja	ぴちっと		onom
+ja	ぴっちり		onom
+ja	ヘコヘコ		onom
+ja	ポチポチ		onom
+ja	ぽっちり		onom
+ja	めためた		onom
+ja	もさっと		onom
+ja	もっそり		onom
+ja	もっさり		onom
+ja	ブーン		onom
+ja	ボカッ		onom
+ja	グビグビ		onom
+ja	カランカラン		onom
+ja	ケタケタ		onom
+ja	ごんごん		onom
+ja	びしり		onom
+ja	にょきにょき		onom
+ja	ぴくんぴくん		onom
+ja	どさり		onom
+ja	ポトリ		onom
+ja	ドシンドシン		onom
+ja	シューシュー		onom
+ja	ブスブス		onom
+ja	ぐにゃり		onom
+ja	ねとねと		onom
+ja	ぴしり		onom
+ja	ぎこぎこ		onom
+ja	ガクガクブルブル		onom
+ja	かしゃかしゃ		onom
+ja	ゲーゲー		onom
+ja	ゴツンゴツン		onom
+ja	ばちん		onom
+ja	ドスンドスン		onom
+ja	どすっと		onom
+ja	シコシコ		onom
+ja	ぷっつり		onom
+ja	ギンギン		onom
+ja	ずらずら		onom
+ja	くっくっと		onom
+ja	かぴかぴ		onom
+ja	ダボダボ		onom
+ja	ふっくり		onom
+ja	チロチロ		onom
+ja	トホホ		onom
+ja	バッサバッサ		onom
+ja	ぺらっと		onom
+ja	のっしのっし		onom
+ja	ざぶりざぶり		onom
+ja	じとじと		onom
+ja	メリメリ		onom
+ja	タプタプ		onom
+ja	たぶたぶ		onom
+ja	フッ		onom
+ja	ばちゃん		onom
+ja	ぴょこぴょこ		onom
+ja	くるっと		onom
+ja	ぱらり		onom
+ja	ピチャリ		onom
+ja	ぴちゃん		onom
+ja	とろり		onom
+ja	ごとり		onom
+ja	シュッシュッ		onom
+ja	どかり		onom
+ja	ボーボー		onom
+ja	バリッと		onom
+ja	ぽちゃり		onom
+ja	ぐらり		onom
+ja	ぶるん		onom
+ja	どんぶりこ		onom
+ja	むくむく		onom
+ja	ぶらりぶらり		onom
+ja	パカパカ		onom
+ja	ザブン		onom
+ja	パシャッと		onom
+ja	じわっと		onom
+ja	ぴりり		onom
+ja	プルンプルン		onom
+ja	バシッと		onom
+ja	のそりのそり		onom
+ja	プルン		onom
+ja	ごそり		onom
+ja	がさり		onom
+ja	ぷつぷつ		onom
+ja	ぽつねんと		onom
+ja	すってんころり		onom
+ja	ポロン		onom
+ja	しっちゃかめっちゃか		onom
+ja	バシバシ		onom
+ja	ちくりちくり		onom
+ja	ちくっと		onom
+ja	パシャリ		onom
+ja	ビシバシ		onom
+ja	どたんばたん		onom
+ja	けちょんけちょん		onom
+ja	がじがじ		onom
+ja	どばどば		onom
+ja	ポトン		onom
+ja	ブルルン		onom
+ja	ぐしぐし		onom
+ja	ピコピコ		onom
+ja	だくだく		onom
+ja	ぷくぷく		onom
+ja	ビュンビュン		onom
+ja	てへぺろ		onom
+ja	ひょろっと		onom
+ja	ちょろっと		onom
+ja	どんと		onom
+ja	ぽんぽこ		onom
+ja	ふんふん		onom
+ja	わさわさ		onom
+ja	ぽくぽく		onom
+ja	ビチビチ		onom
+ja	しらっと		onom
+ja	プンスカ		onom
+ja	ブー		onom
+ja	むむ		onom
+ja	ぷくっと		onom
+ja	ペッペッ		onom
+ja	ポロっと		onom
+ja	わしわし		onom
+ja	へたへた		onom
+ja	わちゃわちゃ		onom
+ja	レロレロ		onom
+ja	ふにゃり		onom
+ja	ぷくり		onom
+ja	くわっと		onom
+ja	ピラピラ		onom
+ja	ペッ		onom
+ja	ぶらんぶらん		onom
+ja	バタンキュー		onom
+ja	パシャン		onom
+ja	いひひ		onom
+ja	びいびい		onom
+ja	ちゃんちゃんばらばら		onom
+ja	がしゃがしゃ		onom
+ja	くいくい		onom
+ja	バシャバシャ		onom
+ja	ガビガビ		onom
+ja	ぴんしゃん		onom
+ja	しんなり		onom
+ja	すぱっと		onom
+ja	どくん		onom
+ja	げほげほ		onom
+ja	ぱらっと		onom
+ja	ぐすぐす		onom
+ja	ささっと		onom
+ja	ウッキー		onom
+ja	ぽかり		onom
+ja	キャーキャー		onom
+ja	ベロリ		onom
+ja	ごくっ		onom
+ja	カシャリ		onom
+ja	ビリッと		onom
+ja	シュッと		onom
+ja	ゴクン		onom
+ja	うっそり		onom
+ja	じゅくじゅく		onom
+ja	ぷっくり		onom
+ja	ごそっと		onom
+ja	シュワシュワ		onom
+ja	やいのやいの		onom
+ja	しゃなりしゃなり		onom
+ja	バッチシ		onom
+ja	みっしり		onom
+ja	ジョリジョリ		onom
+ja	ぷかり		onom
+ja	スルッと		onom
+ja	ズボッと		onom
+ja	しゃんしゃん		onom
+ja	ゲタゲタ		onom
+ja	ギタギタ		onom
+ja	ぎったんばっこん		onom
+ja	ペリペリ		onom
+ja	シュルシュル		onom
+ja	ピロピロ		onom
+ja	ぴかり		onom
+ja	ぱしぱし		onom
+ja	ズブズブ		onom
+ja	ぽっぽ		onom
+ja	ポイポイ		onom
+ja	シュッシュッポッポ		onom
+ja	ぴっしゃり		onom
+ja	ぐしゃり		onom
+ja	ボテボテ		onom
+ja	ボテッと		onom
+ja	ほろっと		onom
+ja	ビューン		onom
+ja	ガブッと		onom
+ja	キレキレ		onom
+ja	けろけろ		onom
+ja	ちゃかちゃか		onom
+ja	うふん		onom
+ja	すぽり		onom
+ja	ぽっこり		onom
+ja	じわり		onom
+ja	ずっぷり		onom
+ja	どきん		onom
+ja	ジューッ		onom
+ja	そろっと		onom
+ja	たらり		onom
+ja	モワッと		onom
+ja	むぎゅむぎゅ		onom
+ja	ぎっくり		onom
+ja	グニュッと		onom
+ja	ぬるっと		onom
+ja	ひーこら		onom
+ja	ちゃりん		onom
+ja	ばたっと		onom
+ja	ビョンビョン		onom
+ja	ちょろり		onom
+ja	キコキコ		onom
+ja	にゅるり		onom
+ja	パリン		onom
+ja	パタッと		onom
+ja	ワタワタ		onom
+ja	わっさわっさ		onom
+ja	ちょっぴし		onom
+ja	ゲフンゲフン		onom
+ja	ムチムチ		onom
+ja	ぴょいと		onom
+ja	にゅるっと		onom
+ja	ニュルニュル		onom
+ja	ピーポー		onom
+ja	バチバチ		onom
+ja	ぱさり		onom
+ja	ばさっと		onom
+ja	バブー		onom
+ja	バブバブ		onom
+ja	ぽよぽよ		onom
+ja	たゆんたゆん		onom
+ja	びよーん		onom
+ja	ピタピタ		onom
+ja	ごとん		onom
+ja	のたり		onom
+ja	ホーホケキョ		onom
+ja	ネチャネチャ		onom
+ja	グチャリ		onom
+ja	どてん		onom
+ja	キュルキュル		onom
+ja	ふわもこ		onom
+ja	ハフハフ		onom
+ja	ぱかっと		onom
+ja	ガリッと		onom
+ja	どろっと		onom
+ja	パキッ		onom
+ja	パツパツ		onom
+ja	ふがふが		onom
+ja	ニマニマ		onom
+ja	トンテンカン		onom
+ja	チュパチュパ		onom
+ja	プツン		onom
+ja	プツッ		onom
+ja	プツリ		onom
+ja	ピクン		onom
+ja	ビキビキ		onom
+ja	パシャ		onom
+ja	キンキラ		onom
+ja	ワシャワシャ		onom
+ja	ぞわり		onom
+ja	ゾワゾワ		onom
+ja	ずるり		onom
+ja	ビロビロ		onom
+ja	ざらっと		onom
+ja	みしり		onom
+ja	ベリベリ		onom
+ja	もったり		onom
+ja	ずしっと		onom
+ja	ゴテゴテ		onom
+ja	ばらり		onom
+ja	パーン		onom
+ja	ほんわり		onom
+ja	ひゅっと		onom
+ja	ペシペシ		onom
+ja	ドスドス		onom
+ja	あわあわ		onom
+ja	スンスン		onom
+ja	ねっちり		onom
+ja	ぶわっ		onom
+ja	ぽそっと		onom
+ja	じとっと		onom
+ja	ズボズボ		onom
+ja	ズブッと		onom
+ja	だばだば		onom
+ja	ぼさっと		onom
+ja	ドドン		onom
+ja	べりっと		onom
+ja	じめっと		onom
+ja	ゴッチン		onom
+ja	ごっつんこ		onom
+ja	ウホウホ		onom
+ja	ぽこっと		onom
+ja	ムワムワ		onom
+ja	ムニムニ		onom
+ja	のろり		onom
+ja	そろりそろり		onom
+ja	ドバッと		onom
+ja	ぷりんぷりん		onom
+ja	ボトリ		onom
+ja	コツン		onom
+ja	ジョキジョキ		onom
+ja	ちゅるちゅる		onom
+ja	もにょもにょ		onom
+ja	もにょる		onom
+ja	ブスリ		onom
+ja	せこせこ		onom
+ja	パカラッパカラッ		onom
+ja	ぞろっと		onom
+ja	ヒュードロドロ		onom
+ja	みゃー		onom
+ja	ちゃぽん		onom
+ja	ほわほわ		onom
+ja	ポリポリ		onom
+ja	ぷらぷら		onom
+ja	ジャカジャカ		onom
+ja	ジャバジャバ		onom
+ja	じわりじわり		onom
+ja	ゲコゲコ		onom
+ja	グニグニ		onom
+ja	パオーン		onom
+ja	つけつけ		onom
+ja	にゅっと		onom
+ja	ピーチクパーチク		onom
+ja	ビクン		onom
+ja	バキューン		onom
+ja	カクッと		onom
+ja	ぎりり		onom
+ja	ガチャッ		onom
+ja	ドタッ		onom
+ja	ドキマギ		onom
+ja	けっ		onom
+ja	にへら		onom
+ja	ボコッ		onom
+ja	ドクッ		onom
+ja	もちっ		onom
+ja	ジリッ		onom
+ja	ざざっ		onom
+ja	ピッ		onom
+ja	ピチャッ		onom
+ja	ピシャン		onom
+ja	ピュッ		onom
+ja	ムチっ		onom
+ja	ジュワッ		onom
+ja	グサグサ		onom
+ja	ペシッ		onom
+ja	パシッ		onom
+ja	くちゅくちゅ		onom
+ja	ぐふふ		onom
+ja	ボカスカ		onom
+ja	べそべそ		onom
+ja	オエッ		onom
+ja	ちっちっ		onom
+ja	ぐびり		onom
+ja	ふるふる		onom
+ja	タプンタプン		onom
+ja	やわやわ		onom
+ja	キンコン		onom
+ja	ウジョウジョ		onom
+ja	ぽかっ		onom
+ja	ぬるっ		onom
+ja	かちゃん		onom
+ja	ズルっ		onom
+ja	がっくん		onom
+ja	くらっ		onom
+ja	がったん		onom
+ja	もさっ		onom
+ja	ひょろっ		onom
+ja	ふかっ		onom
+ja	ちゃらっ		onom
+ja	じゃらん		onom
+ja	かくっ		onom
+ja	かしゃん		onom
+ja	カリッ		onom
+ja	イラッ		onom
+ja	パリッ		onom
+ja	ひくっ		onom
+ja	こちん		onom
+ja	シュッ		onom
+ja	スーッ		onom
+ja	ズバッ		onom
+ja	きらっ		onom
+ja	じわっ		onom
+ja	チクッ		onom
+ja	ポキッ		onom
+ja	ベチャッ		onom
+ja	カチッ		onom
+ja	ピチッ		onom
+ja	がぶっ		onom
+ja	パシャッ		onom
+ja	ひゅっ		onom
+ja	バタッ		onom
+ja	こくっ		onom
+ja	むくっ		onom
+ja	よろっ		onom
+ja	スパッ		onom
+ja	ガシッ		onom
+ja	ギョロッ		onom
+ja	バシッ		onom
+ja	プリッ		onom
+ja	スラッ		onom
+ja	ペロッ		onom
+ja	クシャッ		onom
+ja	フラッ		onom
+ja	ツルッ		onom
+ja	ピシッ		onom
+ja	ペタッ		onom
+ja	ヒューン		onom
+ja	ビクッ		onom
+ja	ポロッ		onom
+ja	ドキッ		onom
+ja	スルッ		onom
+ja	スポッ		onom
+ja	ズラッ		onom
+ja	ドロッ		onom
+ja	ゾクッ		onom
+ja	ポタッ		onom
+ja	コロッ		onom
+ja	ガバッ		onom
+ja	ツーン		onom
+ja	ザクッ		onom
+ja	ゴロン		onom
+ja	バチッ		onom
+ja	ジャリッ		onom
+ja	グサッ		onom
+ja	シュワッ		onom
+ja	ゴロッ		onom
+ja	ピカッ		onom
+ja	ポンッ		onom
+ja	バキッ		onom
+ja	ドバッ		onom
+ja	バーッ		onom
+ja	ドンッ		onom
+ja	ガーッ		onom
+ja	パーッ		onom
+ja	グルッ		onom
+ja	バサッ		onom
+ja	ベタッ		onom
+ja	みしっ		onom
+ja	ペコッ		onom
+ja	シューン		onom
+ja	ポコッ		onom
+ja	ズキッ		onom
+ja	パラッ		onom
+ja	ドサッ		onom
+ja	バリッ		onom
+ja	ぎゅぎゅっ		onom
+ja	ゴロリ		onom
+ja	ムスッ		onom
+ja	ホロッ		onom
+ja	ガリッ		onom
+ja	ビリッ		onom
+ja	パタッ		onom
+ja	クタッ		onom
+ja	パンッ		onom
+ja	カーッ		onom
+ja	ザラッ		onom
+ja	ぼろっ		onom
+ja	ぽかっと		onom
+ja	ぼろっと		onom
+ja	ゆるっと		onom
+ja	すくっと		onom
+ja	もやっと		onom
+ja	だらっと		onom
+ja	はらっと		onom
+ja	ちゃちゃっと		onom
+ja	どかんと		onom
+ja	どーんと		onom
+ja	しなっと		onom
+ja	ぎゅぎゅっと		onom
+ja	びゅっと		onom
+ja	どすんと		onom
+ja	だらんと		onom
+ja	ぺたっと		onom
+ja	ぴょこんと		onom
+ja	しゃりっと		onom
+ja	ぷちっと		onom
+ja	どきんと		onom
+ja	ゾワッ		onom
+ja	パカッ		onom
+ja	コリッ		onom
+ja	バンッ		onom
+ja	ピクッ		onom
+ja	フーッ		onom
+ja	ピキッ		onom
+ja	ブスッ		onom
+ja	ボヤッと		onom
+ja	ピーッ		onom
+ja	ギュン		onom
+ja	ズシッと		onom
+ja	シャッ		onom
+ja	グイン		onom
+ja	ダーン		onom
+ja	ポコン		onom
+ja	グラッ		onom
+ja	ボキッ		onom
+ja	ちょこなんと		onom
+ja	ビタッ		onom
+ja	ガタッ		onom
+ja	ニョキッ		onom
+ja	ボンッ		onom
+ja	ゴリッ		onom
+ja	フンッ		onom
+ja	ぺたんと		onom
+ja	ばらっと		onom
+ja	ざざっと		onom
+ja	ジメッと		onom
+ja	ヒュン		onom
+ja	にたっと		onom
+ja	グルン		onom
+ja	グビッ		onom
+ja	ゴホッ		onom
+ja	プルッ		onom
+ja	ギーッ		onom
+ja	クワッ		onom
+ja	プクッ		onom
+ja	ガツッ		onom
+ja	ギラッ		onom
+ja	プイッ		onom
+ja	ペリッ		onom
+ja	ドシッ		onom
+ja	ムワッ		onom
+ja	ゴンッ		onom
+ja	ぴょこっと		onom
+ja	ポヨン		onom
+ja	ぷつっと		onom
+ja	パサッ		onom
+ja	ガンッ		onom
+ja	ムラッ		onom
+ja	カツン		onom
+ja	ブツッ		onom
+ja	ゴソッ		onom
+ja	ムギュッ		onom
+ja	グニャッ		onom
+ja	パコッ		onom
+ja	ガシャッと		onom
+ja	コンッ		onom
+ja	グキッ		onom
+ja	ぎろっと		onom
+ja	ニュッ		onom
+ja	プチン		onom
+ja	バシャン		onom
+ja	ポテッ		onom
+ja	ホワッ		onom
+ja	ピシャッ		onom
+ja	サッサッ		onom
+ja	グシャッ		onom
+ja	ビクリ		onom
+ja	ブヨン		onom
+ja	ビタッと		onom
+ja	ぷつんと		onom
+ja	バシャッ		onom
+ja	クシュッ		onom
+ja	メリッ		onom
+ja	スタッと		onom
+ja	ドドッ		onom
+ja	パカリ		onom
+ja	クシュン		onom
+ja	プスッ		onom
+ja	ザワッ		onom
+ja	ぷるっと		onom
+ja	ポーッ		onom
+ja	グリッ		onom
+ja	ドスッ		onom
+ja	ザーン		onom
+ja	グチャッ		onom
+ja	カランと		onom
+ja	ヒョイッ		onom
+ja	むちっと		onom
+ja	コテッと		onom
+ja	グリンと		onom
+ja	カサッ		onom
+ja	ぷらっと		onom
+ja	スルスルッ		onom
+ja	コツッ		onom
+ja	ボサッ		onom
+ja	ジャーッ		onom
+ja	ポツッ		onom
+ja	クシャン		onom
+ja	ごちゃっと		onom
+ja	グスッ		onom
+ja	ビリリ		onom
+ja	トンッ		onom
+ja	ワンッ		onom
+ja	ベリッ		onom
+ja	ボトッ		onom
+ja	ゴーンと		onom
+ja	ホイッ		onom
+ja	ポッキン		onom
+ja	バクッ		onom
+ja	ぐびっと		onom
+ja	パコン		onom
+ja	ぱちっと		onom
+ja	ボトン		onom
+ja	ぷるんっと		onom
+ja	ギュンと		onom
+ja	カンッ		onom
+ja	シュポッと		onom
+ja	ぱきっと		onom
+ja	チリン		onom
+ja	パアッ		onom
+ja	ズンッ		onom
+ja	ブンッ		onom
+ja	クックッ		onom
+ja	ニュルッ		onom
+ja	ぱたんと		onom
+ja	プニッ		onom
+ja	クンッ		onom
+ja	ジトッと		onom
+ja	ヒョコッ		onom
+ja	モコッ		onom
+ja	ドテッ		onom
+ja	パフッ		onom
+ja	ストッ		onom
+ja	ゴトッ		onom
+ja	ギシッ		onom
+ja	トクン		onom
+ja	キンッ		onom
+ja	コトッ		onom
+ja	ざぶんと		onom
+ja	ツーッ		onom
+ja	ポリッ		onom
+ja	ピョコッ		onom
+ja	ぴゅっと		onom
+ja	ゲホッ		onom
+ja	ベコッ		onom
+ja	チョキッ		onom
+ja	ポチャッ		onom
+ja	バチバチッ		onom
+ja	ムニッ		onom
+ja	グニュッ		onom
+ja	ジロッ		onom
+ja	ギリッ		onom
+ja	バリンと		onom
+ja	スイッと		onom
+ja	ぷらりと		onom
+ja	先ず隗より始めよ	まずかいよりはじめよ	proverb
+ja	一姫二太郎	いちひめにたろう	proverb
+ja	言わぬが花	いわぬがはな	proverb
+ja	出る釘は打たれる	でるくぎはうたれる	proverb
+ja	春眠暁を覚えず	しゅんみんあかつきをおぼえず	proverb
+ja	女三人寄れば姦しい	おんなさんにんよればかしましい	proverb
+ja	地震雷火事親父	じしんかみなりかじおやじ	proverb
+ja	同病相憐れむ	どうびょうあいあわれむ	proverb
+ja	馬鹿は死ななきゃ治らない	ばかはしななきゃなおらない	proverb
+ja	必要は発明の母	ひつようははつめいのはは	proverb
+ja	坊主憎けりゃ袈裟まで憎い	ぼうずにくけりゃけさまでにくい	proverb
+ja	落花枝に帰らず破鏡再び照らさず	らっかえだにかえらずはきょうふたたびてらさず	proverb
+ja	李下に冠を正さず	りかにかんむりをたださず	proverb
+ja	蓼食う虫も好き好き	たでくうむしもすきずき	proverb
+ja	貧すれば鈍する	ひんすればどんする	proverb
+ja	窮すれば通ず	きゅうすればつうず	proverb
+ja	無くて七癖	なくてななくせ	proverb
+ja	魚心あれば水心	うおごころあればみずごころ	proverb
+ja	女心と秋の空	おんなごころとあきのそら	proverb
+ja	天網恢恢疎にして漏らさず	てんもうかいかいそにしてもらさず	proverb
+ja	忙中閑あり	ぼうちゅうかんあり	proverb
+ja	赤信号皆で渡れば怖くない	あかしんごうみんなでわたればこわくない	proverb
+ja	悪貨は良貨を駆逐する	あっかはりょうかをくちくする	proverb
+ja	悪事千里を走る	あくじせんりをはしる	proverb
+ja	楽あれば苦あり	らくあればくあり	proverb
+ja	早い者勝ち	はやいものがち	proverb
+ja	小人閑居	しょうじんかんきょ	proverb
+ja	よく学びよく遊べ	よくまなびよくあそべ	proverb
+ja	精神一到何事か成らざらん	せいしんいっとうなにごとかならざらん	proverb
+ja	渇しても盗泉の水を飲まず	かっしてもとうせんのみずをのまず	proverb
+ja	郷に入らば郷に従え	ごうにいらばごうにしたがえ	proverb
+ja	羹に懲りて膾を吹く	あつものにこりてなますをふく	proverb
+ja	瓜の蔓に茄子はならぬ	うりのつるになすびはならぬ	proverb
+ja	割れ鍋に綴じ蓋	われなべにとじぶた	proverb
+ja	鶴は千年亀は万年	つるはせんねんかめはまんねん	proverb
+ja	痘痕も笑窪	あばたもえくぼ	proverb
+ja	鳴く猫は鼠を捕らぬ	なくねこはねずみをとらぬ	proverb
+ja	弘法にも筆の誤り	こうぼうにもふでのあやまり	proverb
+ja	天才と狂人は紙一重	てんさいときょうじんはかみひとえ	proverb
+ja	無い袖は振れない	ないそではふれない	proverb
+ja	群盲象を撫でる	ぐんもうぞうをなでる	proverb
+ja	群盲象を評す	ぐんもうぞうをひょうす	proverb
+ja	負うた子に教えられて浅瀬を渡る	おうたこにおしえられてあさせをわたる	proverb
+ja	瓜田に履を納れず	かでんにくつをいれず	proverb
+ja	窮鳥懐に入れば猟師もこれを殺さず	きゅうちょうふところにいればりょうしもこれをころさず	proverb
+ja	おごる平家久しからず	おごるへいけひさしからず	proverb
+ja	氏より育ち	うじよりそだち	proverb
+ja	二君に仕えず	にくんにつかえず	proverb
+ja	転石苔を生ぜず	てんせきこけをしょうぜず	proverb
+ja	敵を欺くにはまず味方から	てきをあざむくにはまずみかたから	proverb
+ja	入るを量りて出ずるを為す	いるをはかりていずるをなす	proverb
+ja	過ちては則ち改むるに憚ること勿れ	あやまちてはすなわちあらたむるにはばかることなかれ	proverb
+ja	雉も鳴かずば撃たれまい	きじもなかずばうたれまい	proverb
+ja	事実は小説より奇なり	じじつはしょうせつよりきなり	proverb
+ja	事実は小説よりも奇なり	じじつはしょうせつよりもきなり	proverb
+ja	金は天下の回り物	かねはてんかのまわりもの	proverb
+ja	縁は異なもの味なもの	えんはいなものあじなもの	proverb
+ja	縁は異なもの	えんはいなもの	proverb
+ja	裏には裏がある	うらにはうらがある	proverb
+ja	巧言令色鮮し仁	こうげんれいしょくすくなしじん	proverb
+ja	三十六計逃げるに如かず	さんじゅうろっけいにげるにしかず	proverb
+ja	万緑叢中紅一点	ばんりょくそうちゅうこういってん	proverb
+ja	門前の小僧習わぬ経を読む	もんぜんのこぞうならわぬきょうをよむ	proverb
+ja	悪妻は百年の不作	あくさいはひゃくねんのふさく	proverb
+ja	人間到る処青山あり	にんげんいたるところせいざんあり	proverb
+ja	すまじきものは宮仕え	すまじきものはみやづかえ	proverb
+ja	恋は盲目	こいはもうもく	proverb
+ja	艱難汝を玉にす	かんなんなんじをたまにす	proverb
+ja	夜目遠目笠の内	よめとおめかさのうち	proverb
+ja	衣食足りて礼節を知る	いしょくたりてれいせつをしる	proverb
+ja	青は藍より出でて藍より青し	あおはあいよりいでてあいよりあおし	proverb
+ja	逢うは別れの始め	あうはわかれのはじめ	proverb
+ja	秋の日は釣瓶落とし	あきのひはつるべおとし	proverb
+ja	悪事千里を行く	あくじせんりをいく	proverb
+ja	麻の中の蓬	あさのなかのよもぎ	proverb
+ja	雨垂れ石を穿つ	あまだれいしをうがつ	proverb
+ja	壁に耳あり	かべにみみあり	proverb
+ja	死人に口なし	しにんにくちなし	proverb
+ja	風が吹けば桶屋が儲かる	かぜがふけばおけやがもうかる	proverb
+ja	三尺下がって師の影を踏まず	さんじゃくさがってしのかげをふまず	proverb
+ja	三歩下がって師の影を踏まず	さんぽさがってしのかげをふまず	proverb
+ja	商いは牛のよだれ	あきないはうしのよだれ	proverb
+ja	悪銭身に付かず	あくせんみにつかず	proverb
+ja	歳月人を待たず	さいげつひとをまたず	proverb
+ja	亭主の好きな赤烏帽子	ていしゅのすきなあかえぼし	proverb
+ja	渡る世間に鬼はない	わたるせけんにおにはない	proverb
+ja	苦は楽の種	くはらくのたね	proverb
+ja	楽は苦の種、苦は楽の種	らくはくのたねくはらくのたね	proverb
+ja	山高きが故に貴からず	やまたかきがゆえにたっとからず	proverb
+ja	柳の下にいつも泥鰌はおらぬ	やなぎのしたにいつもどじょうはおらぬ	proverb
+ja	柳に雪折れなし	やなぎにゆきおれなし	proverb
+ja	桃栗三年柿八年	ももくりさんねんかきはちねん	proverb
+ja	一年の計は元旦にあり	いちねんのけいはがんたんにあり	proverb
+ja	甲の薬は乙の毒	こうのくすりはおつのどく	proverb
+ja	旅は道連れ世は情け	たびはみちづれよはなさけ	proverb
+ja	人の口には戸が立てられない	ひとのくちにはとがたてられない	proverb
+ja	若い時の苦労は買うてもせよ	わかいときのくろうはこうてもせよ	proverb
+ja	男は度胸女は愛敬	おとこはどきょうおんなはあいきょう	proverb
+ja	好奇心は猫をも殺す	こうきしんはねこをもころす	proverb
+ja	甘い物は別腹	あまいものはべつばら	proverb
+ja	枯れ木も山の賑わい	かれきもやまのにぎわい	proverb
+ja	番茶も出花	ばんちゃもでばな	proverb
+ja	鬼も十八番茶も出花	おにもじゅうはちばんちゃもでばな	proverb
+ja	少年老い易く学成り難し	しょうねんおいやすくがくなりがたし	proverb
+ja	一寸の光陰軽んずべからず	いっすんのこういんかろんずべからず	proverb
+ja	貧乏暇なし	びんぼうひまなし	proverb
+ja	天は自ら助くる者を助く	てんはみずからたすくるものをたすく	proverb
+ja	ペンは剣よりも強し	ぺんはけんよりもつよし	proverb
+ja	多芸は無芸	たげいはむげい	proverb
+ja	沈黙は金雄弁は銀	ちんもくはきんゆうべんはぎん	proverb
+ja	働かざる者食うべからず	はたらかざるものくうべからず	proverb
+ja	死んで花実が咲くものか	しんではなみがさくものか	proverb
+ja	死んで花実がなるものか	しんではなみがなるものか	proverb
+ja	去る者は日々に疎し	さるものはひびにうとし	proverb
+ja	己の欲せざる所は人に施す勿れ	おのれのほっせざるところはひとにほどこすなかれ	proverb
+ja	汝の敵を愛せよ	なんじのてきをあいせよ	proverb
+ja	汝の隣人を愛せよ	なんじのりんじんをあいせよ	proverb
+ja	過ちて改めざるこれを過ちという	あやまちてあらためざるこれをあやまちという	proverb
+ja	子は鎹	こはかすがい	proverb
+ja	月夜の晩ばかりじゃない	つきよのばんばかりじゃない	proverb
+ja	好奇心猫を殺す	こうきしんねこをころす	proverb
+ja	勝負は時の運	しょうぶはときのうん	proverb
+ja	勇将の下に弱卒なし	ゆうしょうのもとにじゃくそつなし	proverb
+ja	男に二言はない	おとこににごんはない	proverb
+ja	冬来たりなば春遠からじ	ふゆきたりなばはるとおからじ	proverb
+ja	背に腹は替えられぬ	せにはらはかえられぬ	proverb
+ja	夜明け前が一番暗い	よあけまえがいちばんくらい	proverb
+ja	日光を見ずして結構と言うなかれ	にっこうをみずしてけっこうというなかれ	proverb
+ja	女房と畳は新しい方が良い	にょうぼうとたたみはあたらしいほうがいい	proverb
+ja	学問に王道なし	がくもんにおうどうなし	proverb
+ja	幽霊の正体見たり枯れ尾花	ゆうれいのしょうたいみたりかれおばな	proverb
+ja	物は言いよう	ものはいいよう	proverb
+ja	過ぎたるは及ばざるがごとし	すぎたるはおよばざるがごとし	proverb
+ja	色気より食い気	いろけよりくいけ	proverb
+ja	噂をすれば影	うわさをすればかげ	proverb
+ja	英雄色を好む	えいゆういろをこのむ	proverb
+ja	正直者が馬鹿を見る	しょうじきものがばかをみる	proverb
+ja	鬼が出るか蛇が出るか	おにがでるかじゃがでるか	proverb
+ja	下手な考え休むに似たり	へたなかんがえやすむににたり	proverb
+ja	去る者追わず	さるものおわず	proverb
+ja	来る者拒まず	くるものこばまず	proverb
+ja	来る者は拒まず	くるものはこばまず	proverb
+ja	用心するに越したことはない	ようじんするにこしたことはない	proverb
+ja	ナポリを見て死ね	なぽりをみてしね	proverb
+ja	アホにつける薬なし	あほにつけるくすりなし	proverb
+ja	悪人は畳の上では死ねない	あくにんはたたみのうえではしねない	proverb
+ja	悪法もまた法なり	あくほうもまたほうなり	proverb
+ja	成るように成る	なるようになる	proverb
+ja	一銭を笑う者は一銭に泣く	いっせんをわらうものはいっせんになく	proverb
+ja	一念天に通ず	いちねんてんにつうず	proverb
+ja	嘘つきは泥棒の始まり	うそつきはどろぼうのはじまり	proverb
+ja	遠くの親類より近くの他人	とおくのしんるいよりちかくのたにん	proverb
+ja	下手の考え休むに似たり	へたのかんがえやすむににたり	proverb
+ja	下手の長談義	へたのながだんぎ	proverb
+ja	可愛さ余って憎さ百倍	かわいさあまってにくさひゃくばい	proverb
+ja	稼ぐに追いつく貧乏なし	かせぐにおいつくびんぼうなし	proverb
+ja	我が身をつねって人の痛さを知れ	わがみをつねってひとのいたさをしれ	proverb
+ja	寄る年波には勝てない	よるとしなみにはかてない	proverb
+ja	鬼が出るか仏が出るか	おにがでるかほとけがでるか	proverb
+ja	求めよさらば与えられん	もとめよさらばあたえられん	proverb
+ja	泣く子と地頭には勝てぬ	なくことじとうにはかてぬ	proverb
+ja	去る者は追わず	さるものはおわず	proverb
+ja	去る者日々に疎し	さるものひびにうとし	proverb
+ja	魚心あれば水心あり	うおごころあればみずごころあり	proverb
+ja	教うるは学ぶの半ば	おしうるはまなぶのなかば	proverb
+ja	狭き門より入れ	せまきもんよりいれ	proverb
+ja	金が金を生む	かねがかねをうむ	proverb
+ja	金が物を言う	かねがものをいう	proverb
+ja	金を貸せば友を失う	かねをかせばともをうしなう	proverb
+ja	金銀は回り持ち	きんぎんはまわりもち	proverb
+ja	苦あれば楽あり	くあればらくあり	proverb
+ja	君子危うきに近寄らず	くんしあやうきにちかよらず	proverb
+ja	君子豹変す	くんしひょうへんす	proverb
+ja	鶏口となるも牛後となる勿れ	けいこうとなるもぎゅうごとなるなかれ	proverb
+ja	芸は身を助く	げいはみをたすく	proverb
+ja	芸術は長く人生は短し	げいじゅつはながくじんせいはみじかし	proverb
+ja	血は水よりも濃い	ちはみずよりもこい	proverb
+ja	血は争えない	ちはあらそえない	proverb
+ja	健全なる精神は健全なる身体に宿る	けんぜんなるせいしんはけんぜんなるしんたいにやどる	proverb
+ja	見ぬが花	みぬがはな	proverb
+ja	見ると聞くとは大違い	みるときくとはおおちがい	proverb
+ja	故郷忘じ難し	こきょうぼうじがたし	proverb
+ja	後は野となれ山となれ	あとはのとなれやまとなれ	proverb
+ja	好機逸すべからず	こうきいっすべからず	proverb
+ja	孝行のしたい時分に親はなし	こうこうのしたいじぶんにおやはなし	proverb
+ja	慌てる乞食はもらいが少ない	あわてるこじきはもらいがすくない	proverb
+ja	降りかかる火の粉は払わねばならぬ	ふりかかるひのこははらわねばならぬ	proverb
+ja	この親にしてこの子あり	このおやにしてこのこあり	proverb
+ja	今日は人の身明日は我が身	きょうはひとのみあすはわがみ	proverb
+ja	最後に笑う者が最もよく笑う	さいごにわらうものがもっともよくわらう	proverb
+ja	才子才に倒れる	さいしさいにたおれる	proverb
+ja	昨日の友は今日の敵	きのうのともはきょうのてき	proverb
+ja	策士策に溺れる	さくしさくにおぼれる	proverb
+ja	始め良ければ終わり良し	はじめよければおわりよし	proverb
+ja	子は三界の首枷	こはさんがいのくびかせ	proverb
+ja	子を持って知る親の恩	こをもってしるおやのおん	proverb
+ja	思う念力岩をも通す	おもうねんりきいわをもとおす	proverb
+ja	死んだ子の年を数える	しんだこのとしをかぞえる	proverb
+ja	至誠天に通ず	しせいてんにつうず	proverb
+ja	似た者夫婦	にたものふうふ	proverb
+ja	時が解決する	ときがかいけつする	proverb
+ja	治に居て乱を忘れず	ちにいてらんをわすれず	proverb
+ja	蒔かぬ種は生えぬ	まかぬたねははえぬ	proverb
+ja	鹿を追う者は山を見ず	しかをおうものはやまをみず	proverb
+ja	蛇の道は蛇	じゃのみちはへび	proverb
+ja	弱き者よ汝の名は女なり	よわきものよなんじのなはおんななり	proverb
+ja	酒は百薬の長	さけはひゃくやくのちょう	proverb
+ja	習い性となる	ならいせいとなる	proverb
+ja	出物腫れ物所嫌わず	でものはれものところきらわず	proverb
+ja	盾の両面を見よ	たてのりょうめんをみよ	proverb
+ja	暑さ寒さも彼岸まで	あつささむさもひがんまで	proverb
+ja	女の一念岩をも通す	おんなのいちねんいわをもとおす	proverb
+ja	女は弱しされど母は強し	おんなはよわしされどはははつよし	proverb
+ja	女三人寄れば姦し	おんなさんにんよればかしまし	proverb
+ja	勝てば官軍、負ければ賊軍	かてばかんぐんまければぞくぐん	proverb
+ja	将を射んと欲すれば先ず馬を射よ	しょうをいんとほっすればまずうまをいよ	proverb
+ja	小の虫を殺して大の虫を生かす	しょうのむしをころしてだいのむしをいかす	proverb
+ja	小人閑居して不善をなす	しょうじんかんきょしてふぜんをなす	proverb
+ja	上手の手から水が漏れる	じょうずのてからみずがもれる	proverb
+ja	情けが仇	なさけがあだ	proverb
+ja	寝る子は育つ	ねるこはそだつ	proverb
+ja	寝るほど楽はなかりけり	ねるほどらくはなかりけり	proverb
+ja	心焉に在らざれば視れども見えず	こころここにあらざればみれどもみえず	proverb
+ja	深い川は静かに流れる	ふかいかわはしずかにながれる	proverb
+ja	親に似ぬ子は鬼子	おやににぬこはおにご	proverb
+ja	親の因果が子に報う	おやのいんががこにむくう	proverb
+ja	親の光は七光り	おやのひかりはななひかり	proverb
+ja	親はなくても子は育つ	おやはなくてもこはそだつ	proverb
+ja	身を捨ててこそ浮かぶ瀬もあれ	みをすててこそうかぶせもあれ	proverb
+ja	人の蠅を追うより己の蠅を追え	ひとのはえをおうよりおのれのはえをおえ	proverb
+ja	人はパンのみにて生くる者に非ず	ひとはぱんのみにていくるものにあらず	proverb
+ja	人は一代名は末代	ひとはいちだいなはまつだい	proverb
+ja	人は見かけによらぬもの	ひとはみかけによらぬもの	proverb
+ja	人を怨むより身を怨め	ひとをうらむよりみをうらめ	proverb
+ja	人を見たら泥棒と思え	ひとをみたらどろぼうとおもえ	proverb
+ja	人を呪わば穴二つ	ひとをのろわばあなふたつ	proverb
+ja	人間万事金の世の中	にんげんばんじかねのよのなか	proverb
+ja	人生意気に感ず	じんせいいきにかんず	proverb
+ja	人生僅か五十年	じんせいわずかごじゅうねん	proverb
+ja	人生行路難し	じんせいこうろかたし	proverb
+ja	人木石に非ず	ひとぼくせきにあらず	proverb
+ja	水は低きに流る	みずはひくきにながる	proverb
+ja	粋が身を食う	すいがみをくう	proverb
+ja	据え膳食わぬは男の恥	すえぜんくわぬはおとこのはじ	proverb
+ja	雀百まで踊り忘れず	すずめひゃくまでおどりわすれず	proverb
+ja	世間の口に戸は立てられぬ	せけんのくちにとはたてられぬ	proverb
+ja	世間は広いようで狭い	せけんはひろいようでせまい	proverb
+ja	ならぬ堪忍するが堪忍	ならぬかんにんするがかんにん	proverb
+ja	正直は一生の宝	しょうじきはいっしょうのたから	proverb
+ja	生みの親より育ての親	うみのおやよりそだてのおや	proverb
+ja	生めよ、殖えよ、地に満てよ	うめよふえよちにみてよ	proverb
+ja	生酔い本性違わず	なまよいほんしょうたがわず	proverb
+ja	生兵法は大怪我のもと	なまびょうほうはおおけがのもと	proverb
+ja	生ある者は必ず死あり	せいあるものはかならずしあり	proverb
+ja	盛年重ねて来たらず	せいねんかさねてきたらず	proverb
+ja	静かに流れる川は深い	しずかにながれるかわはふかい	proverb
+ja	昔は昔、今は今	むかしはむかしいまはいま	proverb
+ja	先んずれば人を制す	さきんずればひとをせいす	proverb
+ja	千丈の堤も蟻の一穴より崩れる	せんじょうのつつみもありのいっけつよりくずれる	proverb
+ja	栴檀は双葉より芳し	せんだんはふたばよりかんばし	proverb
+ja	前車の覆るは後車の戒め	ぜんしゃのくつがえるはこうしゃのいましめ	proverb
+ja	創業は易く守成は難し	そうぎょうはやすくしゅせいはかたし	proverb
+ja	総領の甚六	そうりょうのじんろく	proverb
+ja	憎まれっ子世にはばかる	にくまれっこよにはばかる	proverb
+ja	損して得取る	そんしてとくとる	proverb
+ja	多々益々弁ず	たたますますべんず	proverb
+ja	待てば海路の日和あり	まてばかいろのひよりあり	proverb
+ja	鯛の尾より鰯の頭	たいのおよりいわしのかしら	proverb
+ja	大事の前の小事	だいじのまえのしょうじ	proverb
+ja	大男総身に知恵が回り兼ね	おおおとこそうみにちえがまわりかね	proverb
+ja	叩けよさらば開かれん	たたけよさらばひらかれん	proverb
+ja	短気は損気	たんきはそんき	proverb
+ja	断じて行えば鬼神も之を避く	だんじておこなえばきしんもこれをさく	proverb
+ja	男やもめに蛆がわく	おとこやもめにうじがわく	proverb
+ja	知者も千慮に一失	ちしゃもせんりょにいっしつ	proverb
+ja	地獄の沙汰も金次第	じごくのさたもかねしだい	proverb
+ja	茶腹も一時	ちゃばらもいっとき	proverb
+ja	忠言耳に逆らう	ちゅうげんみみにさからう	proverb
+ja	長所は短所	ちょうしょはたんしょ	proverb
+ja	鳥なき里の蝙蝠	とりなきさとのこうもり	proverb
+ja	釣り落とした魚は大きい	つりおとしたさかなはおおきい	proverb
+ja	天高く馬肥ゆる秋	てんたかくうまこゆるあき	proverb
+ja	転んでもただは起きぬ	ころんでもただはおきぬ	proverb
+ja	桃李もの言わざれども下自ら蹊を成す	とうりものいわざれどもしたおのずからみちをなす	proverb
+ja	盗人にも三分の理	ぬすびとにもさんぶのり	proverb
+ja	盗人を捕らえて見れば我が子なり	ぬすびとをとらえてみればわがこなり	proverb
+ja	逃げるが勝ち	にげるがかち	proverb
+ja	毒を食らわば皿まで	どくをくらわばさらまで	proverb
+ja	日暮れて道遠し	ひくれてみちとおし	proverb
+ja	入るを量りて出ずるを制す	いるをはかりていずるをせいす	proverb
+ja	忍の一字	にんのいちじ	proverb
+ja	年は争えない	としはあらそえない	proverb
+ja	馬鹿と鋏は使いよう	ばかとはさみはつかいよう	proverb
+ja	馬鹿につける薬はない	ばかにつけるくすりはない	proverb
+ja	馬鹿の一つ覚え	ばかのひとつおぼえ	proverb
+ja	敗軍の将は兵を語らず	はいぐんのしょうはへいをかたらず	proverb
+ja	板子一枚下は地獄	いたごいちまいしたはじごく	proverb
+ja	あちら立てればこちらが立たぬ	あちらたてればこちらがたたぬ	proverb
+ja	夫婦喧嘩は犬も食わない	ふうふげんかはいぬもくわない	proverb
+ja	腹も身の内	はらもみのうち	proverb
+ja	ものは考えよう	ものはかんがえよう	proverb
+ja	物は使いよう	ものはつかいよう	proverb
+ja	ものは試し	ものはためし	proverb
+ja	ものは相談	ものはそうだん	proverb
+ja	物も言い様	ものもいいよう	proverb
+ja	物も言い様で角が立つ	ものもいいようでかどがたつ	proverb
+ja	物言えば唇寒し秋の風	ものいえばくちびるさむしあきのかぜ	proverb
+ja	文は人なり	ぶんはひとなり	proverb
+ja	聞いて極楽見て地獄	きいてごくらくみてじごく	proverb
+ja	聞くと見るとは大違い	きくとみるとはおおちがい	proverb
+ja	便りのないのはよい便り	たよりのないのはよいたより	proverb
+ja	無理が通れば道理が引っ込む	むりがとおればどうりがひっこむ	proverb
+ja	名は体を表す	なはたいをあらわす	proverb
+ja	命長ければ恥多し	いのちながければはじおおし	proverb
+ja	命あっての物種	いのちあってのものだね	proverb
+ja	明日のことを言えば鬼が笑う	あすのことをいえばおにがわらう	proverb
+ja	明日の百より今日の五十	あすのひゃくよりきょうのごじゅう	proverb
+ja	問うは一旦の恥、問わぬは末代の恥	とうはいったんのはじとわぬはまつだいのはじ	proverb
+ja	薬より養生	くすりよりようじょう	proverb
+ja	柳の下にいつも泥鰌はいない	やなぎのしたにいつもどじょうはいない	proverb
+ja	雄弁は銀、沈黙は金	ゆうべんはぎんちんもくはきん	proverb
+ja	朝焼けは雨、夕焼けは晴れ	あさやけはあめゆうやけははれ	proverb
+ja	用心に越したことはない	ようじんにこしたことはない	proverb
+ja	来年のことを言うと鬼が笑う	らいねんのことをいうとおにがわらう	proverb
+ja	旅の恥はかき捨て	たびのはじはかきすて	proverb
+ja	旅は心世は情け	たびはこころよはなさけ	proverb
+ja	両雄並び立たず	りょうゆうならびたたず	proverb
+ja	隣の花は赤い	となりのはなはあかい	proverb
+ja	例外のない規則はない	れいがいのないきそくはない	proverb
+ja	歴史は繰り返す	れきしはくりかえす	proverb
+ja	恋は思案の外	こいはしあんのほか	proverb
+ja	老いては子に従え	おいてはこにしたがえ	proverb
+ja	綺麗な薔薇には棘がある	きれいなばらにはとげがある	proverb
+ja	おごる平家は久しからず	おごるへいけはひさしからず	proverb
+ja	人には添うてみよ馬には乗ってみよ	ひとにはそうてみようまにはのってみよ	proverb
+ja	去る者は追わず、来たる者は拒まず	さるものはおわずきたるものはこばまず	proverb
+ja	彼を知り己を知れば、百戦殆からず	かれをしりおのれをしればひゃくせんあやうからず	proverb
+ja	省あって国なし	しょうあってくになし	proverb
+ja	男心と秋の空	おとこごころとあきのそら	proverb
+ja	義を見てせざるは勇なきなり	ぎをみてせざるはゆうなきなり	proverb
+ja	郷に入れば郷に従え	ごうにいればごうにしたがえ	proverb
+ja	一事が万事	いちじがばんじ	proverb
+ja	幸運の女神は前髪しかない	こううんのめがみはまえがみしかない	proverb
+ja	秋茄子は嫁に食わすな	あきなすはよめにくわすな	proverb
+ja	愚者も千慮に一得	ぐしゃもせんりょにいっとく	proverb
+ja	小の虫を殺して大の虫を助ける	しょうのむしをころしてだいのむしをたすける	proverb
+ja	大の虫を生かして小の虫を殺す	だいのむしをいかしてしょうのむしをころす	proverb
+ja	弘法筆を選ばず	こうぼうふでをえらばず	proverb
+ja	水心あれば魚心	みずごころあればうおごころ	proverb
+ja	千里の行も足下に始まる	せんりのこうもそっかにはじまる	proverb
+ja	知は力なり	ちはちからなり	proverb
+ja	人を見て法を説け	ひとをみてほうをとけ	proverb
+ja	嚢中の錐	のうちゅうのきり	proverb
+ja	既往は咎めず	きおうはとがめず	proverb
+ja	他山の石以て玉を攻むべし	たざんのいしもってたまをおさむべし	proverb
+ja	火事と喧嘩は江戸の華	かじとけんかはえどのはな	proverb
+ja	積不善の家には必ず余殃あり	せきふぜんのいえにはかならずよおうあり	proverb
+ja	積善の家には必ず余慶あり	せきぜんのいえにはかならずよけいあり	proverb
+ja	ナポリを見てから死ね	なぽりをみてからしね	proverb
+ja	柔よく剛を制す	じゅうよくごうをせいす	proverb
+ja	墓に布団は着せられぬ	はかにふとんはきせられぬ	proverb
+ja	神のみぞ知る	かみのみぞしる	proverb
+ja	転んでもただでは起きない	ころんでもただではおきない	proverb
+ja	花泥棒は罪にならない	はなどろぼうはつみにならない	proverb
+ja	今泣いた烏がもう笑う	いまないたからすがもうわらう	proverb
+ja	疑心暗鬼を生ず	ぎしんあんきをしょうず	proverb
+ja	猫が顔を洗うと雨が降る	ねこがかおをあらうとあめがふる	proverb
+ja	腹の皮が突っ張れば目の皮がたるむ	はらのかわがつっぱればめのかわがたるむ	proverb
+ja	ふぐは食いたし命は惜しし	ふぐはくいたしいのちはおしし	proverb
+ja	臭いもの身知らず	くさいものみしらず	proverb
+ja	子供の喧嘩に親が出る	こどものけんかにおやがでる	proverb
+ja	坊主丸儲け	ぼうずまるもうけ	proverb
+ja	隗より始めよ	かいよりはじめよ	proverb
+ja	油断は禁物	ゆだんはきんもつ	proverb
+ja	お客様は神様	おきゃくさまはかみさま	proverb
+ja	泣く子と地頭には勝てない	なくことじとうにはかてない	proverb
+ja	卑下も自慢の中	ひげもじまんのうち	proverb
+ja	罪を憎んで人を憎まず	つみをにくんでひとをにくまず	proverb
+ja	問うは一度の恥、問わぬは末代の恥	とうはいちどのはじとわぬはまつだいのはじ	proverb
+ja	問うに落ちず語るに落ちる	とうにおちずかたるにおちる	proverb
+ja	日光を見ない中は結構と言うな	にっこうをみないうちはけっこうというな	proverb
+ja	立っているものは親でも使え	たっているものはおやでもつかえ	proverb
+ja	百日の説法屁一つ	ひゃくにちのせっぽうへひとつ	proverb
+ja	春宵一刻値千金	しゅんしょういっこくあたいせんきん	proverb
+ja	理屈と膏薬はどこへでもつく	りくつとこうやくはどこへでもつく	proverb
+ja	下手な鉄砲も数撃てば当たる	へたなてっぽうもかずうてばあたる	proverb
+ja	蛇に噛まれて朽ち縄に怖じる	へびにかまれてくちなわにおじる	proverb
+ja	疑わしきは罰せず	うたがわしきはばっせず	proverb
+ja	蟹は甲羅に似せて穴を掘る	かにはこうらににせてあなをほる	proverb
+ja	あの声で蜥蜴食らうか時鳥	あのこえでとかげくらうかほととぎす	proverb
+ja	豚もおだてりゃ木に登る	ぶたもおだてりゃきにのぼる	proverb
+ja	鰯の頭も信心から	いわしのあたまもしんじんから	proverb
+ja	起きて半畳寝て一畳	おきてはんじょうねていちじょう	proverb
+ja	禍福は糾える縄のごとし	かふくはあざなえるなわのごとし	proverb
+ja	一円を笑う者は一円に泣く	いちえんをわらうものはいちえんになく	proverb
+ja	お神酒上がらぬ神はない	おみきあがらぬかみはない	proverb
+ja	門前の小僧	もんぜんのこぞう	proverb
+ja	蝙蝠も鳥のうち	こうもりもとりのうち	proverb
+ja	七度尋ねて人を疑え	ななたびたずねてひとをうたがえ	proverb
+ja	非理法権天	ひりほうけんてん	proverb
+ja	下衆の後知恵	げすのあとぢえ	proverb
+ja	桑田変じて滄海となる	そうでんへんじてそうかいとなる	proverb
+ja	若い時の苦労は買ってもせよ	わかいときのくろうはかってもせよ	proverb
+ja	桜切る馬鹿、梅切らぬ馬鹿	さくらきるばかうめきらぬばか	proverb
+ja	葷酒山門に入るを許さず	くんしゅさんもんにいるをゆるさず	proverb
+ja	吐いた唾は飲めぬ	はいたつばはのめぬ	proverb
+ja	花は桜木、人は武士	はなはさくらぎひとはぶし	proverb
+ja	山中の賊を破るは易く心中の賊を破るは難し	さんちゅうのぞくをやぶるはやすくしんちゅうのぞくをやぶるはかたし	proverb
+ja	明けない夜はない	あけないよるはない	proverb
+ja	泥棒を捕らえて縄を綯う	どろぼうをとらえてなわをなう	proverb
+ja	日々是好日	にちにちこれこうじつ	proverb
+ja	白駒の隙を過ぐるが如し	はっくのげきをすぐるがごとし	proverb
+ja	孤掌鳴らし難し	こしょうならしがたし	proverb
+ja	親の欲目と他人の僻目	おやのよくめとたにんのひがめ	proverb
+ja	巧詐は拙誠に如かず	こうさはせっせいにしかず	proverb
+ja	陰になり日向になり	かげになりひなたになり	proverb
+ja	知らぬ仏より馴染みの鬼	しらぬほとけよりなじみのおに	proverb
+ja	知らぬ神より馴染みの鬼	しらぬかみよりなじみのおに	proverb
+ja	良禽は木を択んで棲む	りょうきんはきをえらんですむ	proverb
+ja	匹夫も志を奪うべからず	ひっぷもこころざしをうばうべからず	proverb
+ja	井蛙は以って海を語る可からず	せいあはもってうみをかたるべからず	proverb
+ja	孟母断機の教え	もうぼだんきのおしえ	proverb
+ja	修身斉家治国平天下	しゅうしんせいかちこくへいてんか	proverb
+ja	挨拶は時の氏神	あいさつはときのうじがみ	proverb
+ja	氷炭相容れず	ひょうたんあいいれず	proverb
+ja	嘉肴ありと雖も食らわずんばその旨きを知らず	かこうありといえどもくらわずんばそのうまきをしらず	proverb
+ja	欲の熊鷹股裂く	よくのくまたかまたさく	proverb
+ja	洞ヶ峠を決め込む	ほらがとうげをきめこむ	proverb
+ja	身体髪膚これを父母に受くあえて毀傷せざるは孝の始めなり	しんたいはっぷこれをふぼにうくあえてきしょうせざるはこうのはじめなり	proverb
+ja	破鏡再び照らさず	はきょうふたたびてらさず	proverb
+ja	馬には乗ってみよ人には添うてみよ	うまにはのってみよひとにはそうてみよ	proverb
+ja	君子は豹変す	くんしはひょうへんす	proverb
+ja	虎は死して皮を留め人は死して名を残す	とらはししてかわをとどめひとはししてなをのこす	proverb
+ja	長い物には巻かれよ	ながいものにはまかれよ	proverb
+ja	無くて七癖有って四十八癖	なくてななくせあってしじゅうはっくせ	proverb
+ja	足るを知る者は富む	たるをしるものはとむ	proverb
+ja	雀の千声鶴の一声	すずめのせんこえつるのひとこえ	proverb
+ja	名馬に癖あり	めいばにくせあり	proverb
+ja	山より大きな猪は出ぬ	やまよりおおきないのししはでぬ	proverb
+ja	言葉は身の文	ことばはみのあや	proverb
+ja	知る者は言わず言う者は知らず	しるものはいわずいうものはしらず	proverb
+ja	梅は食うとも核食うな、中に天神寝てござる	うめはくうともさねくうななかにてんじんねてござる	proverb
+ja	蟻の穴から堤も崩れる	ありのあなからつつみもくずれる	proverb
+ja	君子は周して比せず小人は比して周せず	くんしはしゅうしてひせずしょうじんはひしてしゅうせず	proverb
+ja	馬鹿と天才は紙一重	ばかとてんさいはかみひとえ	proverb
+ja	牛は牛連れ馬は馬連れ	うしはうしづれうまはうまづれ	proverb
+ja	近しき仲にも垣を結え	ちかしきなかにもかきをゆえ	proverb
+ja	盲千人目明き千人	めくらせんにんめあきせんにん	proverb
+ja	悪に強いは善にも強い	あくにつよいはぜんにもつよい	proverb
+ja	いつまでもあると思うな親と金	いつまでもあるとおもうなおやとかね	proverb
+ja	火を見たら火事と思え	ひをみたらかじとおもえ	proverb
+ja	群盲象を撫ず	ぐんもうぞうをなず	proverb
+ja	悪は延べよ	あくはのべよ	proverb
+ja	合わせ物は離れ物	あわせものははなれもの	proverb
+ja	一樹の陰一河の流れも他生の縁	いちじゅのかげいちがのながれもたしょうのえん	proverb
+ja	言わぬは言うにまさる	いわぬはいうにまさる	proverb
+ja	馬に乗るまでは牛に乗れ	うまにのるまではうしにのれ	proverb
+ja	武士は食わねど高楊枝	ぶしはくわねどたかようじ	proverb
+ja	武士に二言なし	ぶしににごんなし	proverb
+ja	豚を盗んで骨を施す	ぶたをぬすんでほねをほどこす	proverb
+ja	知識は力なり	ちしきはちからなり	proverb
+ja	八十の手習い	はちじゅうのてならい	proverb
+ja	弱き者汝の名は女なり	よわきものなんじのなはおんななり	proverb
+ja	棒ほど願って針ほど叶う	ぼうほどねがってはりほどかなう	proverb
+ja	人の花は赤い	ひとのはなはあかい	proverb
+ja	丸い卵も切りようで四角	まるいたまごもきりようでしかく	proverb
+ja	月満つれば則ち虧く	つきみつればすなわちかく	proverb
+ja	父母の恩は山よりも高く海よりも深し	ふぼのおんはやまよりもたかくうみよりもふかし	proverb
+ja	鳴く蝉よりも鳴かぬ蛍が身を焦がす	なくせみよりもなかぬほたるがみをこがす	proverb
+ja	墨は餓鬼に磨らせ、筆は鬼に持たせよ	すみはがきにすらせふではおににもたせよ	proverb
+ja	沈む瀬あれば浮かぶ瀬あり	しずむせあればうかぶせあり	proverb
+ja	涓滴岩を穿つ	けんてきいわをうがつ	proverb
+ja	馬鹿は風邪を引かない	ばかはかぜをひかない	proverb
+ja	蟻の思いも天に届く	ありのおもいもてんにとどく	proverb
+ja	朝に道を聞かば、夕べに死すとも可なり	あしたにみちをきかばゆうべにしすともかなり	proverb
+ja	一将功成りて万骨枯る	いっしょうこうなりてばんこつかる	proverb
+ja	燕雀安んぞ鴻鵠の志を知らんや	えんじゃくいずくんぞこうこくのこころざしをしらんや	proverb
+ja	愚公山を移す	ぐこうやまをうつす	proverb
+ja	君子は器ならず	くんしはきならず	proverb
+ja	徳は孤ならず必ず隣あり	とくはこならずかならずとなりあり	proverb
+ja	学びて思わざれば則ち罔し	まなびておもわざればすなわちくらし	proverb
+ja	目は心の窓	めはこころのまど	proverb
+ja	目は心の鏡	めはこころのかがみ	proverb
+ja	病は口より入り禍は口より出ず	やまいはくちよりいりわざわいはくちよりいず	proverb
+ja	貧乏人の子沢山	びんぼうにんのこだくさん	proverb
+ja	親はなくとも子は育つ	おやはなくともこはそだつ	proverb
+ja	柳は緑、花は紅	やなぎはみどりはなはくれない	proverb
+ja	飢えたる犬は棒を恐れず	うえたるいぬはぼうをおそれず	proverb
+ja	冷や酒と親の意見は後できく	ひやざけとおやのいけんはあとできく	proverb
+ja	陰陽師身の上知らず	おんようじみのうえしらず	proverb
+ja	易者身の上知らず	えきしゃみのうえしらず	proverb
+ja	親の意見と茄子の花は千に一つも無駄はない	おやのいけんとなすびのはなはせんにひとつもむだはない	proverb
+ja	虎口を逃れて竜穴に入る	ここうをのがれてりゅうけつにいる	proverb
+ja	養虎の患い	ようこのうれい	proverb
+ja	腹八分目に医者いらず	はらはちぶんめにいしゃいらず	proverb
+ja	見るは法楽	みるはほうらく	proverb
+ja	結果がすべて	けっかがすべて	proverb
+ja	煩悩の犬は追えども去らず	ぼんのうのいぬはおえどもさらず	proverb
+ja	家柄より芋茎	いえがらよりいもがら	proverb
+ja	嫌よ嫌よも好きのうち	いやよいやよもすきのうち	proverb
+ja	満は損を招く	まんはそんをまねく	proverb
+ja	持つべきものは友	もつべきものはとも	proverb
+ja	男は松女は藤	おとこはまつおんなはふじ	proverb
+ja	親が死んでも食休み	おやがしんでもしょくやすみ	proverb
+ja	やらずに後悔するよりやって後悔したほうがいい	やらずにこうかいするよりやってこうかいしたほうがいい	proverb
+ja	落ち武者は薄の穂に怖ず	おちむしゃはすすきのほにおず	proverb
+ja	明日は我が身	あすはわがみ	proverb
+ja	地獄の釜の蓋も開く	じごくのかまのふたもあく	proverb
+ja	文は武に勝る	ぶんはぶにまさる	proverb
+ja	巧遅は拙速に如かず	こうちはせっそくにしかず	proverb
+ja	風邪は万病の元	かぜはまんびょうのもと	proverb
+ja	人に歴史あり	ひとにれきしあり	proverb
+ja	親しき中に垣をせよ	したしきなかにかきをせよ	proverb
+ja	勝って驕らず負けて腐らず	かっておごらずまけてくさらず	proverb
+ja	勝つも負けるも時の運	かつもまけるもときのうん	proverb
+ja	便りがないのはよい便り	たよりがないのはよいたより	proverb
+ja	転がる石には苔は付かない	ころがるいしにはこけはつかない	proverb
+ja	膝とも談合	ひざともだんごう	proverb
+ja	水清ければ魚棲まず	みずきよければうおすまず	proverb
+ja	この父にしてこの子あり	このちちにしてこのこあり	proverb
+ja	この母にしてこの子あり	このははにしてこのこあり	proverb
+ja	体は正直	からだはしょうじき	proverb
+ja	話し上手は聞き上手	はなしじょうずはききじょうず	proverb
+ja	色男金と力はなかりけり	いろおとこかねとちからはなかりけり	proverb
+ja	東男に京女	あずまおとこにきょうおんな	proverb
+ja	馬鹿な子ほど可愛い	ばかなこほどかわいい	proverb
+ja	一河の流れを汲むも他生の縁	いちがのながれをくむもたしょうのえん	proverb
+ja	愛は盲目	あいはもうもく	proverb
+ja	恋は闇	こいはやみ	proverb
+ja	地獄も住み処	じごくもすみか	proverb
+ja	国破れて山河あり	くにやぶれてさんがあり	proverb
+ja	明日という日もある	あしたというひもある	proverb
+ja	亀の年を鶴が羨む	かめのとしをつるがうらやむ	proverb
+ja	女氏無くして玉の輿に乗る	おんなうじなくしてたまのこしにのる	proverb
+ja	一富士二鷹三茄子	いちふじにたかさんなすび	proverb
+ja	悪名は無名に勝る	あくみょうはむめいにまさる	proverb
+ja	殷鑑遠からず	いんかんとおからず	proverb
+ja	渇に臨みて井を穿つ	かつにのぞみてせいをうがつ	proverb
+ja	人生一度きり	じんせいいちどきり	proverb
+ja	シンプルイズベスト		proverb
+ja	一葉落ちて天下の秋を知る	いちようおちててんかのあきをしる	proverb
+ja	麒麟も老いぬれば駑馬に劣る	きりんもおいぬればどばにおとる	proverb
+ja	細工は流々仕上げを御覧じろ	さいくはりゅうりゅうしあげをごろうじろ	proverb
+ja	性相近し、習い相遠し	せいあいちかしならいあいとおし	proverb
+ja	ルールはルール		proverb
+ja	大徳は小怨を滅す	だいとくはしょうえんをめっす	proverb
+ja	氷は水より出でて水よりも寒し	こおりはみずよりいでてみずよりもさむし	proverb
+ja	京に田舎あり	きょうにいなかあり	proverb
+ja	墨に染まれば黒くなる	すみにそまればくろくなる	proverb
+ja	惚れたが因果	ほれたがいんが	proverb
+ja	律義者の子沢山	りちぎもののこだくさん	proverb
+ja	綸言汗の如し	りんげんあせのごとし	proverb
+ja	盗人の昼寝	ぬすびとのひるね	proverb
+ja	瑠璃も玻璃も照らせば光る	るりもはりもてらせばひかる	proverb
+ja	類をもって集まる	るいをもってあつまる	proverb
+ja	老いては益々壮んなるべし	おいてはますますさかんなるべし	proverb
+ja	鬼も十八	おにもじゅうはち	proverb
+ja	鬼の女房に鬼神	おにのにょうぼうにきじん	proverb
+ja	若い時は二度ない	わかいときはにどない	proverb
+ja	借りる時の地蔵顔、済す時の閻魔顔	かりるときのじぞうがおなすときのえんまがお	proverb
+ja	習わぬ経は読めぬ	ならわぬきょうはよめぬ	proverb
+ja	楽して楽知らず	らくしてらくしらず	proverb
+ja	無精者の一時働き	ぶしょうもののいっときばたらき	proverb
+ja	魚は頭から腐る	さかなはあたまからくさる	proverb
+ja	待てば甘露の日和あり	まてばかんろのひよりあり	proverb
+ja	芸は身を助ける	げいはみをたすける	proverb
+ja	芸が身を助けるほどの不幸せ	げいがみをたすけるほどのふしあわせ	proverb
+ja	下戸の建てた蔵はない	げこのたてたくらはない	proverb
+ja	酔い醒めの水下戸知らず	よいさめのみずげこしらず	proverb
+ja	上戸は毒を知らず下戸は薬を知らず	じょうごはどくをしらずげこはくすりをしらず	proverb
+ja	志は松の葉に包め	こころざしはまつのはにつつめ	proverb
+ja	他所は他所、うちはうち	よそはよそうちはうち	proverb
+ja	天災は忘れた頃にやってくる	てんさいはわすれたころにやってくる	proverb
+ja	ひもじい時にまずい物なし	ひもじいときにまずいものなし	proverb
+ja	強弩の末魯縞に入る能わず	きょうどのすえろこうにいるあたわず	proverb
+ja	心内にあれば色外にあらわる	こころうちにあればいろそとにあらわる	proverb
+ja	古川に水絶えず	ふるかわにみずたえず	proverb
+ja	合うも不思議、合わぬも不思議	あうもふしぎあわぬもふしぎ	proverb
+ja	碁に凝ると親の死に目に逢わぬ	ごにこるとおやのしにめにあわぬ	proverb
+ja	悪事身にとまる	あくじみにとまる	proverb
+ja	猫にまたたびお女郎に小判	ねこにまたたびおじょろうにこばん	proverb
+ja	練習あるのみ	れんしゅうあるのみ	proverb
+ja	旅は情け、人は心	たびはなさけひとはこころ	proverb
+ja	人は人、我は我	ひとはひとわれはわれ	proverb
+ja	歌人は居ながらにして名所を知る	かじんはいながらにしてめいしょをしる	proverb
+ja	人は見目よりただ心	ひとはみめよりただこころ	proverb
+ja	人に善言を与うるは布帛よりも煖かなり	ひとにぜんげんをあたうるはふはくよりもあたたかなり	proverb
+ja	杖に縋るとも人に縋るな	つえにすがるともひとにすがるな	proverb
+ja	男女七歳にして席を同じゅうせず	だんじょななさいにしてせきをおなじゅうせず	proverb
+ja	凝っては思案に能わず	こってはしあんにあたわず	proverb
+ja	老いたる馬は道を忘れず	おいたるうまはみちをわすれず	proverb
+ja	名人は人を謗らず	めいじんはひとをそしらず	proverb
+ja	馬鹿と煙は高い所へ上る	ばかとけむりはたかいところへのぼる	proverb
+ja	行きはよいよい帰りは怖い	いきはよいよいかえりはこわい	proverb
+ja	当たるも八卦当たらぬも八卦	あたるもはっけあたらぬもはっけ	proverb
+ja	うまい話には裏がある	うまいはなしにはうらがある	proverb
+ja	始めは処女の如く後は脱兎の如し	はじめはしょじょのごとくのちはだっとのごとし	proverb
+ja	読書百遍意自ずから通ず	どくしょひゃっぺんいおのずからつうず	proverb
+ja	美人は三日で飽きる	びじんはみっかであきる	proverb
+ja	体が資本	からだがしほん	proverb
+ja	君子の交わりは淡きこと水のごとし	くんしのまじわりはあわきことみずのごとし	proverb
+ja	兎死すれば狐これを悲しむ	うさぎしすればきつねこれをかなしむ	proverb
+ja	狐死して兎泣く	きつねししてうさぎなく	proverb
+ja	心頭を滅却すれば火もまた涼し	しんとうをめっきゃくすればひもまたすずし	proverb
+ja	心頭滅却すれば火もまた涼し	しんとうめっきゃくすればひもまたすずし	proverb
+ja	女は三界に家なし	おんなはさんがいにいえなし	proverb
+ja	女三界に家なし	おんなさんがいにいえなし	proverb
+ja	天知る、地知る、我知る、子知る	てんしるちしるわれしるししる	proverb
+ja	天知る、地知る、我知る、人知る	てんしるちしるわれしるひとしる	proverb
+ja	今日の一針、明日の十針	きょうのひとはりあすのとはり	proverb
+ja	金持ち喧嘩せず	かねもちけんかせず	proverb
+ja	毒薬変じて薬となる	どくやくへんじてくすりとなる	proverb
+ja	正直は最善の策	しょうじきはさいぜんのさく	proverb
+ja	食べてすぐ寝ると牛になる	たべてすぐねるとうしになる	proverb
+ja	勘定合って銭足らず	かんじょうあってぜにたらず	proverb
+ja	遅牛も淀、早牛も淀	おそうしもよどはやうしもよど	proverb
+ja	早牛も淀、遅牛も淀	はやうしもよどおそうしもよど	proverb
+ja	三人行けば必ず我が師有り	さんにんゆけばかならずわがしあり	proverb
+ja	武士に二言はない	ぶしににごんはない	proverb
+ja	鯛も一人はうまからず	たいもひとりはうまからず	proverb
+ja	謀は密なるを良しとす	はかりごとはみつなるをよしとす	proverb
+ja	斃れて後已む	たおれてのちやむ	proverb
+ja	居候三杯目にはそっと出し	いそうろうさんばいめにはそっとだし	proverb
+ja	木を隠すなら森の中	きをかくすならもりのなか	proverb
+ja	木の葉を隠すなら森の中	このはをかくすならもりのなか	proverb
+ja	王侯将相いずくんぞ種あらんや	おうこうしょうしょういずくんぞしゅあらんや	proverb
+ja	親思う心にまさる親心	おやおもうこころにまさるおやごころ	proverb
+ja	獅子は我が子を千尋の谷に落とす	ししはわがこをせんじんのたににおとす	proverb
+ja	百里を行く者は九十を半ばとす	ひゃくりをゆくものはくじゅうをなかばとす	proverb
+ja	他人の不幸は蜜の味	たにんのふこうはみつのあじ	proverb
+ja	金言耳に逆らう	きんげんみみにさからう	proverb
+ja	名物にうまいものなし	めいぶつにうまいものなし	proverb
+ja	子供は親の背中を見て育つ	こどもはおやのせなかをみてそだつ	proverb
+ja	子は親の鏡	こはおやのかがみ	proverb
+ja	子供は親の鏡	こどもはおやのかがみ	proverb
+ja	子供は風の子	こどもはかぜのこ	proverb
+ja	親の恩は子で送る	おやのおんはこでおくる	proverb
+ja	兄弟は他人の始まり	きょうだいはたにんのはじまり	proverb
+ja	商人は損していつか倉が建つ	あきんどはそんしていつかくらがたつ	proverb
+ja	夫婦は合わせ鏡	ふうふはあわせかがみ	proverb
+ja	人の口に戸は立てられぬ	ひとのくちにとはたてられぬ	proverb
+ja	恋に上下の隔てなし	こいにじょうげのへだてなし	proverb
+ja	叩けば埃が出る	たたけばほこりがでる	proverb
+ja	玉磨かざれば光なし	たまみがかざればひかりなし	proverb
+ja	武士は相身互い	ぶしはあいみたがい	proverb
+ja	煽てと畚には乗り易い	おだてともっこにはのりやすい	proverb
+ja	人はパンのみにて生くるにあらず	ひとはぱんのみにていくるにあらず	proverb
+ja	止まない雨はない	やまないあめはない	proverb
+ja	勝ちに不思議の勝ちあり、負けに不思議の負けなし	かちにふしぎのかちありまけにふしぎのまけなし	proverb
+ja	負けに不思議の負けなし	まけにふしぎのまけなし	proverb
+ja	春に三日の晴れ間なし	はるにみっかのはれまなし	proverb
+ja	据え膳食わぬ	すえぜんくわぬ	proverb
+ja	喧嘩するほど仲がいい	けんかするほどなかがいい	proverb
+ja	明日やろうは馬鹿野郎	あしたやろうはばかやろう	proverb
+ja	ある所にはある	あるところにはある	proverb
+ja	言ったもん勝ち	いったもんがち	proverb
+ja	灰吹きから蛇が出る	はいふきからじゃがでる	proverb
+ja	卵を割らずにオムレツは作れない	たまごをわらずにおむれつはつくれない	proverb
+ja	雌鳥歌えば家滅ぶ	めんどりうたえばいえほろぶ	proverb
+ja	旅は道連れ	たびはみちづれ	proverb
+ja	雀百まで	すずめひゃくまで	proverb
+ja	外面如菩薩内心如夜叉	げめんにょぼさつないしんにょやしゃ	proverb
+ja	王様の耳はロバの耳	おうさまのみみはろばのみみ	proverb
+ja	人の恋路を邪魔する奴は馬に蹴られて死んじまえ	ひとのこいじをじゃまするやつはうまにけられてしんじまえ	proverb
+ja	外面似菩薩内心如夜叉	げめんじぼさつないしんにょやしゃ	proverb
+ja	一犬虚に吠ゆれば万犬実を伝う	いっけんきょにほゆればばんけんじつをつたう	proverb
+ja	数撃ちゃ当たる	かずうちゃあたる	proverb
+ja	一枚看板	いちまいかんばん	yoji
+ja	雲散霧消	うんさんむしょう	yoji
+ja	金科玉条	きんかぎょくじょう	yoji
+ja	群雄割拠	ぐんゆうかっきょ	yoji
+ja	権謀術数	けんぼうじゅっすう	yoji
+ja	後生大事	ごしょうだいじ	yoji
+ja	荒唐無稽	こうとうむけい	yoji
+ja	四分五裂	しぶんごれつ	yoji
+ja	時々刻々	じじこっこく	yoji
+ja	自然淘汰	しぜんとうた	yoji
+ja	手練手管	てれんてくだ	yoji
+ja	心神耗弱	しんしんこうじゃく	yoji
+ja	真一文字	まいちもんじ	yoji
+ja	生殺与奪	せいさつよだつ	yoji
+ja	男尊女卑	だんそんじょひ	yoji
+ja	天下一品	てんかいっぴん	yoji
+ja	東奔西走	とうほんせいそう	yoji
+ja	内憂外患	ないゆうがいかん	yoji
+ja	薄利多売	はくりたばい	yoji
+ja	半官半民	はんかんはんみん	yoji
+ja	半身不随	はんしんふずい	yoji
+ja	百家争鳴	ひゃっかそうめい	yoji
+ja	無理難題	むりなんだい	yoji
+ja	和洋折衷	わようせっちゅう	yoji
+ja	三三五五	さんさんごご	yoji
+ja	武者修行	むしゃしゅぎょう	yoji
+ja	独断専行	どくだんせんこう	yoji
+ja	至上命令	しじょうめいれい	yoji
+ja	王政復古	おうせいふっこ	yoji
+ja	自己顕示	じこけんじ	yoji
+ja	治外法権	ちがいほうけん	yoji
+ja	論功行賞	ろんこうこうしょう	yoji
+ja	女人禁制	にょにんきんせい	yoji
+ja	条件反射	じょうけんはんしゃ	yoji
+ja	潜在意識	せんざいいしき	yoji
+ja	常套手段	じょうとうしゅだん	yoji
+ja	外交辞令	がいこうじれい	yoji
+ja	生存競争	せいぞんきょうそう	yoji
+ja	立身出世	りっしんしゅっせ	yoji
+ja	夫唱婦随	ふしょうふずい	yoji
+ja	既成概念	きせいがいねん	yoji
+ja	大盤振る舞い	おおばんぶるまい	yoji
+ja	阿諛追従	あゆついしょう	yoji
+ja	悪因悪果	あくいんあっか	yoji
+ja	悪逆無道	あくぎゃくむどう	yoji
+ja	悪口雑言	あっこうぞうごん	yoji
+ja	旭日昇天	きょくじつしょうてん	yoji
+ja	安心立命	あんしんりつめい	yoji
+ja	安寧秩序	あんねいちつじょ	yoji
+ja	暗黒時代	あんこくじだい	yoji
+ja	位階勲等	いかいくんとう	yoji
+ja	意気軒昂	いきけんこう	yoji
+ja	意気阻喪	いきそそう	yoji
+ja	意馬心猿	いばしんえん	yoji
+ja	一意専心	いちいせんしん	yoji
+ja	一衣帯水	いちいたいすい	yoji
+ja	一家団欒	いっかだんらん	yoji
+ja	一言一行	いちげんいっこう	yoji
+ja	一言居士	いちげんこじ	yoji
+ja	一刻千金	いっこくせんきん	yoji
+ja	一子相伝	いっしそうでん	yoji
+ja	一死報国	いっしほうこく	yoji
+ja	一視同仁	いっしどうじん	yoji
+ja	一字千金	いちじせんきん	yoji
+ja	一汁一菜	いちじゅういっさい	yoji
+ja	一宿一飯	いっしゅくいっぱん	yoji
+ja	一新紀元	いっしんきげん	yoji
+ja	一切衆生	いっさいしゅじょう	yoji
+ja	一知半解	いっちはんかい	yoji
+ja	一張一弛	いっちょういっし	yoji
+ja	一天四海	いってんしかい	yoji
+ja	一天万乗	いってんばんじょう	yoji
+ja	一得一失	いっとくいっしつ	yoji
+ja	一夫一婦	いっぷいっぷ	yoji
+ja	一夫多妻	いっぷたさい	yoji
+ja	一分一厘	いちぶいちりん	yoji
+ja	一望千里	いちぼうせんり	yoji
+ja	一本調子	いっぽんちょうし	yoji
+ja	一問一答	いちもんいっとう	yoji
+ja	一利一害	いちりいちがい	yoji
+ja	一六勝負	いちろくしょうぶ	yoji
+ja	一瀉千里	いっしゃせんり	yoji
+ja	一顰一笑	いっぴんいっしょう	yoji
+ja	因循姑息	いんじゅんこそく	yoji
+ja	永世中立	えいせいちゅうりつ	yoji
+ja	円転滑脱	えんてんかつだつ	yoji
+ja	遠慮会釈	えんりょえしゃく	yoji
+ja	佳人薄命	かじんはくめい	yoji
+ja	夏炉冬扇	かろとうせん	yoji
+ja	過大評価	かだいひょうか	yoji
+ja	我田引水	がでんいんすい	yoji
+ja	我武者羅	がむしゃら	yoji
+ja	快刀乱麻	かいとうらんま	yoji
+ja	怪力乱神	かいりょくらんしん	yoji
+ja	海千山千	うみせんやません	yoji
+ja	外柔内剛	がいじゅうないごう	yoji
+ja	隔靴掻痒	かっかそうよう	yoji
+ja	乾坤一擲	けんこんいってき	yoji
+ja	侃々諤々	かんかんがくがく	yoji
+ja	感情移入	かんじょういにゅう	yoji
+ja	閑話休題	かんわきゅうだい	yoji
+ja	危急存亡	ききゅうそんぼう	yoji
+ja	希少価値	きしょうかち	yoji
+ja	気炎万丈	きえんばんじょう	yoji
+ja	気息奄々	きそくえんえん	yoji
+ja	共存共栄	きょうそんきょうえい	yoji
+ja	興味本位	きょうみほんい	yoji
+ja	曲学阿世	きょくがくあせい	yoji
+ja	玉石混交	ぎょくせきこんこう	yoji
+ja	欣喜雀躍	きんきじゃくやく	yoji
+ja	緊褌一番	きんこんいちばん	yoji
+ja	九牛の一毛	きゅうぎゅうのいちもう	yoji
+ja	九死一生	きゅうしいっしょう	yoji
+ja	九寸五分	くすんごぶ	yoji
+ja	九分九厘	くぶくりん	yoji
+ja	空中楼閣	くうちゅうろうかく	yoji
+ja	偶像崇拝	ぐうぞうすうはい	yoji
+ja	君子豹変	くんしひょうへん	yoji
+ja	桂冠詩人	けいかんしじん	yoji
+ja	軽挙妄動	けいきょもうどう	yoji
+ja	軽佻浮薄	けいちょうふはく	yoji
+ja	月下氷人	げっかひょうじん	yoji
+ja	喧々囂々	けんけんごうごう	yoji
+ja	堅忍不抜	けんにんふばつ	yoji
+ja	牽強付会	けんきょうふかい	yoji
+ja	厳正中立	げんせいちゅうりつ	yoji
+ja	言行一致	げんこういっち	yoji
+ja	古往今来	こおうこんらい	yoji
+ja	狐疑逡巡	こぎしゅんじゅん	yoji
+ja	誇大妄想	こだいもうそう	yoji
+ja	鼓舞激励	こぶげきれい	yoji
+ja	公平無私	こうへいむし	yoji
+ja	効果覿面	こうかてきめん	yoji
+ja	甲論乙駁	こうろんおつばく	yoji
+ja	刻苦勉励	こっくべんれい	yoji
+ja	再三再四	さいさんさいし	yoji
+ja	才気縦横	さいきじゅうおう	yoji
+ja	才気煥発	さいきかんぱつ	yoji
+ja	斎戒沐浴	さいかいもくよく	yoji
+ja	三十六計	さんじゅうろっけい	yoji
+ja	三千世界	さんぜんせかい	yoji
+ja	三段論法	さんだんろんぽう	yoji
+ja	三日天下	みっかてんか	yoji
+ja	三拝九拝	さんぱいきゅうはい	yoji
+ja	三面六臂	さんめんろっぴ	yoji
+ja	賛否両論	さんぴりょうろん	yoji
+ja	四通八達	しつうはったつ	yoji
+ja	思案投首	しあんなげくび	yoji
+ja	枝葉末節	しようまっせつ	yoji
+ja	事後承諾	じごしょうだく	yoji
+ja	自家撞着	じかどうちゃく	yoji
+ja	自縄自縛	じじょうじばく	yoji
+ja	七堂伽藍	しちどうがらん	yoji
+ja	実践躬行	じっせんきゅうこう	yoji
+ja	遮二無二	しゃにむに	yoji
+ja	杓子定規	しゃくしじょうぎ	yoji
+ja	手前味噌	てまえみそ	yoji
+ja	酒池肉林	しゅちにくりん	yoji
+ja	周知徹底	しゅうちてってい	yoji
+ja	十字砲火	じゅうじほうか	yoji
+ja	十年一日	じゅうねんいちじつ	yoji
+ja	十万億土	じゅうまんおくど	yoji
+ja	熟慮断行	じゅくりょだんこう	yoji
+ja	醇風美俗	じゅんぷうびぞく	yoji
+ja	諸説紛々	しょせつふんぷん	yoji
+ja	少壮気鋭	しょうそうきえい	yoji
+ja	焦熱地獄	しょうねつじごく	yoji
+ja	笑止千万	しょうしせんばん	yoji
+ja	色即是空	しきそくぜくう	yoji
+ja	伸縮自在	しんしゅくじざい	yoji
+ja	心頭滅却	しんとうめっきゃく	yoji
+ja	深謀遠慮	しんぼうえんりょ	yoji
+ja	真実一路	しんじついちろ	yoji
+ja	人為淘汰	じんいとうた	yoji
+ja	人海戦術	じんかいせんじゅつ	yoji
+ja	人権蹂躙	じんけんじゅうりん	yoji
+ja	人事不省	じんじふせい	yoji
+ja	人身攻撃	じんしんこうげき	yoji
+ja	人生哲学	じんせいてつがく	yoji
+ja	尋常一様	じんじょういちよう	yoji
+ja	陣頭指揮	じんとうしき	yoji
+ja	酔生夢死	すいせいむし	yoji
+ja	政教分離	せいきょうぶんり	yoji
+ja	晴耕雨読	せいこううどく	yoji
+ja	生者必滅	しょうじゃひつめつ	yoji
+ja	青天白日	せいてんはくじつ	yoji
+ja	石部金吉	いしべきんきち	yoji
+ja	切歯扼腕	せっしやくわん	yoji
+ja	先祖伝来	せんぞでんらい	yoji
+ja	千軍万馬	せんぐんばんば	yoji
+ja	千言万語	せんげんばんご	yoji
+ja	千姿万態	せんしばんたい	yoji
+ja	千辛万苦	せんしんばんく	yoji
+ja	千両役者	せんりょうやくしゃ	yoji
+ja	前後不覚	ぜんごふかく	yoji
+ja	善因善果	ぜんいんぜんか	yoji
+ja	善男善女	ぜんなんぜんにょ	yoji
+ja	善隣友好	ぜんりんゆうこう	yoji
+ja	全知全能	ぜんちぜんのう	yoji
+ja	祖先崇拝	そせんすうはい	yoji
+ja	相乗効果	そうじょうこうか	yoji
+ja	速戦即決	そくせんそっけつ	yoji
+ja	多事多端	たじたたん	yoji
+ja	耐乏生活	たいぼうせいかつ	yoji
+ja	中肉中背	ちゅうにくちゅうぜい	yoji
+ja	昼夜兼行	ちゅうやけんこう	yoji
+ja	丁稚奉公	でっちぼうこう	yoji
+ja	彫心鏤骨	ちょうしんるこつ	yoji
+ja	跳梁跋扈	ちょうりょうばっこ	yoji
+ja	直往邁進	ちょくおうまいしん	yoji
+ja	直情径行	ちょくじょうけいこう	yoji
+ja	直立不動	ちょくりつふどう	yoji
+ja	沈思黙考	ちんしもっこう	yoji
+ja	天衣無縫	てんいむほう	yoji
+ja	天井桟敷	てんじょうさじき	yoji
+ja	天下無双	てんかむそう	yoji
+ja	天涯孤独	てんがいこどく	yoji
+ja	天空海濶	てんくうかいかつ	yoji
+ja	天地開闢	てんちかいびゃく	yoji
+ja	天地神明	てんちしんめい	yoji
+ja	天地創造	てんちそうぞう	yoji
+ja	天地万物	てんちばんぶつ	yoji
+ja	天長地久	てんちょうちきゅう	yoji
+ja	天佑神助	てんゆうしんじょ	yoji
+ja	徒手空拳	としゅくうけん	yoji
+ja	党利党略	とうりとうりゃく	yoji
+ja	当意即妙	とういそくみょう	yoji
+ja	同化作用	どうかさよう	yoji
+ja	同工異曲	どうこういきょく	yoji
+ja	同文同種	どうぶんどうしゅ	yoji
+ja	同盟罷業	どうめいひぎょう	yoji
+ja	得手勝手	えてかって	yoji
+ja	独立独歩	どくりつどっぽ	yoji
+ja	内政干渉	ないせいかんしょう	yoji
+ja	南征北伐	なんせいほくばつ	yoji
+ja	南船北馬	なんせんほくば	yoji
+ja	難攻不落	なんこうふらく	yoji
+ja	二股膏薬	ふたまたこうやく	yoji
+ja	二六時中	にろくじちゅう	yoji
+ja	年功加俸	ねんこうかほう	yoji
+ja	年百年中	ねんびゃくねんじゅう	yoji
+ja	馬耳東風	ばじとうふう	yoji
+ja	博引旁証	はくいんぼうしょう	yoji
+ja	博覧強記	はくらんきょうき	yoji
+ja	白河夜船	しらかわよふね	yoji
+ja	薄志弱行	はくしじゃっこう	yoji
+ja	八紘一宇	はっこういちう	yoji
+ja	八面六臂	はちめんろっぴ	yoji
+ja	繁文縟礼	はんぶんじょくれい	yoji
+ja	悲歌慷慨	ひかこうがい	yoji
+ja	悲憤慷慨	ひふんこうがい	yoji
+ja	匹夫匹婦	ひっぷひっぷ	yoji
+ja	百花斉放	ひゃっかせいほう	yoji
+ja	百戦百勝	ひゃくせんひゃくしょう	yoji
+ja	表裏一体	ひょうりいったい	yoji
+ja	不言不語	ふげんふご	yoji
+ja	不在証明	ふざいしょうめい	yoji
+ja	不即不離	ふそくふり	yoji
+ja	不労所得	ふろうしょとく	yoji
+ja	不羈奔放	ふきほんぽう	yoji
+ja	武陵桃源	ぶりょうとうげん	yoji
+ja	風紀紊乱	ふうきびんらん	yoji
+ja	物見遊山	ものみゆさん	yoji
+ja	物情騒然	ぶつじょうそうぜん	yoji
+ja	文芸復興	ぶんげいふっこう	yoji
+ja	平衡感覚	へいこうかんかく	yoji
+ja	変幻自在	へんげんじざい	yoji
+ja	片言隻語	へんげんせきご	yoji
+ja	暴飲暴食	ぼういんぼうしょく	yoji
+ja	奔放不羈	ほんぽうふき	yoji
+ja	本家本元	ほんけほんもと	yoji
+ja	末法思想	まっぽうしそう	yoji
+ja	万世一系	ばんせいいっけい	yoji
+ja	万世不易	ばんせいふえき	yoji
+ja	万代不易	ばんだいふえき	yoji
+ja	無為徒食	むいとしょく	yoji
+ja	無為無策	むいむさく	yoji
+ja	無事息災	ぶじそくさい	yoji
+ja	無知蒙昧	むちもうまい	yoji
+ja	無二無三	むにむさん	yoji
+ja	無味乾燥	むみかんそう	yoji
+ja	無欲恬淡	むよくてんたん	yoji
+ja	無理算段	むりさんだん	yoji
+ja	免許皆伝	めんきょかいでん	yoji
+ja	面従腹背	めんじゅうふくはい	yoji
+ja	夜郎自大	やろうじだい	yoji
+ja	唯我独尊	ゆいがどくそん	yoji
+ja	優勝劣敗	ゆうしょうれっぱい	yoji
+ja	勇往邁進	ゆうおうまいしん	yoji
+ja	有為転変	ういてんぺん	yoji
+ja	有害無益	ゆうがいむえき	yoji
+ja	羊頭狗肉	ようとうくにく	yoji
+ja	落花狼藉	らっかろうぜき	yoji
+ja	理非曲直	りひきょくちょく	yoji
+ja	率先躬行	そっせんきゅうこう	yoji
+ja	流言飛語	りゅうげんひご	yoji
+ja	粒々辛苦	りゅうりゅうしんく	yoji
+ja	竜頭蛇尾	りゅうとうだび	yoji
+ja	竜攘虎搏	りゅうじょうこはく	yoji
+ja	連戦連勝	れんせんれんしょう	yoji
+ja	連日連夜	れんじつれんや	yoji
+ja	六根清浄	ろっこんしょうじょう	yoji
+ja	六法全書	ろっぽうぜんしょ	yoji
+ja	和魂洋才	わこんようさい	yoji
+ja	偕老同穴	かいろうどうけつ	yoji
+ja	傲慢不遜	ごうまんふそん	yoji
+ja	毀誉褒貶	きよほうへん	yoji
+ja	曖昧模糊	あいまいもこ	yoji
+ja	臍下丹田	せいかたんでん	yoji
+ja	一言半句	いちげんはんく	yoji
+ja	黄道吉日	おうどうきちにち	yoji
+ja	情緒纏綿	じょうしょてんめん	yoji
+ja	人面獣心	じんめんじゅうしん	yoji
+ja	多士済々	たしせいせい	yoji
+ja	大願成就	たいがんじょうじゅ	yoji
+ja	天神地祇	てんじんちぎ	yoji
+ja	内股膏薬	うちまたごうやく	yoji
+ja	判官びいき	ほうがんびいき	yoji
+ja	拱手傍観	きょうしゅぼうかん	yoji
+ja	唯々諾々	いいだくだく	yoji
+ja	岡目八目	おかめはちもく	yoji
+ja	画竜点睛	がりょうてんせい	yoji
+ja	個々別々	ここべつべつ	yoji
+ja	故事来歴	こじらいれき	yoji
+ja	主客転倒	しゅかくてんとう	yoji
+ja	事々物々	じじぶつぶつ	yoji
+ja	人跡未到	じんせきみとう	yoji
+ja	浅学非才	せんがくひさい	yoji
+ja	千編一律	せんぺんいちりつ	yoji
+ja	是々非々	ぜぜひひ	yoji
+ja	直截簡明	ちょくせつかんめい	yoji
+ja	年年歳歳	ねんねんさいさい	yoji
+ja	行住坐臥	ぎょうじゅうざが	yoji
+ja	人畜無害	じんちくむがい	yoji
+ja	広大無辺	こうだいむへん	yoji
+ja	鯨飲馬食	げいいんばしょく	yoji
+ja	牛飲馬食	ぎゅういんばしょく	yoji
+ja	上意下達	じょういかたつ	yoji
+ja	浅酌低唱	せんしゃくていしょう	yoji
+ja	袖手傍観	しゅうしゅぼうかん	yoji
+ja	右顧左眄	うこさべん	yoji
+ja	文質彬彬	ぶんしつひんぴん	yoji
+ja	田夫野人	でんぷやじん	yoji
+ja	四角四面	しかくしめん	yoji
+ja	各人各様	かくじんかくよう	yoji
+ja	滅私奉公	めっしほうこう	yoji
+ja	証拠隠滅	しょうこいんめつ	yoji
+ja	伴食大臣	ばんしょくだいじん	yoji
+ja	最後通牒	さいごつうちょう	yoji
+ja	多情多恨	たじょうたこん	yoji
+ja	粗製濫造	そせいらんぞう	yoji
+ja	心悸亢進	しんきこうしん	yoji
+ja	官尊民卑	かんそんみんぴ	yoji
+ja	和魂漢才	わこんかんさい	yoji
+ja	鰥寡孤独	かんかこどく	yoji
+ja	渾然一体	こんぜんいったい	yoji
+ja	運否天賦	うんぷてんぷ	yoji
+ja	帰巣本能	きそうほんのう	yoji
+ja	無芸大食	むげいたいしょく	yoji
+ja	無念無想	むねんむそう	yoji
+ja	無常迅速	むじょうじんそく	yoji
+ja	無理往生	むりおうじょう	yoji
+ja	無理無体	むりむたい	yoji
+ja	無間地獄	むけんじごく	yoji
+ja	罵詈雑言	ばりぞうごん	yoji
+ja	武装蜂起	ぶそうほうき	yoji
+ja	明々白々	めいめいはくはく	yoji
+ja	空即是色	くうそくぜしき	yoji
+ja	空々漠々	くうくうばくばく	yoji
+ja	空理空論	くうりくうろん	yoji
+ja	廃仏毀釈	はいぶつきしゃく	yoji
+ja	破邪顕正	はじゃけんしょう	yoji
+ja	陰々滅々	いんいんめつめつ	yoji
+ja	金城鉄壁	きんじょうてっぺき	yoji
+ja	金殿玉楼	きんでんぎょくろう	yoji
+ja	合縁奇縁	あいえんきえん	yoji
+ja	音吐朗朗	おんとろうろう	yoji
+ja	暗中飛躍	あんちゅうひやく	yoji
+ja	行動半径	こうどうはんけい	yoji
+ja	行雲流水	こううんりゅうすい	yoji
+ja	行儀作法	ぎょうぎさほう	yoji
+ja	種々雑多	しゅじゅざった	yoji
+ja	同床異夢	どうしょういむ	yoji
+ja	読書三昧	どくしょざんまい	yoji
+ja	独立自尊	どくりつじそん	yoji
+ja	頭寒足熱	ずかんそくねつ	yoji
+ja	挙国一致	きょこくいっち	yoji
+ja	祖先伝来	そせんでんらい	yoji
+ja	昨非今是	さくひこんぜ	yoji
+ja	受胎告知	じゅたいこくち	yoji
+ja	手前勝手	てまえがって	yoji
+ja	衆議一決	しゅうぎいっけつ	yoji
+ja	諸事万端	しょじばんたん	yoji
+ja	書画骨董	しょがこっとう	yoji
+ja	社交辞令	しゃこうじれい	yoji
+ja	転地療養	てんちりょうよう	yoji
+ja	方向転換	ほうこうてんかん	yoji
+ja	放歌高吟	ほうかこうぎん	yoji
+ja	放蕩息子	ほうとうむすこ	yoji
+ja	局外中立	きょくがいちゅうりつ	yoji
+ja	純情可憐	じゅんじょうかれん	yoji
+ja	加持祈祷	かじきとう	yoji
+ja	融通無碍	ゆうずうむげ	yoji
+ja	忠君愛国	ちゅうくんあいこく	yoji
+ja	下意上達	かいじょうたつ	yoji
+ja	王道楽土	おうどうらくど	yoji
+ja	横行闊歩	おうこうかっぽ	yoji
+ja	七生報国	しちしょうほうこく	yoji
+ja	七難八苦	しちなんはっく	yoji
+ja	自己欺瞞	じこぎまん	yoji
+ja	自由放任	じゆうほうにん	yoji
+ja	自学自習	じがくじしゅう	yoji
+ja	自浄作用	じじょうさよう	yoji
+ja	自壊作用	じかいさよう	yoji
+ja	緊張緩和	きんちょうかんわ	yoji
+ja	一字一句	いちじいっく	yoji
+ja	一病息災	いちびょうそくさい	yoji
+ja	一陽来復	いちようらいふく	yoji
+ja	比翼連理	ひよくれんり	yoji
+ja	盤根錯節	ばんこんさくせつ	yoji
+ja	寂光浄土	じゃっこうじょうど	yoji
+ja	秋霜烈日	しゅうそうれつじつ	yoji
+ja	適者生存	てきしゃせいぞん	yoji
+ja	敵本主義	てきほんしゅぎ	yoji
+ja	政教一致	せいきょういっち	yoji
+ja	政略結婚	せいりゃくけっこん	yoji
+ja	水天彷彿	すいてんほうふつ	yoji
+ja	追善供養	ついぜんくよう	yoji
+ja	不法行為	ふほうこうい	yoji
+ja	傲岸不遜	ごうがんふそん	yoji
+ja	傲岸無礼	ごうがんぶれい	yoji
+ja	傲慢無礼	ごうまんぶれい	yoji
+ja	十年一昔	じゅうねんひとむかし	yoji
+ja	有形無形	ゆうけいむけい	yoji
+ja	有象無象	うぞうむぞう	yoji
+ja	有職故実	ゆうそくこじつ	yoji
+ja	国利民福	こくりみんぷく	yoji
+ja	活殺自在	かっさつじざい	yoji
+ja	過剰防衛	かじょうぼうえい	yoji
+ja	換骨奪胎	かんこつだったい	yoji
+ja	遠交近攻	えんこうきんこう	yoji
+ja	砲煙弾雨	ほうえんだんう	yoji
+ja	浮き草稼業	うきくさかぎょう	yoji
+ja	相互扶助	そうごふじょ	yoji
+ja	粗衣粗食	そいそしょく	yoji
+ja	情意投合	じょういとうごう	yoji
+ja	清浄無垢	せいじょうむく	yoji
+ja	平々凡々	へいへいぼんぼん	yoji
+ja	名所旧跡	めいしょきゅうせき	yoji
+ja	名論卓説	めいろんたくせつ	yoji
+ja	沙羅双樹	さらそうじゅ	yoji
+ja	殺生禁断	せっしょうきんだん	yoji
+ja	言文一致	げんぶんいっち	yoji
+ja	安定成長	あんていせいちょう	yoji
+ja	利害得失	りがいとくしつ	yoji
+ja	霊肉一致	れいにくいっち	yoji
+ja	霊魂不滅	れいこんふめつ	yoji
+ja	低徊趣味	ていかいしゅみ	yoji
+ja	体質改善	たいしつかいぜん	yoji
+ja	意気衝天	いきしょうてん	yoji
+ja	極楽往生	ごくらくおうじょう	yoji
+ja	極楽浄土	ごくらくじょうど	yoji
+ja	女尊男卑	じょそんだんぴ	yoji
+ja	地盤沈下	じばんちんか	yoji
+ja	四百四病	しひゃくしびょう	yoji
+ja	四海同胞	しかいどうほう	yoji
+ja	耽美主義	たんびしゅぎ	yoji
+ja	深山幽谷	しんざんゆうこく	yoji
+ja	波状攻撃	はじょうこうげき	yoji
+ja	良風美俗	りょうふうびぞく	yoji
+ja	奇々怪々	ききかいかい	yoji
+ja	奇策縦横	きさくじゅうおう	yoji
+ja	九十九折	つづらおり	yoji
+ja	鉄拳制裁	てっけんせいさい	yoji
+ja	謹厳実直	きんげんじっちょく	yoji
+ja	機会均等	きかいきんとう	yoji
+ja	近所合壁	きんじょがっぺき	yoji
+ja	温情主義	おんじょうしゅぎ	yoji
+ja	大所高所	たいしょこうしょ	yoji
+ja	大慈大悲	だいじだいひ	yoji
+ja	多事多難	たじたなん	yoji
+ja	多情仏心	たじょうぶっしん	yoji
+ja	舌先三寸	したさきさんずん	yoji
+ja	特筆大書	とくひつたいしょ	yoji
+ja	特権階級	とっけんかいきゅう	yoji
+ja	左顧右眄	さこうべん	yoji
+ja	祭政一致	さいせいいっち	yoji
+ja	愛別離苦	あいべつりく	yoji
+ja	内柔外剛	ないじゅうがいごう	yoji
+ja	心霊現象	しんれいげんしょう	yoji
+ja	祥月命日	しょうつきめいにち	yoji
+ja	栄耀栄華	えいようえいが	yoji
+ja	桜花爛漫	おうからんまん	yoji
+ja	理路整然	りろせいぜん	yoji
+ja	裏面工作	りめんこうさく	yoji
+ja	贅沢三昧	ぜいたくざんまい	yoji
+ja	眼高手低	がんこうしゅてい	yoji
+ja	越権行為	えっけんこうい	yoji
+ja	高手小手	たかてこて	yoji
+ja	高歌放吟	こうかほうぎん	yoji
+ja	豪放磊落	ごうほうらいらく	yoji
+ja	千紫万紅	せんしばんこう	yoji
+ja	斬新奇抜	ざんしんきばつ	yoji
+ja	士魂商才	しこんしょうさい	yoji
+ja	草根木皮	そうこんもくひ	yoji
+ja	造反有理	ぞうはんゆうり	yoji
+ja	造次顛沛	ぞうじてんぱい	yoji
+ja	造言飛語	ぞうげんひご	yoji
+ja	妖怪変化	ようかいへんげ	yoji
+ja	確固不動	かっこふどう	yoji
+ja	閨秀作家	けいしゅうさっか	yoji
+ja	離合集散	りごうしゅうさん	yoji
+ja	印象批評	いんしょうひひょう	yoji
+ja	子々孫々	ししそんそん	yoji
+ja	則天去私	そくてんきょし	yoji
+ja	即身成仏	そくしんじょうぶつ	yoji
+ja	複雑怪奇	ふくざつかいき	yoji
+ja	陽動作戦	ようどうさくせん	yoji
+ja	軽妙洒脱	けいみょうしゃだつ	yoji
+ja	軽薄短小	けいはくたんしょう	yoji
+ja	難行苦行	なんぎょうくぎょう	yoji
+ja	天壌無窮	てんじょうむきゅう	yoji
+ja	欠席裁判	けっせきさいばん	yoji
+ja	震天動地	しんてんどうち	yoji
+ja	異体同心	いたいどうしん	yoji
+ja	異国情緒	いこくじょうちょ	yoji
+ja	前途遼遠	ぜんとりょうえん	yoji
+ja	談論風発	だんろんふうはつ	yoji
+ja	老少不定	ろうしょうふてい	yoji
+ja	白砂青松	はくしゃせいしょう	yoji
+ja	暖衣飽食	だんいほうしょく	yoji
+ja	孤影悄然	こえいしょうぜん	yoji
+ja	寡頭政治	かとうせいじ	yoji
+ja	炉辺談話	ろへんだんわ	yoji
+ja	格物致知	かくぶつちち	yoji
+ja	嘉言善行	かげんぜんこう	yoji
+ja	光彩陸離	こうさいりくり	yoji
+ja	欣求浄土	ごんぐじょうど	yoji
+ja	尸位素餐	しいそさん	yoji
+ja	唇歯輔車	しんしほしゃ	yoji
+ja	尽忠報国	じんちゅうほうこく	yoji
+ja	如是我聞	にょぜがもん	yoji
+ja	弊衣破帽	へいいはぼう	yoji
+ja	偏旁冠脚	へんぼうかんきゃく	yoji
+ja	暴虎馮河	ぼうこひょうが	yoji
+ja	明眸皓歯	めいぼうこうし	yoji
+ja	過当競争	かとうきょうそう	yoji
+ja	完全燃焼	かんぜんねんしょう	yoji
+ja	規制緩和	きせいかんわ	yoji
+ja	現状維持	げんじょういじ	yoji
+ja	国士無双	こくしむそう	yoji
+ja	自己弁護	じこべんご	yoji
+ja	自己矛盾	じこむじゅん	yoji
+ja	職権乱用	しょっけんらんよう	yoji
+ja	親類縁者	しんるいえんじゃ	yoji
+ja	世代交代	せだいこうたい	yoji
+ja	先制攻撃	せんせいこうげき	yoji
+ja	断崖絶壁	だんがいぜっぺき	yoji
+ja	独善主義	どくぜんしゅぎ	yoji
+ja	文人墨客	ぶんじんぼっかく	yoji
+ja	悪衣悪食	あくいあくしょく	yoji
+ja	異国情調	いこくじょうちょう	yoji
+ja	一所不住	いっしょふじゅう	yoji
+ja	粉飾決算	ふんしょくけっさん	yoji
+ja	泰山北斗	たいざんほくと	yoji
+ja	天下泰平	てんかたいへい	yoji
+ja	天下無敵	てんかむてき	yoji
+ja	四書五経	ししょごきょう	yoji
+ja	盗人根性	ぬすっとこんじょう	yoji
+ja	悪事千里	あくじせんり	yoji
+ja	暗雲低迷	あんうんていめい	yoji
+ja	以毒制毒	いどくせいどく	yoji
+ja	意匠惨憺	いしょうさんたん	yoji
+ja	易姓革命	えきせいかくめい	yoji
+ja	異端邪説	いたんじゃせつ	yoji
+ja	衣冠束帯	いかんそくたい	yoji
+ja	遺憾千万	いかんせんばん	yoji
+ja	医食同源	いしょくどうげん	yoji
+ja	一家眷属	いっかけんぞく	yoji
+ja	一虚一実	いっきょいちじつ	yoji
+ja	一族郎党	いちぞくろうとう	yoji
+ja	一諾千金	いちだくせんきん	yoji
+ja	一日三秋	いちじつさんしゅう	yoji
+ja	一味徒党	いちみととう	yoji
+ja	一路順風	いちろじゅんぷう	yoji
+ja	一路平安	いちろへいあん	yoji
+ja	隠忍自重	いんにんじちょう	yoji
+ja	雲煙万里	うんえんばんり	yoji
+ja	雲泥万里	うんでいばんり	yoji
+ja	円満具足	えんまんぐそく	yoji
+ja	横行跋扈	おうこうばっこ	yoji
+ja	黄塵万丈	こうじんばんじょう	yoji
+ja	屋上架屋	おくじょうかおく	yoji
+ja	温厚篤実	おんこうとくじつ	yoji
+ja	苛斂誅求	かれんちゅうきゅう	yoji
+ja	海内無双	かいだいむそう	yoji
+ja	外剛内柔	がいごうないじゅう	yoji
+ja	街談巷説	がいだんこうせつ	yoji
+ja	鎧袖一触	がいしゅういっしょく	yoji
+ja	確固不抜	かっこふばつ	yoji
+ja	寛仁大度	かんじんたいど	yoji
+ja	干天慈雨	かんてんじう	yoji
+ja	汗牛充棟	かんぎゅうじゅうとう	yoji
+ja	簡単明瞭	かんたんめいりょう	yoji
+ja	緩急自在	かんきゅうじざい	yoji
+ja	眼光紙背	がんこうしはい	yoji
+ja	眼光炯々	がんこうけいけい	yoji
+ja	頑固一徹	がんこいってつ	yoji
+ja	頑迷固陋	がんめいころう	yoji
+ja	奇怪千万	きかいせんばん	yoji
+ja	旗幟鮮明	きしせんめい	yoji
+ja	機略縦横	きりゃくじゅうおう	yoji
+ja	気宇壮大	きうそうだい	yoji
+ja	議論百出	ぎろんひゃくしゅつ	yoji
+ja	吉凶禍福	きっきょうかふく	yoji
+ja	旧套墨守	きゅうとうぼくしゅ	yoji
+ja	挙措進退	きょそしんたい	yoji
+ja	恐悦至極	きょうえつしごく	yoji
+ja	恐懼感激	きょうくかんげき	yoji
+ja	教唆扇動	きょうさせんどう	yoji
+ja	狂瀾怒涛	きょうらんどとう	yoji
+ja	興味索然	きょうみさくぜん	yoji
+ja	極楽とんぼ	ごくらくとんぼ	yoji
+ja	勤倹力行	きんけんりっこう	yoji
+ja	琴瑟相和	きんしつそうわ	yoji
+ja	金城湯池	きんじょうとうち	yoji
+ja	金襴緞子	きんらんどんす	yoji
+ja	苦学力行	くがくりっこう	yoji
+ja	愚問愚答	ぐもんぐとう	yoji
+ja	傾国傾城	けいこくけいせい	yoji
+ja	傾城傾国	けいせいけいこく	yoji
+ja	経世済民	けいせいさいみん	yoji
+ja	鶏口牛後	けいこうぎゅうご	yoji
+ja	鶏鳴狗盗	けいめいくとう	yoji
+ja	結跏趺坐	けっかふざ	yoji
+ja	権謀術策	けんぼうじゅっさく	yoji
+ja	古今独歩	ここんどっぽ	yoji
+ja	古今無双	ここんむそう	yoji
+ja	孤城落日	こじょうらくじつ	yoji
+ja	孤立無援	こりつむえん	yoji
+ja	狐狸妖怪	こりようかい	yoji
+ja	五風十雨	ごふうじゅうう	yoji
+ja	好機到来	こうきとうらい	yoji
+ja	巧遅拙速	こうちせっそく	yoji
+ja	紅灯緑酒	こうとうりょくしゅ	yoji
+ja	紅毛碧眼	こうもうへきがん	yoji
+ja	高論卓説	こうろんたくせつ	yoji
+ja	骨肉相食	こつにくそうしょく	yoji
+ja	困苦欠乏	こんくけつぼう	yoji
+ja	懇切丁寧	こんせつていねい	yoji
+ja	才子佳人	さいしかじん	yoji
+ja	三界流転	さんがいるてん	yoji
+ja	山川草木	さんせんそうもく	yoji
+ja	残忍酷薄	ざんにんこくはく	yoji
+ja	残念無念	ざんねんむねん	yoji
+ja	四海兄弟	しかいけいてい	yoji
+ja	志操堅固	しそうけんご	yoji
+ja	思慮分別	しりょふんべつ	yoji
+ja	死屍累々	ししるいるい	yoji
+ja	死中求活	しちゅうきゅうかつ	yoji
+ja	私利私欲	しりしよく	yoji
+ja	詩歌管弦	しいかかんげん	yoji
+ja	雌伏雄飛	しふくゆうひ	yoji
+ja	事理明白	じりめいはく	yoji
+ja	治乱興亡	ちらんこうぼう	yoji
+ja	自家薬籠	じかやくろう	yoji
+ja	自己韜晦	じことうかい	yoji
+ja	自由闊達	じゆうかったつ	yoji
+ja	自力更生	じりきこうせい	yoji
+ja	叱咤激励	しったげきれい	yoji
+ja	衆生済度	しゅじょうさいど	yoji
+ja	襲名披露	しゅうめいひろう	yoji
+ja	熟思黙想	じゅくしもくそう	yoji
+ja	熟読玩味	じゅくどくがんみ	yoji
+ja	春宵一刻	しゅんしょういっこく	yoji
+ja	春日遅々	しゅんじつちち	yoji
+ja	小国寡民	しょうこくかみん	yoji
+ja	焦心苦慮	しょうしんくりょ	yoji
+ja	硝煙弾雨	しょうえんだんう	yoji
+ja	常住坐臥	じょうじゅうざが	yoji
+ja	心猿意馬	しんえんいば	yoji
+ja	心願成就	しんがんじょうじゅ	yoji
+ja	深慮遠謀	しんりょえんぼう	yoji
+ja	身体髪膚	しんたいはっぷ	yoji
+ja	進取果敢	しんしゅかかん	yoji
+ja	人心一新	じんしんいっしん	yoji
+ja	人心収攬	じんしんしゅうらん	yoji
+ja	人生行路	じんせいこうろ	yoji
+ja	人品骨柄	じんぴんこつがら	yoji
+ja	迅速果断	じんそくかだん	yoji
+ja	酔眼朦朧	すいがんもうろう	yoji
+ja	寸進尺退	すんしんしゃくたい	yoji
+ja	寸善尺魔	すんぜんしゃくま	yoji
+ja	是非曲直	ぜひきょくちょく	yoji
+ja	勢力伯仲	せいりょくはくちゅう	yoji
+ja	清濁併呑	せいだくへいどん	yoji
+ja	生々世々	しょうじょうせぜ	yoji
+ja	生々流転	せいせいるてん	yoji
+ja	生死流転	しょうじるてん	yoji
+ja	精神一到	せいしんいっとう	yoji
+ja	精神統一	せいしんとういつ	yoji
+ja	精進潔斎	しょうじんけっさい	yoji
+ja	精力絶倫	せいりょくぜつりん	yoji
+ja	精励恪勤	せいれいかっきん	yoji
+ja	西方浄土	さいほうじょうど	yoji
+ja	先憂後楽	せんゆうこうらく	yoji
+ja	千古不易	せんこふえき	yoji
+ja	千古不滅	せんこふめつ	yoji
+ja	鮮血淋漓	せんけつりんり	yoji
+ja	創意工夫	そういくふう	yoji
+ja	相即不離	そうそくふり	yoji
+ja	俗臭芬々	ぞくしゅうふんぷん	yoji
+ja	多岐亡羊	たきぼうよう	yoji
+ja	多情多感	たじょうたかん	yoji
+ja	大山鳴動	たいざんめいどう	yoji
+ja	台風一過	たいふういっか	yoji
+ja	大喝一声	だいかついっせい	yoji
+ja	大兵肥満	だいひょうひまん	yoji
+ja	単純明快	たんじゅんめいかい	yoji
+ja	胆大心小	たんだいしんしょう	yoji
+ja	知己朋友	ちきほうゆう	yoji
+ja	知行合一	ちこうごういつ	yoji
+ja	知者不惑	ちしゃふわく	yoji
+ja	知勇兼備	ちゆうけんび	yoji
+ja	遅疑逡巡	ちぎしゅんじゅん	yoji
+ja	着眼大局	ちゃくがんたいきょく	yoji
+ja	忠言逆耳	ちゅうげんぎゃくじ	yoji
+ja	丁々発止	ちょうちょうはっし	yoji
+ja	長身痩躯	ちょうしんそうく	yoji
+ja	珍味佳肴	ちんみかこう	yoji
+ja	痛快無比	つうかいむひ	yoji
+ja	天下御免	てんかごめん	yoji
+ja	天災地変	てんさいちへん	yoji
+ja	天網恢々	てんもうかいかい	yoji
+ja	点滴穿石	てんてきせんせき	yoji
+ja	怒髪衝天	どはつしょうてん	yoji
+ja	当代随一	とうだいずいいち	yoji
+ja	闘志満々	とうしまんまん	yoji
+ja	道聴塗説	どうちょうとせつ	yoji
+ja	独立不羈	どくりつふき	yoji
+ja	内剛外柔	ないごうがいじゅう	yoji
+ja	肉食妻帯	にくじきさいたい	yoji
+ja	乳母日傘	おんばひがさ	yoji
+ja	念仏三昧	ねんぶつざんまい	yoji
+ja	波乱曲折	はらんきょくせつ	yoji
+ja	波濤万里	はとうばんり	yoji
+ja	破顔大笑	はがんたいしょう	yoji
+ja	罵詈讒謗	ばりざんぼう	yoji
+ja	半知半解	はんちはんかい	yoji
+ja	反間苦肉	はんかんくにく	yoji
+ja	版籍奉還	はんせきほうかん	yoji
+ja	非難轟々	ひなんごうごう	yoji
+ja	飛耳長目	ひじちょうもく	yoji
+ja	美酒佳肴	びしゅかこう	yoji
+ja	美人薄命	びじんはくめい	yoji
+ja	百人百様	ひゃくにんひゃくよう	yoji
+ja	不朽不滅	ふきゅうふめつ	yoji
+ja	不惜身命	ふしゃくしんみょう	yoji
+ja	不老長寿	ふろうちょうじゅ	yoji
+ja	不埒千万	ふらちせんばん	yoji
+ja	父子相伝	ふしそうでん	yoji
+ja	武運長久	ぶうんちょうきゅう	yoji
+ja	風俗壊乱	ふうぞくかいらん	yoji
+ja	風流三昧	ふうりゅうざんまい	yoji
+ja	複雑多岐	ふくざつたき	yoji
+ja	物議騒然	ぶつぎそうぜん	yoji
+ja	焚書坑儒	ふんしょこうじゅ	yoji
+ja	奮励努力	ふんれいどりょく	yoji
+ja	閉口頓首	へいこうとんしゅ	yoji
+ja	片言隻句	へんげんせきく	yoji
+ja	保革伯仲	ほかくはくちゅう	yoji
+ja	暮色蒼然	ぼしょくそうぜん	yoji
+ja	放蕩三昧	ほうとうざんまい	yoji
+ja	放蕩無頼	ほうとうぶらい	yoji
+ja	豊年満作	ほうねんまんさく	yoji
+ja	忙中有閑	ぼうちゅうゆうかん	yoji
+ja	暴虐非道	ぼうぎゃくひどう	yoji
+ja	墨痕淋漓	ぼっこんりんり	yoji
+ja	枕流漱石	ちんりゅうそうせき	yoji
+ja	万古不易	ばんこふえき	yoji
+ja	万死一生	ばんしいっしょう	yoji
+ja	万事万端	ばんじばんたん	yoji
+ja	万物流転	ばんぶつるてん	yoji
+ja	漫言放語	まんげんほうご	yoji
+ja	無位無官	むいむかん	yoji
+ja	無為自然	むいしぜん	yoji
+ja	無為無能	むいむのう	yoji
+ja	無学文盲	むがくもんもう	yoji
+ja	矛盾撞着	むじゅんどうちゃく	yoji
+ja	名誉挽回	めいよばんかい	yoji
+ja	明窓浄机	めいそうじょうき	yoji
+ja	明朗闊達	めいろうかったつ	yoji
+ja	迷惑千万	めいわくせんばん	yoji
+ja	面従後言	めんじゅうこうげん	yoji
+ja	面目一新	めんもくいっしん	yoji
+ja	面目躍如	めんもくやくじょ	yoji
+ja	孟母三遷	もうぼさんせん	yoji
+ja	門戸開放	もんこかいほう	yoji
+ja	門前雀羅	もんぜんじゃくら	yoji
+ja	夜目遠目	よめとおめ	yoji
+ja	野心満々	やしんまんまん	yoji
+ja	薬九層倍	くすりくそうばい	yoji
+ja	薬石無効	やくせきむこう	yoji
+ja	悠々閑々	ゆうゆうかんかん	yoji
+ja	勇気凛凛	ゆうきりんりん	yoji
+ja	有頂天外	うちょうてんがい	yoji
+ja	容貌魁偉	ようぼうかいい	yoji
+ja	要害堅固	ようがいけんご	yoji
+ja	沃野千里	よくやせんり	yoji
+ja	落花流水	らっかりゅうすい	yoji
+ja	乱暴狼藉	らんぼうろうぜき	yoji
+ja	率先垂範	そっせんすいはん	yoji
+ja	流転輪廻	るてんりんね	yoji
+ja	力戦奮闘	りきせんふんとう	yoji
+ja	冷汗三斗	れいかんさんと	yoji
+ja	冷酷無情	れいこくむじょう	yoji
+ja	老婆心切	ろうばしんせつ	yoji
+ja	論旨明快	ろんしめいかい	yoji
+ja	和光同塵	わこうどうじん	yoji
+ja	呵々大笑	かかたいしょう	yoji
+ja	蜿蜿長蛇	えんえんちょうだ	yoji
+ja	拈華微笑	ねんげみしょう	yoji
+ja	揣摩臆測	しまおくそく	yoji
+ja	旱天慈雨	かんてんじう	yoji
+ja	洒々落々	しゃしゃらくらく	yoji
+ja	漱石枕流	そうせきちんりゅう	yoji
+ja	狷介固陋	けんかいころう	yoji
+ja	狷介不羈	けんかいふき	yoji
+ja	縷々綿々	るるめんめん	yoji
+ja	こんにゃく問答	こんにゃくもんどう	yoji
+ja	蝸牛角上	かぎゅうかくじょう	yoji
+ja	豁然大悟	かつぜんたいご	yoji
+ja	躊躇逡巡	ちゅうちょしゅんじゅん	yoji
+ja	輾転反側	てんてんはんそく	yoji
+ja	闊達自在	かったつじざい	yoji
+ja	烏兎匆々	うとそうそう	yoji
+ja	厭離穢土	えんりえど	yoji
+ja	活溌溌地	かっぱつはっち	yoji
+ja	奸佞邪知	かんねいじゃち	yoji
+ja	鬼哭啾啾	きこくしゅうしゅう	yoji
+ja	気骨稜々	きこつりょうりょう	yoji
+ja	旗鼓堂々	きこどうどう	yoji
+ja	貴賤上下	きせんしょうか	yoji
+ja	虚実混交	きょじつこんこう	yoji
+ja	金甌無欠	きんおうむけつ	yoji
+ja	金口木舌	きんこうぼくぜつ	yoji
+ja	拳々服膺	けんけんふくよう	yoji
+ja	現世利益	げんせりやく	yoji
+ja	好評嘖々	こうひょうさくさく	yoji
+ja	歳々年々	さいさいねんねん	yoji
+ja	日月星辰	じつげつせいしん	yoji
+ja	心身一如	しんしんいちにょ	yoji
+ja	千山万水	せんざんばんすい	yoji
+ja	千慮一失	せんりょいっしつ	yoji
+ja	千慮一得	せんりょいっとく	yoji
+ja	大死一番	だいしいちばん	yoji
+ja	貪官汚吏	たんかんおり	yoji
+ja	朝々暮々	ちょうちょうぼぼ	yoji
+ja	人相風体	にんそうふうてい	yoji
+ja	百尺竿頭	ひゃくせきかんとう	yoji
+ja	不立文字	ふりゅうもんじ	yoji
+ja	付和随行	ふわずいこう	yoji
+ja	名声赫々	めいせいかっかく	yoji
+ja	妄言多謝	もうげんたしゃ	yoji
+ja	雄気堂々	ゆうきどうどう	yoji
+ja	磊々落々	らいらいらくらく	yoji
+ja	冷酷無残	れいこくむざん	yoji
+ja	悪逆非道	あくぎゃくひどう	yoji
+ja	悪人正機	あくにんしょうき	yoji
+ja	握髪吐哺	あくはつとほ	yoji
+ja	悪木盗泉	あくぼくとうせん	yoji
+ja	阿付迎合	あふげいごう	yoji
+ja	蛙鳴蝉噪	あめいせんそう	yoji
+ja	阿諛迎合	あゆげいごう	yoji
+ja	阿諛便佞	あゆべんねい	yoji
+ja	安穏無事	あんのんぶじ	yoji
+ja	意識朦朧	いしきもうろう	yoji
+ja	意志堅固	いしけんご	yoji
+ja	意趣遺恨	いしゅいこん	yoji
+ja	一芸一能	いちげいいちのう	yoji
+ja	一語一句	いちごいっく	yoji
+ja	一上一下	いちじょういちげ	yoji
+ja	一大決心	いちだいけっしん	yoji
+ja	一読三嘆	いちどくさんたん	yoji
+ja	一人当千	いちにんとうせん	yoji
+ja	一木一草	いちぼくいっそう	yoji
+ja	一味同心	いちみどうしん	yoji
+ja	一国一城	いっこくいちじょう	yoji
+ja	一唱三嘆	いっしょうさんたん	yoji
+ja	一笑千金	いっしょうせんきん	yoji
+ja	一生不犯	いっしょうふぼん	yoji
+ja	一世風靡	いっせいふうび	yoji
+ja	一殺多生	いっさつたしょう	yoji
+ja	一旦緩急	いったんかんきゅう	yoji
+ja	一点一画	いってんいっかく	yoji
+ja	一発必中	いっぱつひっちゅう	yoji
+ja	一筆啓上	いっぴつけいじょう	yoji
+ja	夷蛮戎狄	いばんじゅうてき	yoji
+ja	畏怖嫌厭	いふけんえん	yoji
+ja	異聞奇譚	いぶんきたん	yoji
+ja	韋編三絶	いへんさんぜつ	yoji
+ja	異類異形	いるいいぎょう	yoji
+ja	因果因縁	いんがいんねん	yoji
+ja	因果覿面	いんがてきめん	yoji
+ja	淫祠邪教	いんしじゃきょう	yoji
+ja	陰陽五行	いんようごぎょう	yoji
+ja	羽化登仙	うかとうせん	yoji
+ja	雨奇晴好	うきせいこう	yoji
+ja	雲雨巫山	うんうふざん	yoji
+ja	雲煙過眼	うんえんかがん	yoji
+ja	雲集霧散	うんしゅうむさん	yoji
+ja	雲水行脚	うんすいあんぎゃ	yoji
+ja	永久不変	えいきゅうふへん	yoji
+ja	永劫回帰	えいごうかいき	yoji
+ja	永字八法	えいじはっぽう	yoji
+ja	永代供養	えいたいくよう	yoji
+ja	英雄豪傑	えいゆうごうけつ	yoji
+ja	益者三友	えきしゃさんゆう	yoji
+ja	燕雀鴻鵠	えんじゃくこうこく	yoji
+ja	遠謀深慮	えんぼうしんりょ	yoji
+ja	遠慮近憂	えんりょきんゆう	yoji
+ja	懊悩煩悶	おうのうはんもん	yoji
+ja	汚名返上	おめいへんじょう	yoji
+ja	怨敵退散	おんてきたいさん	yoji
+ja	開眼供養	かいげんくよう	yoji
+ja	街談巷語	がいだんこうご	yoji
+ja	開闢以来	かいびゃくいらい	yoji
+ja	傀儡政権	かいらいせいけん	yoji
+ja	各種各様	かくしゅかくよう	yoji
+ja	花紅柳緑	かこうりゅうりょく	yoji
+ja	家常茶飯	かじょうさはん	yoji
+ja	雅俗折衷	がぞくせっちゅう	yoji
+ja	家族団らん	かぞくだんらん	yoji
+ja	画蛇添足	がだてんそく	yoji
+ja	花鳥諷詠	かちょうふうえい	yoji
+ja	瓜田李下	かでんりか	yoji
+ja	歌舞音曲	かぶおんぎょく	yoji
+ja	臥竜鳳雛	がりょうほうすう	yoji
+ja	閑雲野鶴	かんうんやかく	yoji
+ja	簡潔明瞭	かんけつめいりょう	yoji
+ja	玩物喪志	がんぶつそうし	yoji
+ja	簡明直截	かんめいちょくせつ	yoji
+ja	顔面蒼白	がんめんそうはく	yoji
+ja	気韻生動	きいんせいどう	yoji
+ja	奇貨可居	きかおくべし	yoji
+ja	規矩準縄	きくじゅんじょう	yoji
+ja	機嫌気褄	きげんきづま	yoji
+ja	貴顕紳士	きけんしんし	yoji
+ja	貴賤貧富	きせんひんぷ	yoji
+ja	偽装工作	ぎそうこうさく	yoji
+ja	鬼面仏心	きめんぶっしん	yoji
+ja	救国済民	きゅうこくさいみん	yoji
+ja	牛鬼蛇神	ぎゅうきだしん	yoji
+ja	鳩首協議	きゅうしゅきょうぎ	yoji
+ja	鳩首凝議	きゅうしゅぎょうぎ	yoji
+ja	鳩首謀議	きゅうしゅぼうぎ	yoji
+ja	窮鼠噛猫	きゅうそごうびょう	yoji
+ja	矯角殺牛	きょうかくさつぎゅう	yoji
+ja	鏡花水月	きょうかすいげつ	yoji
+ja	恐惶謹言	きょうこうきんげん	yoji
+ja	強硬手段	きょうこうしゅだん	yoji
+ja	協心戮力	きょうしんりくりょく	yoji
+ja	驕兵必敗	きょうへいひっぱい	yoji
+ja	局面打開	きょくめんだかい	yoji
+ja	虚実皮膜	きょじつひまく	yoji
+ja	虚心平気	きょしんへいき	yoji
+ja	義理一遍	ぎりいっぺん	yoji
+ja	義理人情	ぎりにんじょう	yoji
+ja	槿花一日	きんかいちじつ	yoji
+ja	槿花一朝	きんかいっちょう	yoji
+ja	近郷近在	きんごうきんざい	yoji
+ja	錦上添花	きんじょうてんか	yoji
+ja	金波銀波	きんぱぎんぱ	yoji
+ja	愚者一得	ぐしゃいっとく	yoji
+ja	形影一如	けいえいいちにょ	yoji
+ja	経国済民	けいこくさいみん	yoji
+ja	敬天愛人	けいてんあいじん	yoji
+ja	軽薄才子	けいはくさいし	yoji
+ja	戯作三昧	げさくざんまい	yoji
+ja	外題学問	げだいがくもん	yoji
+ja	月下推敲	げっかすいこう	yoji
+ja	狷介孤高	けんかいここう	yoji
+ja	元気はつらつ	げんきはつらつ	yoji
+ja	言行齟齬	げんこうそご	yoji
+ja	現状打破	げんじょうだは	yoji
+ja	堅白同異	けんぱくどうい	yoji
+ja	堅牢堅固	けんろうけんご	yoji
+ja	高位高官	こういこうかん	yoji
+ja	紅顔可憐	こうがんかれん	yoji
+ja	剛毅果断	ごうきかだん	yoji
+ja	高山流水	こうざんりゅうすい	yoji
+ja	好事多魔	こうじたま	yoji
+ja	強情我慢	ごうじょうがまん	yoji
+ja	後生可畏	こうせいかい	yoji
+ja	狡兎三窟	こうとさんくつ	yoji
+ja	国威発揚	こくいはつよう	yoji
+ja	五穀豊穣	ごこくほうじょう	yoji
+ja	五十知命	ごじゅうちめい	yoji
+ja	牛頭馬頭	ごずめず	yoji
+ja	克己復礼	こっきふくれい	yoji
+ja	刻苦精進	こっくしょうじん	yoji
+ja	刻苦精励	こっくせいれい	yoji
+ja	鼓腹撃壌	こふくげきじょう	yoji
+ja	固陋頑迷	ころうがんめい	yoji
+ja	困苦窮乏	こんくきゅうぼう	yoji
+ja	金剛不壊	こんごうふえ	yoji
+ja	今是昨非	こんぜさくひ	yoji
+ja	妻子眷属	さいしけんぞく	yoji
+ja	才子多病	さいしたびょう	yoji
+ja	残酷非道	ざんこくひどう	yoji
+ja	三者鼎立	さんしゃていりつ	yoji
+ja	残念至極	ざんねんしごく	yoji
+ja	山容水態	さんようすいたい	yoji
+ja	士気高揚	しきこうよう	yoji
+ja	時機到来	じきとうらい	yoji
+ja	舳艫千里	じくろせんり	yoji
+ja	自己演出	じこえんしゅつ	yoji
+ja	自己陶酔	じことうすい	yoji
+ja	自己撞着	じこどうちゃく	yoji
+ja	屍山血河	しざんけつが	yoji
+ja	獅子身中	しししんちゅう	yoji
+ja	師資相承	ししそうしょう	yoji
+ja	四十不惑	しじゅうふわく	yoji
+ja	史上空前	しじょうくうぜん	yoji
+ja	時節到来	じせつとうらい	yoji
+ja	失敬千万	しっけいせんばん	yoji
+ja	嫉視反目	しっしはんもく	yoji
+ja	質素倹約	しっそけんやく	yoji
+ja	失地回復	しっちかいふく	yoji
+ja	櫛風沐雨	しっぷうもくう	yoji
+ja	櫛風浴雨	しっぷうよくう	yoji
+ja	失望落胆	しつぼうらくたん	yoji
+ja	実力伯仲	じつりょくはくちゅう	yoji
+ja	失礼千万	しつれいせんばん	yoji
+ja	紫電一閃	しでんいっせん	yoji
+ja	視野狭窄	しやきょうさく	yoji
+ja	寂滅為楽	じゃくめついらく	yoji
+ja	縦横自在	じゅうおうじざい	yoji
+ja	縦横無礙	じゅうおうむげ	yoji
+ja	羞月閉花	しゅうげつへいか	yoji
+ja	重厚長大	じゅうこうちょうだい	yoji
+ja	秋風落莫	しゅうふうらくばく	yoji
+ja	衆目一致	しゅうもくいっち	yoji
+ja	主義主張	しゅぎしゅちょう	yoji
+ja	首鼠両端	しゅそりょうたん	yoji
+ja	出没自在	しゅつぼつじざい	yoji
+ja	首尾貫徹	しゅびかんてつ	yoji
+ja	純一無雑	じゅんいつむざつ	yoji
+ja	純真可憐	じゅんしんかれん	yoji
+ja	叙位叙勲	じょいじょくん	yoji
+ja	冗談半分	じょうだんはんぶん	yoji
+ja	諸国漫遊	しょこくまんゆう	yoji
+ja	諸子百家	しょしひゃっか	yoji
+ja	心外千万	しんがいせんばん	yoji
+ja	神機妙算	しんきみょうさん	yoji
+ja	辛苦艱難	しんくかんなん	yoji
+ja	辛酸甘苦	しんさんかんく	yoji
+ja	神算鬼謀	しんさんきぼう	yoji
+ja	人事考課	じんじこうか	yoji
+ja	心象風景	しんしょうふうけい	yoji
+ja	人生朝露	じんせいちょうろ	yoji
+ja	真相究明	しんそうきゅうめい	yoji
+ja	深層心理	しんそうしんり	yoji
+ja	迅速果敢	じんそくかかん	yoji
+ja	進退去就	しんたいきょしゅう	yoji
+ja	進退両難	しんたいりょうなん	yoji
+ja	神仏混淆	しんぶつこんこう	yoji
+ja	人物月旦	じんぶつげったん	yoji
+ja	随喜渇仰	ずいきかつごう	yoji
+ja	垂涎三尺	すいぜんさんじゃく	yoji
+ja	垂直思考	すいちょくしこう	yoji
+ja	酔歩蹣跚	すいほまんさん	yoji
+ja	杜撰脱漏	ずさんだつろう	yoji
+ja	晴好雨奇	せいこううき	yoji
+ja	正邪曲直	せいじゃきょくちょく	yoji
+ja	清浄潔白	せいじょうけっぱく	yoji
+ja	聖人君子	せいじんくんし	yoji
+ja	盛衰興亡	せいすいこうぼう	yoji
+ja	清風明月	せいふうめいげつ	yoji
+ja	赤手空拳	せきしゅくうけん	yoji
+ja	世態人情	せたいにんじょう	yoji
+ja	世道人心	せどうじんしん	yoji
+ja	是非善悪	ぜひぜんあく	yoji
+ja	戦意喪失	せんいそうしつ	yoji
+ja	前虎後狼	ぜんここうろう	yoji
+ja	先刻承知	せんこくしょうち	yoji
+ja	善後処置	ぜんごしょち	yoji
+ja	千古万古	せんこばんこ	yoji
+ja	千古不磨	せんこふま	yoji
+ja	前後矛盾	ぜんごむじゅん	yoji
+ja	専心一意	せんしんいちい	yoji
+ja	千態万状	せんたいばんじょう	yoji
+ja	前程万里	ぜんていばんり	yoji
+ja	前途多望	ぜんとたぼう	yoji
+ja	千里同風	せんりどうふう	yoji
+ja	善隣外交	ぜんりんがいこう	yoji
+ja	滄海桑田	そうかいそうでん	yoji
+ja	創業守成	そうぎょうしゅせい	yoji
+ja	荘厳華麗	そうごんかれい	yoji
+ja	桑田滄海	そうでんそうかい	yoji
+ja	桑田碧海	そうでんへきかい	yoji
+ja	息災延命	そくさいえんめい	yoji
+ja	俗談平話	ぞくだんへいわ	yoji
+ja	即決即断	そっけつそくだん	yoji
+ja	樽俎折衝	そんそせっしょう	yoji
+ja	大廈高楼	たいかこうろう	yoji
+ja	大逆無道	たいぎゃくむどう	yoji
+ja	大悟徹底	たいごてってい	yoji
+ja	大声疾呼	たいせいしっこ	yoji
+ja	帯刀御免	たいとうごめん	yoji
+ja	多岐多様	たきたよう	yoji
+ja	堕落腐敗	だらくふはい	yoji
+ja	断章取義	だんしょうしゅぎ	yoji
+ja	知育偏重	ちいくへんちょう	yoji
+ja	蟄居閉門	ちっきょへいもん	yoji
+ja	忠勇無双	ちゅうゆうむそう	yoji
+ja	長汀曲浦	ちょうていきょくほ	yoji
+ja	沈魚落雁	ちんぎょらくがん	yoji
+ja	沈黙寡言	ちんもくかげん	yoji
+ja	手枷足枷	てかせあしかせ	yoji
+ja	天涯地角	てんがいちかく	yoji
+ja	天涯比隣	てんがいひりん	yoji
+ja	天下多事	てんかたじ	yoji
+ja	天下無類	てんかむるい	yoji
+ja	電光朝露	でんこうちょうろ	yoji
+ja	天上天下	てんじょうてんげ	yoji
+ja	転生輪廻	てんしょうりんね	yoji
+ja	天孫降臨	てんそんこうりん	yoji
+ja	天地玄黄	てんちげんこう	yoji
+ja	天地長久	てんちちょうきゅう	yoji
+ja	天理人情	てんりにんじょう	yoji
+ja	東夷西戎	とういせいじゅう	yoji
+ja	桃紅柳緑	とうこうりゅうりょく	yoji
+ja	東西古今	とうざいここん	yoji
+ja	道心堅固	どうしんけんご	yoji
+ja	当代無双	とうだいむそう	yoji
+ja	撞着矛盾	どうちゃくむじゅん	yoji
+ja	唐突千万	とうとつせんばん	yoji
+ja	時世時節	ときよじせつ	yoji
+ja	読書三到	どくしょさんとう	yoji
+ja	読書三余	どくしょさんよ	yoji
+ja	読書百遍	どくしょひゃっぺん	yoji
+ja	独立自存	どくりつじそん	yoji
+ja	屠蘇機嫌	とそきげん	yoji
+ja	土崩瓦解	どほうがかい	yoji
+ja	努力奮励	どりょくふんれい	yoji
+ja	南無三宝	なむさんぼう	yoji
+ja	二枚看板	にまいかんばん	yoji
+ja	如法暗夜	にょほうあんや	yoji
+ja	人気稼業	にんきかぎょう	yoji
+ja	波及効果	はきゅうこうか	yoji
+ja	博学多識	はくがくたしき	yoji
+ja	白紙委任	はくしいにん	yoji
+ja	博識多才	はくしきたさい	yoji
+ja	白馬非馬	はくばひば	yoji
+ja	博覧多識	はくらんたしき	yoji
+ja	八大地獄	はちだいじごく	yoji
+ja	抜山蓋世	ばつざんがいせい	yoji
+ja	発菩提心	ほつぼだいしん	yoji
+ja	抜本塞源	ばっぽんそくげん	yoji
+ja	半睡半醒	はんすいはんせい	yoji
+ja	半醒半睡	はんせいはんすい	yoji
+ja	万夫不当	ばんぷふとう	yoji
+ja	反目嫉視	はんもくしっし	yoji
+ja	煩悶懊悩	はんもんおうのう	yoji
+ja	飛花落葉	ひからくよう	yoji
+ja	卑怯千万	ひきょうせんばん	yoji
+ja	皮相浅薄	ひそうせんぱく	yoji
+ja	美味佳肴	びみかこう	yoji
+ja	百折不撓	ひゃくせつふとう	yoji
+ja	百年河清	ひゃくねんかせい	yoji
+ja	剽悍無比	ひょうかんむひ	yoji
+ja	貧富貴賤	ひんぷきせん	yoji
+ja	富貴栄華	ふうきえいが	yoji
+ja	富貴浮雲	ふうきふうん	yoji
+ja	風声鶴唳	ふうせいかくれい	yoji
+ja	風俗習慣	ふうぞくしゅうかん	yoji
+ja	風流韻事	ふうりゅういんじ	yoji
+ja	不易流行	ふえきりゅうこう	yoji
+ja	不羈独立	ふきどくりつ	yoji
+ja	俯仰天地	ふぎょうてんち	yoji
+ja	不屈不撓	ふくつふとう	yoji
+ja	福徳円満	ふくとくえんまん	yoji
+ja	伏竜鳳雛	ふくりょうほうすう	yoji
+ja	武芸百般	ぶげいひゃっぱん	yoji
+ja	巫山雲雨	ふざんうんう	yoji
+ja	無事平穏	ぶじへいおん	yoji
+ja	不祥事件	ふしょうじけん	yoji
+ja	父祖伝来	ふそでんらい	yoji
+ja	腐敗堕落	ふはいだらく	yoji
+ja	普遍妥当	ふへんだとう	yoji
+ja	無礼千万	ぶれいせんばん	yoji
+ja	奮闘努力	ふんとうどりょく	yoji
+ja	文武兼備	ぶんぶけんび	yoji
+ja	文武百官	ぶんぶひゃっかん	yoji
+ja	平安無事	へいあんぶじ	yoji
+ja	弊衣蓬髪	へいいほうはつ	yoji
+ja	閉月羞花	へいげつしゅうか	yoji
+ja	平沙万里	へいさばんり	yoji
+ja	閉門蟄居	へいもんちっきょ	yoji
+ja	碧眼紅毛	へきがんこうもう	yoji
+ja	法界悋気	ほうかいりんき	yoji
+ja	飽食暖衣	ほうしょくだんい	yoji
+ja	鵬程万里	ほうていばんり	yoji
+ja	蓬頭垢面	ほうとうこうめん	yoji
+ja	泡沫夢幻	ほうまつむげん	yoji
+ja	翻雲覆雨	ほんうんふくう	yoji
+ja	本領安堵	ほんりょうあんど	yoji
+ja	麻姑掻痒	まこそうよう	yoji
+ja	万劫末代	まんごうまつだい	yoji
+ja	満目荒涼	まんもくこうりょう	yoji
+ja	満目蕭条	まんもくしょうじょう	yoji
+ja	苗字帯刀	みょうじたいとう	yoji
+ja	無益有害	むえきゆうがい	yoji
+ja	無学無識	むがくむしき	yoji
+ja	無学無知	むがくむち	yoji
+ja	無垢清浄	むくせいじょう	yoji
+ja	夢幻泡沫	むげんほうまつ	yoji
+ja	無始無終	むしむしゅう	yoji
+ja	無色透明	むしょくとうめい	yoji
+ja	無知愚昧	むちぐまい	yoji
+ja	無手勝流	むてかつりゅう	yoji
+ja	無念千万	むねんせんばん	yoji
+ja	無理非道	むりひどう	yoji
+ja	無量無辺	むりょうむへん	yoji
+ja	名所古跡	めいしょこせき	yoji
+ja	明哲保身	めいてつほしん	yoji
+ja	明朗快活	めいろうかいかつ	yoji
+ja	迷惑至極	めいわくしごく	yoji
+ja	門前成市	もんぜんせいし	yoji
+ja	唯一不二	ゆいいつふじ	yoji
+ja	雄材大略	ゆうざいたいりゃく	yoji
+ja	勇猛精進	ゆうみょうしょうじん	yoji
+ja	勇猛無比	ゆうもうむひ	yoji
+ja	羊質虎皮	ようしつこひ	yoji
+ja	乱離骨灰	らりこっぱい	yoji
+ja	乱臣賊子	らんしんぞくし	yoji
+ja	李下瓜田	りかかでん	yoji
+ja	六韜三略	りくとうさんりゃく	yoji
+ja	戮力協心	りくりょくきょうしん	yoji
+ja	柳暗花明	りゅうあんかめい	yoji
+ja	柳緑花紅	りゅうりょくかこう	yoji
+ja	流連荒亡	りゅうれんこうぼう	yoji
+ja	良知良能	りょうちりょうのう	yoji
+ja	励声一番	れいせいいちばん	yoji
+ja	励声叱咤	れいせいしった	yoji
+ja	連帯責任	れんたいせきにん	yoji
+ja	六道輪廻	ろくどうりんね	yoji
+ja	和敬清寂	わけいせいじゃく	yoji
+ja	和衷協同	わちゅうきょうどう	yoji
+ja	腕白小僧	わんぱくこぞう	yoji
+ja	盗人上戸	ぬすびとじょうご	yoji
+ja	一世一元	いっせいいちげん	yoji
+ja	一粒万倍	いちりゅうまんばい	yoji
+ja	御用繁多	ごようはんた	yoji
+ja	四神相応	しじんそうおう	yoji
+ja	士気阻喪	しきそそう	yoji
+ja	市井無頼	しせいぶらい	yoji
+ja	七珍万宝	しっちんまんぽう	yoji
+ja	無明長夜	むみょうじょうや	yoji
+ja	匍匐前進	ほふくぜんしん	yoji
+ja	一暴十寒	いちばくじっかん	yoji
+ja	鼻先思案	はなさきじあん	yoji
+ja	一目十行	いちもくじゅうぎょう	yoji
+ja	一文不通	いちもんふつう	yoji
+ja	一切皆空	いっさいかいくう	yoji
+ja	一擲千金	いってきせんきん	yoji
+ja	雲煙飛動	うんえんひどう	yoji
+ja	下学上達	かがくじょうたつ	yoji
+ja	歓天喜地	かんてんきち	yoji
+ja	頑冥不霊	がんめいふれい	yoji
+ja	恐恐謹言	きょうきょうきんげん	yoji
+ja	金枝玉葉	きんしぎょくよう	yoji
+ja	月下老人	げっかろうじん	yoji
+ja	採長補短	さいちょうほたん	yoji
+ja	十死一生	じっしいっしょう	yoji
+ja	朱唇皓歯	しゅしんこうし	yoji
+ja	春花秋月	しゅんかしゅうげつ	yoji
+ja	常住不断	じょうじゅうふだん	yoji
+ja	常住不滅	じょうじゅうふめつ	yoji
+ja	前言往行	ぜんげんおうこう	yoji
+ja	千緒万端	せんしょばんたん	yoji
+ja	鉄心石腸	てっしんせきちょう	yoji
+ja	没風流漢	ぼつふうりゅうかん	yoji
+ja	雅俗混交	がぞくこんこう	yoji
+ja	張三李四	ちょうさんりし	yoji
+ja	翻然大悟	ほんぜんたいご	yoji
+ja	産学協同	さんがくきょうどう	yoji
+ja	教外別伝	きょうげべつでん	yoji
+ja	只管打坐	しかんたざ	yoji
+ja	失意泰然	しついたいぜん	yoji
+ja	亀毛兎角	きもうとかく	yoji
+ja	兎角亀毛	とかくきもう	yoji
+ja	改過自新	かいかじしん	yoji
+ja	片利共生	へんりきょうせい	yoji
+ja	不知不識	ふちふしき	yoji
+ja	天然自然	てんねんしぜん	yoji
+ja	怨憎会苦	おんぞうえく	yoji
+ja	求不得苦	ぐふとくく	yoji
+ja	五陰盛苦	ごおんじょうく	yoji
+ja	喧々諤々	けんけんがくがく	yoji
+ja	脚下照顧	きゃっかしょうこ	yoji
+ja	内疎外親	ないそがいしん	yoji
+ja	烏焉魯魚	うえんろぎょ	yoji
+ja	連銭葦毛	れんぜんあしげ	yoji
+ja	盲亀浮木	もうきふぼく	yoji
+ja	狡兎良狗	こうとりょうく	yoji
+ja	面壁九年	めんぺきくねん	yoji
+ja	和顔愛語	わがんあいご	yoji
+ja	官官接待	かんかんせったい	yoji
+ja	抜苦与楽	ばっくよらく	yoji
+ja	二河白道	にがびゃくどう	yoji
+ja	是生滅法	ぜしょうめっぽう	yoji
+ja	生滅滅已	しょうめつめつい	yoji
+ja	枯木寒巌	こぼくかんがん	yoji
+ja	枯木死灰	こぼくしかい	yoji
+ja	竹林の七賢	ちくりんのしちけん	yoji
+ja	頓首再拝	とんしゅさいはい	yoji
+ja	臨終正念	りんじゅうしょうねん	yoji
+ja	五族協和	ごぞくきょうわ	yoji
+ja	禍福得喪	かふくとくそう	yoji
+ja	五体投地	ごたいとうち	yoji
+ja	読書尚友	どくしょしょうゆう	yoji
+ja	百八煩悩	ひゃくはちぼんのう	yoji
+ja	八月大名	はちがつだいみょう	yoji
+ja	常在戦場	じょうざいせんじょう	yoji
+ja	懸腕直筆	けんわんちょくひつ	yoji
+ja	如意宝珠	にょいほうじゅ	yoji
+ja	応急措置	おうきゅうそち	yoji
+ja	異曲同工	いきょくどうこう	yoji
+ja	一文半銭	いちもんはんせん	yoji
+ja	強権発動	きょうけんはつどう	yoji
+ja	月卿雲客	げっけいうんかく	yoji
+ja	懸軍万里	けんぐんばんり	yoji
+ja	嘉辰令月	かしんれいげつ	yoji
+ja	光風霽月	こうふうせいげつ	yoji
+ja	黄粱一炊	こうりょういっすい	yoji
+ja	冷暖自知	れいだんじち	yoji
+ja	涅槃寂静	ねはんじゃくじょう	yoji
+ja	諸法無我	しょほうむが	yoji
+ja	衆口一致	しゅうこういっち	yoji
+ja	萎靡沈滞	いびちんたい	yoji
+ja	坐作進退	ざさしんたい	yoji
+ja	実事求是	じつじきゅうぜ	yoji
+ja	舞文曲筆	ぶぶんきょくひつ	yoji
+ja	一強多弱	いっきょうたじゃく	yoji
+ja	悉皆成仏	しっかいじょうぶつ	yoji
+ja	羞花閉月	しゅうかへいげつ	yoji
+ja	左見右見	とみこうみ	yoji
+ja	桃李満門	とうりまんもん	yoji
+ja	凡事徹底	ぼんじてってい	yoji
+ja	籠鳥檻猿	ろうちょうかんえん	yoji
+ja	魚目燕石	ぎょもくえんせき	yoji
+ja	単槍匹馬	たんそうひつば	yoji
+ja	泰山圧卵	たいざんあつらん	yoji
+ja	延頸挙踵	えんけいきょしょう	yoji
+ja	無私無偏	むしむへん	yoji
+ja	永垂不朽	えいすいふきゅう	yoji
+ja	損者三友	そんしゃさんゆう	yoji
+ja	籠鳥恋雲	ろうちょうれんうん	yoji
+ja	紳士淑女	しんししゅくじょ	yoji
+ja	賢良方正	けんりょうほうせい	yoji
+ja	無私無欲	むしむよく	yoji
+ja	魯魚亥豕	ろぎょがいし	yoji
+ja	甘言蜜語	かんげんみつご	yoji
+ja	一虚一盈	いっきょいちえい	yoji
+ja	亡羊補牢	ぼうようほろう	yoji
+ja	一顧傾城	いっこけいせい	yoji
+ja	文武不岐	ぶんぶふき	yoji
+ja	哀毀骨立	あいきこつりつ	yoji
+ja	猿猴捉月	えんこうそくげつ	yoji
+ja	歳寒三友	さいかんさんゆう	yoji
+ja	磨穿鉄硯	ませんてっけん	yoji
+ja	転迷開悟	てんめいかいご	yoji
+ja	借花献仏	しゃっかけんぶつ	yoji
+ja	貧者の一灯	ひんじゃのいっとう	yoji
+ja	堂塔伽藍	どうとうがらん	yoji
+ja	雄心勃々	ゆうしんぼつぼつ	yoji
+ja	以夷制夷	いいせいい	yoji
+ja	党同伐異	とうどうばつい	yoji
+ja	忠孝両全	ちゅうこうりょうぜん	yoji
+ja	轗軻不遇	かんかふぐう	yoji
+ja	夢幻泡影	むげんほうよう	yoji
+ja	打成一片	たじょういっぺん	yoji
+ja	帰命頂礼	きみょうちょうらい	yoji
+ja	一行三昧	いちぎょうざんまい	yoji
+ja	啐啄同時	そったくどうじ	yoji
+ja	家鶏野鶩	かけいやぼく	yoji
+ja	一球入魂	いっきゅうにゅうこん	yoji
+ja	迅雷風烈	じんらいふうれつ	yoji
+ja	一億一心	いちおくいっしん	yoji
+ja	怨親平等	おんしんびょうどう	yoji
+ja	千秋万歳	せんしゅうばんぜい	yoji
+ja	天馬行空	てんばこうくう	yoji
+ja	亢龍有悔	こうりょうゆうかい	yoji
+ja	風餐露宿	ふうさんろしゅく	yoji
+ja	雲消霧散	うんしょうむさん	yoji
+ja	歓喜雀躍	かんきじゃくやく	yoji
+ja	開運招福	かいうんしょうふく	yoji
+ja	錦衣玉食	きんいぎょくしょく	yoji
+ja	愛及屋烏	あいきゅうおくう	yoji
+ja	飛竜乗雲	ひりゅうじょううん	yoji
+ja	鬼手仏心	きしゅぶっしん	yoji
+ja	多産多死	たさんたし	yoji
+ja	少産少死	しょうさんしょうし	yoji
+ja	不老長生	ふろうちょうせい	yoji
+ja	積羽沈舟	せきうちんしゅう	yoji
+ja	雲外蒼天	うんがいそうてん	yoji
+ja	方底円蓋	ほうていえんがい	yoji
+ja	打草驚蛇	だそうきょうだ	yoji
+ja	雪泥鴻爪	せつでいのこうそう	yoji
+ja	報恩謝徳	ほうおんしゃとく	yoji
+ja	管鮑之交	かんぽうのまじわり	yoji
+ja	封豕長蛇	ほうしちょうだ	yoji
+ja	雪中送炭	せっちゅうそうたん	yoji
+ja	奇技淫巧	きぎいんこう	yoji
+ja	福善禍淫	ふくぜんかいん	yoji
+ja	剣林弾雨	けんりんだんう	yoji
+ja	夏虫疑氷	かちゅうぎひょう	yoji
+ja	一髪千鈞	いっぱつせんきん	yoji
+ja	縁の下	えんのした	idiom
+ja	火の車	ひのくるま	idiom
+ja	火の手	ひのて	idiom
+ja	火遊び	ひあそび	idiom
+ja	二枚舌	にまいじた	idiom
+ja	逃げ腰	にげごし	idiom
+ja	息の根	いきのね	idiom
+ja	阿吽の呼吸	あうんのこきゅう	idiom
+ja	ゲンを担ぐ	げんをかつぐ	idiom
+ja	じゃじゃ馬	じゃじゃうま	idiom
+ja	コロンブスの卵	ころんぶすのたまご	idiom
+ja	トップランナー		idiom
+ja	メスを入れる	めすをいれる	idiom
+ja	一発かます	いっぱつかます	idiom
+ja	一泡吹かせる	ひとあわふかせる	idiom
+ja	一本やり	いっぽんやり	idiom
+ja	カラスの行水	からすのぎょうずい	idiom
+ja	嘘八百	うそはっぴゃく	idiom
+ja	瓜二つ	うりふたつ	idiom
+ja	猿芝居	さるしばい	idiom
+ja	遠吠え	とおぼえ	idiom
+ja	下火になる	したびになる	idiom
+ja	下駄を預ける	げたをあずける	idiom
+ja	化けの皮を剥ぐ	ばけのかわをはぐ	idiom
+ja	にわか仕込み	にわかじこみ	idiom
+ja	株が上がる	かぶがあがる	idiom
+ja	冠を曲げる	かんむりをまげる	idiom
+ja	堪忍袋の緒が切れる	かんにんぶくろのおがきれる	idiom
+ja	逆鱗	げきりん	idiom
+ja	玉の輿	たまのこし	idiom
+ja	固唾を呑む	かたずをのむ	idiom
+ja	胡坐をかく	あぐらをかく	idiom
+ja	虎の巻	とらのまき	idiom
+ja	碁盤の目	ごばんのめ	idiom
+ja	三顧の礼	さんこのれい	idiom
+ja	三種の神器	さんしゅのじんぎ	idiom
+ja	姿を消す	すがたをけす	idiom
+ja	歯が浮く	はがうく	idiom
+ja	手を切る	てをきる	idiom
+ja	首を切る	くびをきる	idiom
+ja	臭いものに蓋	くさいものにふた	idiom
+ja	十日の菊	とおかのきく	idiom
+ja	小耳に挟む	こみみにはさむ	idiom
+ja	掌中の珠	しょうちゅうのたま	idiom
+ja	ヤキが回る	やきがまわる	idiom
+ja	色眼鏡で見る	いろめがねでみる	idiom
+ja	親の七光り	おやのななひかり	idiom
+ja	身から出た錆	みからでたさび	idiom
+ja	世話を焼く	せわをやく	idiom
+ja	青天井	あおてんじょう	idiom
+ja	蝉時雨	せみしぐれ	idiom
+ja	掃き溜めに鶴	はきだめにつる	idiom
+ja	大虎	おおとら	idiom
+ja	地が出る	じがでる	idiom
+ja	竹馬の友	ちくばのとも	idiom
+ja	虫の息	むしのいき	idiom
+ja	張子の虎	はりこのとら	idiom
+ja	爪で拾って箕で零す	つめでひろってみでこぼす	idiom
+ja	泥のように寝る	どろのようにねる	idiom
+ja	泥をかぶる	どろをかぶる	idiom
+ja	天馬空を行く	てんばくうをゆく	idiom
+ja	天秤にかける	てんびんにかける	idiom
+ja	度肝を抜く	どぎもをぬく	idiom
+ja	頭隠して尻隠さず	あたまかくしてしりかくさず	idiom
+ja	頭角を現す	とうかくをあらわす	idiom
+ja	峠を越す	とうげをこす	idiom
+ja	鳶が鷹を生む	とんびがたかをうむ	idiom
+ja	呑舟の魚	どんしゅうのうお	idiom
+ja	二足のわらじ	にそくのわらじ	idiom
+ja	二番煎じ	にばんせんじ	idiom
+ja	乳臭い	ちちくさい	idiom
+ja	そりが合わない	そりがあわない	idiom
+ja	非行に走る	ひこうにはしる	idiom
+ja	鼻を明かす	はなをあかす	idiom
+ja	百薬の長	ひゃくやくのちょう	idiom
+ja	おんぶに抱っこ	おんぶにだっこ	idiom
+ja	弁慶の泣き所	べんけいのなきどころ	idiom
+ja	墓穴を掘る	ぼけつをほる	idiom
+ja	泡を食う	あわをくう	idiom
+ja	蜂の巣	はちのす	idiom
+ja	末席を汚す	まっせきをけがす	idiom
+ja	目が点になる	めがてんになる	idiom
+ja	目鼻が付く	めはながつく	idiom
+ja	矢面に立つ	やおもてにたつ	idiom
+ja	薮蛇になる	やぶへびになる	idiom
+ja	油を絞る	あぶらをしぼる	idiom
+ja	両手に花	りょうてにはな	idiom
+ja	力こぶを入れる	ちからこぶをいれる	idiom
+ja	よりを戻す	よりをもどす	idiom
+ja	茹でタコ	ゆでだこ	idiom
+ja	顰蹙を買う	ひんしゅくをかう	idiom
+ja	鼬ごっこ	いたちごっこ	idiom
+ja	すし詰め	すしづめ	idiom
+ja	玉に瑕	たまにきず	idiom
+ja	嵐の前の静けさ	あらしのまえのしずけさ	idiom
+ja	度が過ぎる	どがすぎる	idiom
+ja	縁の下の力持ち	えんのしたのちからもち	idiom
+ja	火がつく	ひがつく	idiom
+ja	一から十まで	いちからじゅうまで	idiom
+ja	腹を据える	はらをすえる	idiom
+ja	肩をいからせる	かたをいからせる	idiom
+ja	口を拭う	くちをぬぐう	idiom
+ja	肩が凝る	かたがこる	idiom
+ja	型にはめる	かたにはめる	idiom
+ja	兄たり難く弟たり難し	けいたりがたくていたりがたし	idiom
+ja	背筋が寒くなる	せすじがさむくなる	idiom
+ja	大山鳴動して鼠一匹	たいざんめいどうしてねずみいっぴき	idiom
+ja	心が通う	こころがかよう	idiom
+ja	股にかける	またにかける	idiom
+ja	いぶし銀	いぶしぎん	idiom
+ja	亡羊の嘆	ぼうようのたん	idiom
+ja	虻蜂取らず	あぶはちとらず	idiom
+ja	抜け目ない	ぬけめない	idiom
+ja	お膳立て	おぜんだて	idiom
+ja	走馬灯	そうまとう	idiom
+ja	百人力	ひゃくにんりき	idiom
+ja	最終兵器	さいしゅうへいき	idiom
+ja	さじ加減	さじかげん	idiom
+ja	畳水練	たたみすいれん	idiom
+ja	蛇蝎	だかつ	idiom
+ja	釘付け	くぎづけ	idiom
+ja	頂門の一針	ちょうもんのいっしん	idiom
+ja	河童の屁	かっぱのへ	idiom
+ja	温室育ち	おんしつそだち	idiom
+ja	左団扇	ひだりうちわ	idiom
+ja	関の山	せきのやま	idiom
+ja	集中砲火	しゅうちゅうほうか	idiom
+ja	濡れ手で粟	ぬれてであわ	idiom
+ja	奈落の底	ならくのそこ	idiom
+ja	風の子	かぜのこ	idiom
+ja	風前の灯	ふうぜんのともしび	idiom
+ja	牛の歩み	うしのあゆみ	idiom
+ja	猫の子一匹いない	ねこのこいっぴきいない	idiom
+ja	猫可愛がり	ねこかわいがり	idiom
+ja	猫の目	ねこのめ	idiom
+ja	虎の子	とらのこ	idiom
+ja	虎狼	ころう	idiom
+ja	獅子身中の虫	しししんちゅうのむし	idiom
+ja	畑水練	はたけすいれん	idiom
+ja	蹴破る	けやぶる	idiom
+ja	清濁併せ呑む	せいだくあわせのむ	idiom
+ja	地団駄を踏む	じだんだをふむ	idiom
+ja	槍玉に挙げる	やりだまにあげる	idiom
+ja	鎌をかける	かまをかける	idiom
+ja	虎の尾を踏む	とらのおをふむ	idiom
+ja	春秋に富む	しゅんじゅうにとむ	idiom
+ja	台風の目	たいふうのめ	idiom
+ja	宝の持ち腐れ	たからのもちぐされ	idiom
+ja	手が上がる	てがあがる	idiom
+ja	手の者	てのもの	idiom
+ja	夜の帳	よるのとばり	idiom
+ja	跡をつける	あとをつける	idiom
+ja	甘い汁を吸う	あまいしるをすう	idiom
+ja	一矢を報いる	いっしをむくいる	idiom
+ja	一歩下がる	いっぽさがる	idiom
+ja	一本取る	いっぽんとる	idiom
+ja	裏をかく	うらをかく	idiom
+ja	運を天に任せる	うんをてんにまかせる	idiom
+ja	屋上屋を架す	おくじょうおくをかす	idiom
+ja	音に聞く	おとにきく	idiom
+ja	霞を食う	かすみをくう	idiom
+ja	鼎の軽重を問う	かなえのけいちょうをとう	idiom
+ja	鬼籍に入る	きせきにいる	idiom
+ja	木に竹を接ぐ	きにたけをつぐ	idiom
+ja	くだを巻く	くだをまく	idiom
+ja	犬猿	けんえん	idiom
+ja	心にかかる	こころにかかる	idiom
+ja	不完全燃焼	ふかんぜんねんしょう	idiom
+ja	心を痛める	こころをいためる	idiom
+ja	言葉を濁す	ことばをにごす	idiom
+ja	業を煮やす	ごうをにやす	idiom
+ja	三舎を避ける	さんしゃをさける	idiom
+ja	朱を入れる	しゅをいれる	idiom
+ja	生を受ける	せいをうける	idiom
+ja	たたらを踏む	たたらをふむ	idiom
+ja	掌を指す	たなごころをさす	idiom
+ja	血の通った	ちのかよった	idiom
+ja	ツケを払う	つけをはらう	idiom
+ja	手を変え品を変え	てをかえしなをかえ	idiom
+ja	手を差し伸べる	てをさしのべる	idiom
+ja	手を染める	てをそめる	idiom
+ja	手を携えて	てをたずさえて	idiom
+ja	手を伸べる	てをのべる	idiom
+ja	点数を稼ぐ	てんすうをかせぐ	idiom
+ja	峠を越える	とうげをこえる	idiom
+ja	虎を野に放つ	とらをのにはなつ	idiom
+ja	度を失う	どをうしなう	idiom
+ja	涙をのむ	なみだをのむ	idiom
+ja	煮え湯を飲まされる	にえゆをのまされる	idiom
+ja	熱を上げる	ねつをあげる	idiom
+ja	話の腰を折る	はなしのこしをおる	idiom
+ja	花を持たせる	はなをもたせる	idiom
+ja	歯に衣を着せない	はにきぬをきせない	idiom
+ja	腹鼓を打つ	はらつづみをうつ	idiom
+ja	腹を痛める	はらをいためる	idiom
+ja	化けの皮を現す	ばけのかわをあらわす	idiom
+ja	恨みを買う	うらみをかう	idiom
+ja	保険をかける	ほけんをかける	idiom
+ja	骨を埋める	ほねをうずめる	idiom
+ja	見得を切る	みえをきる	idiom
+ja	右に出る	みぎにでる	idiom
+ja	身を入れる	みをいれる	idiom
+ja	飯を食う	めしをくう	idiom
+ja	弓を引く	ゆみをひく	idiom
+ja	虫唾が走る	むしずがはしる	idiom
+ja	虫も殺さぬ	むしもころさぬ	idiom
+ja	後釜に座る	あとがまにすわる	idiom
+ja	茶を濁す	ちゃをにごす	idiom
+ja	馬脚を現す	ばきゃくをあらわす	idiom
+ja	オブラートに包む	おぶらーとにつつむ	idiom
+ja	コップの中の嵐	こっぷのなかのあらし	idiom
+ja	シャッポを脱ぐ	しゃっぽをぬぐ	idiom
+ja	バスに乗り遅れる	ばすにのりおくれる	idiom
+ja	フットライトを浴びる	ふっとらいとをあびる	idiom
+ja	ブレーキを掛ける	ぶれーきをかける	idiom
+ja	ベンチを温める	べんちをあたためる	idiom
+ja	飴と鞭	あめとむち	idiom
+ja	茨の道	いばらのみち	idiom
+ja	花も実もある	はなもみもある	idiom
+ja	海の物とも山の物とも判らない	うみのものともやまのものともわからない	idiom
+ja	蛙の面に水	かえるのつらにみず	idiom
+ja	ああ言えばこう言う	ああいえばこういう	idiom
+ja	尻馬に乗る	しりうまにのる	idiom
+ja	まな板の鯉	まないたのこい	idiom
+ja	海の藻屑	うみのもくず	idiom
+ja	昔取った杵柄	むかしとったきねづか	idiom
+ja	思う壺にはまる	おもうつぼにはまる	idiom
+ja	木に縁って魚を求む	きによってうおをもとむ	idiom
+ja	ケリが付く	けりがつく	idiom
+ja	畳の上で死ぬ	たたみのうえでしぬ	idiom
+ja	畳の上の水練	たたみのうえのすいれん	idiom
+ja	大きな顔をする	おおきなかおをする	idiom
+ja	顔が利く	かおがきく	idiom
+ja	心を砕く	こころをくだく	idiom
+ja	気が荒い	きがあらい	idiom
+ja	臍を噛む	ほぞをかむ	idiom
+ja	水をあける	みずをあける	idiom
+ja	清水の舞台から飛び降りる	きよみずのぶたいからとびおりる	idiom
+ja	闇夜の烏	やみよのからす	idiom
+ja	闇夜に烏	やみよにからす	idiom
+ja	目をつける	めをつける	idiom
+ja	歯に衣を着せぬ	はにきぬをきせぬ	idiom
+ja	眉を開く	まゆをひらく	idiom
+ja	同じ穴のムジナ	おなじあなのむじな	idiom
+ja	草木も眠る丑三つ時	くさきもねむるうしみつどき	idiom
+ja	袂を分かつ	たもとをわかつ	idiom
+ja	苦虫を噛み潰したよう	にがむしをかみつぶしたよう	idiom
+ja	賽は投げられた	さいはなげられた	idiom
+ja	元も子もない	もともこもない	idiom
+ja	目くじらを立てる	めくじらをたてる	idiom
+ja	腕が鳴る	うでがなる	idiom
+ja	隴を得て蜀を望む	ろうをえてしょくをのぞむ	idiom
+ja	九仞の功を一簣に虧く	きゅうじんのこうをいっきにかく	idiom
+ja	手に乗る	てにのる	idiom
+ja	立錐の余地もない	りっすいのよちもない	idiom
+ja	口をきく	くちをきく	idiom
+ja	波に乗る	なみにのる	idiom
+ja	帯に短し襷に長し	おびにみじかしたすきにながし	idiom
+ja	安全牌	あんぜんぱい	idiom
+ja	逆鱗に触れる	げきりんにふれる	idiom
+ja	暗礁に乗り上げる	あんしょうにのりあげる	idiom
+ja	手玉に取る	てだまにとる	idiom
+ja	手がかかる	てがかかる	idiom
+ja	手が早い	てがはやい	idiom
+ja	うだつが上がらない	うだつがあがらない	idiom
+ja	親のすねをかじる	おやのすねをかじる	idiom
+ja	紺屋の白袴	こうやのしろばかま	idiom
+ja	胡麻を擂る	ごまをする	idiom
+ja	釈迦に説法	しゃかにせっぽう	idiom
+ja	敵は本能寺にあり	てきはほんのうじにあり	idiom
+ja	対岸の火事	たいがんのかじ	idiom
+ja	気をもむ	きをもむ	idiom
+ja	息を引き取る	いきをひきとる	idiom
+ja	波風が立つ	なみかぜがたつ	idiom
+ja	波風を立てる	なみかぜをたてる	idiom
+ja	味を占める	あじをしめる	idiom
+ja	後足で砂をかける	あとあしですなをかける	idiom
+ja	危ない橋を渡る	あぶないはしをわたる	idiom
+ja	生き馬の目を抜く	いきうまのめをぬく	idiom
+ja	一世を風靡する	いっせいをふうびする	idiom
+ja	芋を洗うよう	いもをあらうよう	idiom
+ja	引導を渡す	いんどうをわたす	idiom
+ja	うまい汁を吸う	うまいしるをすう	idiom
+ja	江戸の敵を長崎で討つ	えどのかたきをながさきでうつ	idiom
+ja	お株を奪う	おかぶをうばう	idiom
+ja	灸を据える	きゅうをすえる	idiom
+ja	お先棒を担ぐ	おさきぼうをかつぐ	idiom
+ja	同じ釜の飯を食う	おなじかまのめしをくう	idiom
+ja	尾ひれをつける	おひれをつける	idiom
+ja	舵を取る	かじをとる	idiom
+ja	肩透かしを食わせる	かたすかしをくわせる	idiom
+ja	肩で風を切る	かたでかぜをきる	idiom
+ja	火中の栗を拾う	かちゅうのくりをひろう	idiom
+ja	仮面をかぶる	かめんをかぶる	idiom
+ja	鴨が葱を背負って来る	かもがねぎをしょってくる	idiom
+ja	看板を下ろす	かんばんをおろす	idiom
+ja	木で鼻をくくる	きではなをくくる	idiom
+ja	木に縁りて魚を求む	きによりてうおをもとむ	idiom
+ja	肝をつぶす	きもをつぶす	idiom
+ja	休止符を打つ	きゅうしふをうつ	idiom
+ja	錦上花を添える	きんじょうはなをそえる	idiom
+ja	白羽の矢が立つ	しらはのやがたつ	idiom
+ja	白羽の矢を立てる	しらはのやをたてる	idiom
+ja	猫も杓子も	ねこもしゃくしも	idiom
+ja	盗人猛々しい	ぬすっとたけだけしい	idiom
+ja	腕が立つ	うでがたつ	idiom
+ja	いずれ菖蒲か杜若	いずれあやめかかきつばた	idiom
+ja	角が立つ	かどがたつ	idiom
+ja	痛くも痒くもない	いたくもかゆくもない	idiom
+ja	面の皮が厚い	つらのかわがあつい	idiom
+ja	ウドの大木	うどのたいぼく	idiom
+ja	線引き	せんびき	idiom
+ja	水を向ける	みずをむける	idiom
+ja	引けを取る	ひけをとる	idiom
+ja	安牌	あんぱい	idiom
+ja	飯の食い上げ	めしのくいあげ	idiom
+ja	声を呑む	こえをのむ	idiom
+ja	尻尾を巻く	しっぽをまく	idiom
+ja	年貢の納め時	ねんぐのおさめどき	idiom
+ja	目に物見せる	めにものみせる	idiom
+ja	冷や飯を食う	ひやめしをくう	idiom
+ja	氷山の一角	ひょうざんのいっかく	idiom
+ja	水と油	みずとあぶら	idiom
+ja	足が地に着かない	あしがちにつかない	idiom
+ja	息がかかる	いきがかかる	idiom
+ja	手ぐすね引く	てぐすねひく	idiom
+ja	お鉢が回ってくる	おはちがまわってくる	idiom
+ja	河岸を変える	かしをかえる	idiom
+ja	噛んで含める	かんでふくめる	idiom
+ja	愚の骨頂	ぐのこっちょう	idiom
+ja	雲行きが怪しい	くもゆきがあやしい	idiom
+ja	大ぼらを吹く	おおぼらをふく	idiom
+ja	小首を傾げる	こくびをかしげる	idiom
+ja	そうは問屋が卸さない	そうはとんやがおろさない	idiom
+ja	歯牙にもかけない	しがにもかけない	idiom
+ja	杖とも柱とも頼む	つえともはしらともたのむ	idiom
+ja	つぶしが利く	つぶしがきく	idiom
+ja	手の施しようがない	てのほどこしようがない	idiom
+ja	手の内を見せる	てのうちをみせる	idiom
+ja	出る幕ではない	でるまくではない	idiom
+ja	伝家の宝刀を抜く	でんかのほうとうをぬく	idiom
+ja	同日の談ではない	どうじつのだんではない	idiom
+ja	ねじり鉢巻きで	ねじりはちまきで	idiom
+ja	二股をかける	ふたまたをかける	idiom
+ja	足るを知る	たるをしる	idiom
+ja	口にのぼせる	くちにのぼせる	idiom
+ja	目に角を立てる	めにかどをたてる	idiom
+ja	金魚のフン	きんぎょのふん	idiom
+ja	目を皿にする	めをさらにする	idiom
+ja	目から鼻へ抜ける	めからはなへぬける	idiom
+ja	世を渡る	よをわたる	idiom
+ja	両天秤をかける	りょうてんびんをかける	idiom
+ja	両天秤にかける	りょうてんびんにかける	idiom
+ja	路頭に迷う	ろとうにまよう	idiom
+ja	轍を踏む	てつをふむ	idiom
+ja	労多くして功少なし	ろうおおくしてこうすくなし	idiom
+ja	箸にも棒にもかからない	はしにもぼうにもかからない	idiom
+ja	前車の轍を踏む	ぜんしゃのてつをふむ	idiom
+ja	前轍を踏む	ぜんてつをふむ	idiom
+ja	根を張る	ねをはる	idiom
+ja	犬猫	いぬねこ	idiom
+ja	以て瞑すべし	もってめいすべし	idiom
+ja	石にかじりついても	いしにかじりついても	idiom
+ja	肌が合う	はだがあう	idiom
+ja	煙幕を張る	えんまくをはる	idiom
+ja	二階から目薬	にかいからめぐすり	idiom
+ja	かゆいところに手が届く	かゆいところにてがとどく	idiom
+ja	煙に巻く	けむにまく	idiom
+ja	青菜に塩	あおなにしお	idiom
+ja	頭の上の蠅も追えない	あたまのうえのはえもおえない	idiom
+ja	鞍上人なく鞍下馬なし	あんじょうひとなくあんかうまなし	idiom
+ja	石に漱ぎ流れに枕す	いしにくちすすぎながれにまくらす	idiom
+ja	イタチの最後っ屁	いたちのさいごっぺ	idiom
+ja	犬と猿	いぬとさる	idiom
+ja	雪と墨	ゆきとすみ	idiom
+ja	赤子の手をひねる	あかごのてをひねる	idiom
+ja	目を白黒させる	めをしろくろさせる	idiom
+ja	ピリオドを打つ	ぴりおどをうつ	idiom
+ja	終止符を打つ	しゅうしふをうつ	idiom
+ja	愛嬌を振りまく	あいきょうをふりまく	idiom
+ja	渡りに船	わたりにふね	idiom
+ja	論語読みの論語知らず	ろんごよみのろんごしらず	idiom
+ja	洛陽の紙価を高める	らくようのしかをたかめる	idiom
+ja	闇夜の鉄砲	やみよのてっぽう	idiom
+ja	闇夜の礫	やみよのつぶて	idiom
+ja	元の鞘に収まる	もとのさやにおさまる	idiom
+ja	沐猴にして冠す	もっこうにしてかんす	idiom
+ja	梯子を外される	はしごをはずされる	idiom
+ja	針ほどのことを棒ほどに言う	はりほどのことをぼうほどにいう	idiom
+ja	命の洗濯	いのちのせんたく	idiom
+ja	カビが生える	かびがはえる	idiom
+ja	大船に乗る	おおぶねにのる	idiom
+ja	宝の山に入りながら手を空しくして帰る	たからのやまにいりながらてをむなしくしてかえる	idiom
+ja	首が飛ぶ	くびがとぶ	idiom
+ja	籠の鳥	かごのとり	idiom
+ja	籠で水を汲む	かごでみずをくむ	idiom
+ja	天に向かって唾を吐く	てんにむかってつばをはく	idiom
+ja	ヤマが当たる	やまがあたる	idiom
+ja	頭痛の種	ずつうのたね	idiom
+ja	不幸中の幸い	ふこうちゅうのさいわい	idiom
+ja	一枚噛む	いちまいかむ	idiom
+ja	取るに足らない	とるにたらない	idiom
+ja	尻をたたく	しりをたたく	idiom
+ja	狐と狸の化かし合い	きつねとたぬきのばかしあい	idiom
+ja	火をつける	ひをつける	idiom
+ja	ツケが回ってくる	つけがまわってくる	idiom
+ja	ツケが回る	つけがまわる	idiom
+ja	手につかない	てにつかない	idiom
+ja	足をすくう	あしをすくう	idiom
+ja	重箱の隅をほじくる	じゅうばこのすみをほじくる	idiom
+ja	水魚の交わり	すいぎょのまじわり	idiom
+ja	ドブに捨てる	どぶにすてる	idiom
+ja	目の中に入れても痛くない	めのなかにいれてもいたくない	idiom
+ja	はらわたが煮えくり返る	はらわたがにえくりかえる	idiom
+ja	絵になる	えになる	idiom
+ja	足を棒にする	あしをぼうにする	idiom
+ja	目を盗む	めをぬすむ	idiom
+ja	自腹を切る	じばらをきる	idiom
+ja	やきもちを焼く	やきもちをやく	idiom
+ja	神経を尖らせる	しんけいをとがらせる	idiom
+ja	腕に覚えがある	うでにおぼえがある	idiom
+ja	うだつの上がらない	うだつのあがらない	idiom
+ja	気の荒い	きのあらい	idiom
+ja	手の早い	てのはやい	idiom
+ja	腰を上げる	こしをあげる	idiom
+ja	年がいもなく	としがいもなく	idiom
+ja	タオルを投げる	たおるをなげる	idiom
+ja	骨肉の争い	こつにくのあらそい	idiom
+ja	ツーカーの仲	つーかーのなか	idiom
+ja	火蓋を切る	ひぶたをきる	idiom
+ja	心胆を寒からしめる	しんたんをさむからしめる	idiom
+ja	花を咲かせる	はなをさかせる	idiom
+ja	石にかじりついてでも	いしにかじりついてでも	idiom
+ja	歯に衣着せない	はにきぬきせない	idiom
+ja	水泡に帰する	すいほうにきする	idiom
+ja	神も仏もない	かみもほとけもない	idiom
+ja	瓢箪から駒	ひょうたんからこま	idiom
+ja	犬も食わない	いぬもくわない	idiom
+ja	飛ぶ鳥を落とす勢い	とぶとりをおとすいきおい	idiom
+ja	身が入る	みがはいる	idiom
+ja	蛙の面に小便	かえるのつらにしょうべん	idiom
+ja	屁の河童	へのかっぱ	idiom
+ja	船を漕ぐ	ふねをこぐ	idiom
+ja	天に唾する	てんにつばする	idiom
+ja	雨が降ろうが槍が降ろうが	あめがふろうがやりがふろうが	idiom
+ja	雨が降ろうと槍が降ろうと	あめがふろうとやりがふろうと	idiom
+ja	破竹の勢い	はちくのいきおい	idiom
+ja	飛ぶ鳥も落とす勢い	とぶとりもおとすいきおい	idiom
+ja	手が塞がる	てがふさがる	idiom
+ja	奥歯に物が挟まる	おくばにものがはさまる	idiom
+ja	重箱の隅をつつく	じゅうばこのすみをつつく	idiom
+ja	歯に衣着せぬ	はにきぬきせぬ	idiom
+ja	バトンを渡す	ばとんをわたす	idiom
+ja	泥を塗る	どろをぬる	idiom
+ja	烙印を押される	らくいんをおされる	idiom
+ja	レッテルを貼る	れってるをはる	idiom
+ja	蓋を開ける	ふたをあける	idiom
+ja	泣きを見る	なきをみる	idiom
+ja	故郷へ錦を飾る	こきょうへにしきをかざる	idiom
+ja	鵜の目鷹の目	うのめたかのめ	idiom
+ja	泣いても笑っても	ないてもわらっても	idiom
+ja	見る影もない	みるかげもない	idiom
+ja	見るに忍びない	みるにしのびない	idiom
+ja	盲亀の浮木	もうきのふぼく	idiom
+ja	嘘から出たまこと	うそからでたまこと	idiom
+ja	火の用心	ひのようじん	idiom
+ja	叶わぬ時の神頼み	かなわぬときのかみだのみ	idiom
+ja	管の穴から天を覗く	くだのあなからてんをのぞく	idiom
+ja	気は持ちよう	きはもちよう	idiom
+ja	ばかりが能ではない	ばかりがのうではない	idiom
+ja	金の世の中	かねのよのなか	idiom
+ja	群羊を駆って猛虎を攻む	ぐんようをかってもうこをせむ	idiom
+ja	古い革袋に新しい酒を盛る	ふるいかわぶくろにあたらしいさけをもる	idiom
+ja	後が無い	あとがない	idiom
+ja	お鉢が回る	おはちがまわる	idiom
+ja	功罪相償う	こうざいあいつぐなう	idiom
+ja	口に蜜あり腹に剣あり	くちにみつありはらにけんあり	idiom
+ja	四海波静か	しかいなみしずか	idiom
+ja	死なばもろとも	しなばもろとも	idiom
+ja	死んでも死に切れぬ	しんでもしにきれぬ	idiom
+ja	車軸を流す	しゃじくをながす	idiom
+ja	焼けぼっくいに火がつく	やけぼっくいにひがつく	idiom
+ja	証文の出し後れ	しょうもんのだしおくれ	idiom
+ja	人の口に戸は立てられず	ひとのくちにとはたてられず	idiom
+ja	正直の頭に神宿る	しょうじきのこうべにかみやどる	idiom
+ja	選ぶところがない	えらぶところがない	idiom
+ja	足の踏み場もない	あしのふみばもない	idiom
+ja	その時はその時	そのときはそのとき	idiom
+ja	知らぬは亭主ばかりなり	しらぬはていしゅばかりなり	idiom
+ja	沈香も焚かず屁も放らず	じんこうもたかずへもひらず	idiom
+ja	笛吹けども踊らず	ふえふけどもおどらず	idiom
+ja	刀折れ矢尽きる	かたなおれやつきる	idiom
+ja	同日の論ではない	どうじつのろんではない	idiom
+ja	得手に帆を揚げる	えてにほをあげる	idiom
+ja	毒にも薬にもならない	どくにもくすりにもならない	idiom
+ja	猫に鰹節	ねこにかつおぶし	idiom
+ja	ほとぼりが冷める	ほとぼりがさめる	idiom
+ja	念には念を入れる	ねんにはねんをいれる	idiom
+ja	卑下自慢	ひげじまん	idiom
+ja	庇を貸して母屋を取られる	ひさしをかしておもやをとられる	idiom
+ja	膝が笑う	ひざがわらう	idiom
+ja	風に柳	かぜにやなぎ	idiom
+ja	分秒を争う	ふんびょうをあらそう	idiom
+ja	糞も味噌も一緒	くそもみそもいっしょ	idiom
+ja	ざまあ見ろ	ざまあみろ	idiom
+ja	裏がある	うらがある	idiom
+ja	竜虎相打つ	りゅうこあいうつ	idiom
+ja	六十の手習い	ろくじゅうのてならい	idiom
+ja	地に足の着いた	ちにあしのついた	idiom
+ja	尻の毛まで抜かれる	けつのけまでぬかれる	idiom
+ja	爪の垢	つめのあか	idiom
+ja	爪の垢を煎じて飲む	つめのあかをせんじてのむ	idiom
+ja	ビン底メガネ	びんぞこめがね	idiom
+ja	白衣の天使	はくいのてんし	idiom
+ja	埒があく	らちがあく	idiom
+ja	肩が張る	かたがはる	idiom
+ja	重箱の隅をようじでほじくる	じゅうばこのすみをようじでほじくる	idiom
+ja	桜咲く	さくらさく	idiom
+ja	桜散る	さくらちる	idiom
+ja	山をかける	やまをかける	idiom
+ja	山を張る	やまをはる	idiom
+ja	手のかかる	てのかかる	idiom
+ja	舌が回る	したがまわる	idiom
+ja	舵を切る	かじをきる	idiom
+ja	羽を伸ばす	はねをのばす	idiom
+ja	ぶら下がり	ぶらさがり	idiom
+ja	ここに来て	ここにきて	idiom
+ja	覚えてろ	おぼえてろ	idiom
+ja	角を矯めて牛を殺す	つのをためてうしをころす	idiom
+ja	花も恥らう	はなもはじらう	idiom
+ja	感情に走る	かんじょうにはしる	idiom
+ja	鼻を鳴らす	はなをならす	idiom
+ja	陸に上がった河童	おかにあがったかっぱ	idiom
+ja	口を糊する	くちをのりする	idiom
+ja	屁とも思わない	へともおもわない	idiom
+ja	心が躍る	こころがおどる	idiom
+ja	愛想を振りまく	あいそをふりまく	idiom
+ja	自分の首を絞める	じぶんのくびをしめる	idiom
+ja	真綿で首を絞める	まわたでくびをしめる	idiom
+ja	鍵を握る	かぎをにぎる	idiom
+ja	壁立千仞	へきりつせんじん	idiom
+ja	心が通じる	こころがつうじる	idiom
+ja	切れ上がる	きれあがる	idiom
+ja	目の正月	めのしょうがつ	idiom
+ja	口をつぐむ	くちをつぐむ	idiom
+ja	脇が甘い	わきがあまい	idiom
+ja	同気相求む	どうきあいもとむ	idiom
+ja	同気相求める	どうきあいもとめる	idiom
+ja	胸を躍らせる	むねをおどらせる	idiom
+ja	いすかの嘴	いすかのはし	idiom
+ja	骨を惜しむ	ほねをおしむ	idiom
+ja	最後っ屁	さいごっぺ	idiom
+ja	最後屁	さいごべ	idiom
+ja	苦汁をなめる	くじゅうをなめる	idiom
+ja	寸鉄人を刺す	すんてつひとをさす	idiom
+ja	鼻薬を嗅がせる	はなぐすりをかがせる	idiom
+ja	みこしを据える	みこしをすえる	idiom
+ja	寸鉄人を殺す	すんてつひとをころす	idiom
+ja	騎虎の勢い	きこのいきおい	idiom
+ja	穴の開くほど	あなのあくほど	idiom
+ja	手が切れる	てがきれる	idiom
+ja	竹を割ったよう	たけをわったよう	idiom
+ja	棺を蓋いて事定まる	かんをおおいてことさだまる	idiom
+ja	顔を揃える	かおをそろえる	idiom
+ja	天狗になる	てんぐになる	idiom
+ja	一分の隙もない	いちぶのすきもない	idiom
+ja	砂上の楼閣	さじょうのろうかく	idiom
+ja	型にはまる	かたにはまる	idiom
+ja	毒をもって毒を制す	どくをもってどくをせいす	idiom
+ja	唾をつける	つばをつける	idiom
+ja	油を注ぐ	あぶらをそそぐ	idiom
+ja	鼻の下が長い	はなのしたがながい	idiom
+ja	神の子	かみのこ	idiom
+ja	寝た子を起こす	ねたこをおこす	idiom
+ja	天を仰ぎて唾す	てんをあおぎてつばきす	idiom
+ja	手が利く	てがきく	idiom
+ja	トサカに来る	とさかにくる	idiom
+ja	もろ肌を脱ぐ	もろはだをぬぐ	idiom
+ja	風の便り	かぜのたより	idiom
+ja	子供の使い	こどものつかい	idiom
+ja	手が出る	てがでる	idiom
+ja	頤で人を使う	あごでひとをつかう	idiom
+ja	横板に雨垂れ	よこいたにあまだれ	idiom
+ja	葦の髄から天井を覗く	よしのずいからてんじょうをのぞく	idiom
+ja	拍車がかかる	はくしゃがかかる	idiom
+ja	欲の皮が突っ張る	よくのかわがつっぱる	idiom
+ja	腹の虫が鳴く	はらのむしがなく	idiom
+ja	腹の虫が鳴る	はらのむしがなる	idiom
+ja	枕を高くして眠る	まくらをたかくしてねむる	idiom
+ja	火を見るより明らか	ひをみるよりあきらか	idiom
+ja	乗りかかった船	のりかかったふね	idiom
+ja	木仏金仏石仏	きぶつかなぶついしぼとけ	idiom
+ja	一石を投じる	いっせきをとうじる	idiom
+ja	心臓に毛が生えている	しんぞうにけがはえている	idiom
+ja	心臓に毛が生えた	しんぞうにけがはえた	idiom
+ja	束になってかかる	たばになってかかる	idiom
+ja	爪に火をともす	つめにひをともす	idiom
+ja	火を見るよりも明らか	ひをみるよりもあきらか	idiom
+ja	指をくわえる	ゆびをくわえる	idiom
+ja	眉に唾を塗る	まゆにつばをぬる	idiom
+ja	眉に唾をつける	まゆにつばをつける	idiom
+ja	合間を縫う	あいまをぬう	idiom
+ja	屁でもない	へでもない	idiom
+ja	鼻の下を伸ばす	はなのしたをのばす	idiom
+ja	屁の突っ張りにもならない	へのつっぱりにもならない	idiom
+ja	膳立て	ぜんだて	idiom
+ja	死んでも死に切れない	しんでもしにきれない	idiom
+ja	災いを転じて福となす	わざわいをてんじてふくとなす	idiom
+ja	間に立つ	あいだにたつ	idiom
+ja	耳をダンボにする	みみをだんぼにする	idiom
+ja	下駄と焼き味噌	げたとやきみそ	idiom
+ja	味噌も糞も一緒	みそもくそもいっしょ	idiom
+ja	前門の虎、後門の狼	ぜんもんのとらこうもんのおおかみ	idiom
+ja	権兵衛が種蒔きゃ烏がほじくる	ごんべえがたねまきゃからすがほじくる	idiom
+ja	竹に雀	たけにすずめ	idiom
+ja	湯を沸かして水にする	ゆをわかしてみずにする	idiom
+ja	猿の尻笑い	さるのしりわらい	idiom
+ja	ぺんぺん草が生える	ぺんぺんぐさがはえる	idiom
+ja	土足で	どそくで	idiom
+ja	臭い飯を食う	くさいめしをくう	idiom
+ja	手が離れる	てがはなれる	idiom
+ja	お灸をすえる	おきゅうをすえる	idiom
+ja	糠に釘	ぬかにくぎ	idiom
+ja	豆腐に鎹	とうふにかすがい	idiom
+ja	壺に嵌まる	つぼにはまる	idiom
+ja	毛の生えた	けのはえた	idiom
+ja	ドツボにはまる		idiom
+ja	血で血を洗う	ちでちをあらう	idiom
+ja	軍配が上がる	ぐんばいがあがる	idiom
+ja	首の皮一枚	くびのかわいちまい	idiom
+ja	目の黒いうち	めのくろいうち	idiom
+ja	呼吸が合う	こきゅうがあう	idiom
+ja	粉をかける	こなをかける	idiom
+ja	殻を破る	からをやぶる	idiom
+ja	蝸牛角上の争い	かぎゅうかくじょうのあらそい	idiom
+ja	鷸蚌の争い	いつぼうのあらそい	idiom
+ja	泥のように眠る	どろのようにねむる	idiom
+ja	外堀を埋める	そとぼりをうめる	idiom
+ja	肩透かしを食う	かたすかしをくう	idiom
+ja	十字架を背負う	じゅうじかをせおう	idiom
+ja	ケツが青い	けつがあおい	idiom
+ja	耳タコ	みみたこ	idiom
+ja	弁慶の立ち往生	べんけいのたちおうじょう	idiom
+ja	高みの見物	たかみのけんぶつ	idiom
+ja	手を借りる	てをかりる	idiom
+ja	脛を齧る	すねをかじる	idiom
+ja	親のすねかじり	おやのすねかじり	idiom
+ja	へそで茶を沸かす	へそでちゃをわかす	idiom
+ja	ほっぺたが落ちる	ほっぺたがおちる	idiom
+ja	毒を吐く	どくをはく	idiom
+ja	足が向く	あしがむく	idiom
+ja	肴にする	さかなにする	idiom
+ja	手がつけられない	てがつけられない	idiom
+ja	手がない	てがない	idiom
+ja	箸が進む	はしがすすむ	idiom
+ja	血が流れる	ちがながれる	idiom
+ja	腰だめ	こしだめ	idiom
+ja	泣く子も黙る	なくこもだまる	idiom
+ja	舌の根の乾かぬうち	したのねのかわかぬうち	idiom
+ja	負け犬の遠吠え	まけいぬのとおぼえ	idiom
+ja	雷が落ちる	かみなりがおちる	idiom
+ja	熱に浮かされる	ねつにうかされる	idiom
+ja	メリハリを付ける	めりはりをつける	idiom
+ja	舌の根も乾かぬうち	したのねもかわかぬうち	idiom
+ja	藁にもすがる	わらにもすがる	idiom
+ja	台所事情	だいどころじじょう	idiom
+ja	首を洗って待つ	くびをあらってまつ	idiom
+ja	虎に翼	とらにつばさ	idiom
+ja	水が合わない	みずがあわない	idiom
+ja	一線を画する	いっせんをかくする	idiom
+ja	人の褌で相撲を取る	ひとのふんどしですもうをとる	idiom
+ja	行き掛けの駄賃	いきがけのだちん	idiom
+ja	心臓が止まる	しんぞうがとまる	idiom
+ja	お蔵入り	おくらいり	idiom
+ja	犬に論語	いぬにろんご	idiom
+ja	天の声	てんのこえ	idiom
+ja	薪を抱いて火を救う	たきぎをいだいてひをすくう	idiom
+ja	弓は袋に太刀は鞘	ゆみはふくろにたちはさや	idiom
+ja	他人の褌で相撲を取る	たにんのふんどしですもうをとる	idiom
+ja	尻に火がつく	しりにひがつく	idiom
+ja	心血を注ぐ	しんけつをそそぐ	idiom
+ja	火花を散らす	ひばなをちらす	idiom
+ja	毒気を抜かれる	どっけをぬかれる	idiom
+ja	男がすたる	おとこがすたる	idiom
+ja	蛞蝓に塩	なめくじにしお	idiom
+ja	嘴を挟む	くちばしをはさむ	idiom
+ja	反吐が出る	へどがでる	idiom
+ja	頭が低い	あたまがひくい	idiom
+ja	場外乱闘	じょうがいらんとう	idiom
+ja	鬼が笑う	おにがわらう	idiom
+ja	動きが取れない	うごきがとれない	idiom
+ja	後塵を拝する	こうじんをはいする	idiom
+ja	日々に新たなり	ひびにあらたなり	idiom
+ja	目元千両口元万両	めもとせんりょうくちもとまんりょう	idiom
+ja	飯の種	めしのたね	idiom
+ja	赤い糸で結ばれる	あかいいとでむすばれる	idiom
+ja	走馬灯のように駆け巡る	そうまとうのようにかけめぐる	idiom
+ja	ぬるま湯につかる	ぬるまゆにつかる	idiom
+ja	木から落ちた猿	きからおちたさる	idiom
+ja	重い腰を上げる	おもいこしをあげる	idiom
+ja	ボタンを掛け違える	ぼたんをかけちがえる	idiom
+ja	伝家の宝刀	でんかのほうとう	idiom
+ja	希望の星	きぼうのほし	idiom
+ja	星になる	ほしになる	idiom
+ja	お弁当つけて	おべんとうつけて	idiom
+ja	迦陵頻伽	かりょうびんが	idiom
+ja	年を食う	としをくう	idiom
+ja	手のつけられない	てのつけられない	idiom
+ja	詰めが甘い	つめがあまい	idiom
+ja	だけが能ではない	だけがのうではない	idiom
+ja	尻尾を振る	しっぽをふる	idiom
+ja	山あり谷あり	やまありたにあり	idiom
+ja	車輪の再発明	しゃりんのさいはつめい	idiom
+ja	米百俵	こめひゃっぴょう	idiom
+ja	トカゲの尻尾切り	とかげのしっぽぎり	idiom
+ja	暗がりから牛を引き出す	くらがりからうしをひきだす	idiom
+ja	へそが茶を沸かす	へそがちゃをわかす	idiom
+ja	小首を傾ける	こくびをかたむける	idiom
+ja	ルビコン川を渡る	るびこんがわをわたる	idiom
+ja	この時とばかり	このときとばかり	idiom
+ja	点を稼ぐ	てんをかせぐ	idiom
+ja	裸の王様	はだかのおうさま	idiom
+ja	ハードルを上げる	はーどるをあげる	idiom
+ja	門前雀羅を張る	もんぜんじゃくらをはる	idiom
+ja	管を以て天を窺う	くだをもっててんをうかがう	idiom
+ja	会稽の恥	かいけいのはじ	idiom
+ja	会稽の恥を雪ぐ	かいけいのはじをすすぐ	idiom
+ja	鶏群の一鶴	けいぐんのいっかく	idiom
+ja	鴛鴦の契り	えんおうのちぎり	idiom
+ja	心の欲する所に従えども矩を踰えず	こころのほっするところにしたがえどものりをこえず	idiom
+ja	金箔が剥げる	きんぱくがはげる	idiom
+ja	屋烏の愛	おくうのあい	idiom
+ja	草木もなびく	くさきもなびく	idiom
+ja	火の海	ひのうみ	idiom
+ja	桁が違う	けたがちがう	idiom
+ja	指切りげんまん、嘘ついたら針千本飲ます	ゆびきりげんまんうそついたらはりせんぼんのます	idiom
+ja	一線を越える	いっせんをこえる	idiom
+ja	犬の遠吠え	いぬのとおぼえ	idiom
+ja	愛のムチ	あいのむち	idiom
+ja	王手をかける	おうてをかける	idiom
+ja	尾ひれがつく	おひれがつく	idiom
+ja	五本の指に入る	ごほんのゆびにはいる	idiom
+ja	地獄で仏に会ったよう	じごくでほとけにあったよう	idiom
+ja	つむじを曲げる	つむじをまげる	idiom
+ja	ねじを巻く	ねじをまく	idiom
+ja	お猪口になる	おちょこになる	idiom
+ja	口八丁手八丁	くちはっちょうてはっちょう	idiom
+ja	口も八丁手も八丁	くちもはっちょうてもはっちょう	idiom
+ja	牛にひかれて善光寺参り	うしにひかれてぜんこうじまいり	idiom
+ja	アルファにしてオメガ		idiom
+ja	アルファでありオメガである		idiom
+ja	みにくいアヒルの子	みにくいあひるのこ	idiom
+ja	言葉を失う	ことばをうしなう	idiom
+ja	洟も引っ掛けない	はなもひっかけない	idiom
+ja	口を切る	くちをきる	idiom
+ja	仇を恩で報いる	あだをおんでむくいる	idiom
+ja	炒り豆に花が咲く	いりまめにはながさく	idiom
+ja	天使が通る	てんしがとおる	idiom
+ja	二兎を追う	にとをおう	idiom
+ja	俎上の魚	そじょうのうお	idiom
+ja	年寄りの冷や水	としよりのひやみず	idiom
+ja	娘一人に婿八人	むすめひとりにむこはちにん	idiom
+ja	小鼻をうごめかす	こばなをうごめかす	idiom
+ja	小鼻を膨らます	こばなをふくらます	idiom
+ja	猿猴月を取る	えんこうつきをとる	idiom
+ja	目に立つ	めにたつ	idiom
+ja	肉を切らせて骨を断つ	にくをきらせてほねをたつ	idiom
+ja	肉を切らせて骨を切る	にくをきらせてほねをきる	idiom
+ja	呉牛月に喘ぐ	ごぎゅうつきにあえぐ	idiom
+ja	舟に刻して剣を求む	ふねにこくしてけんをもとむ	idiom
+ja	剣を落として舟を刻む	けんをおとしてふねをきざむ	idiom
+ja	舟に刻みて剣を求む	ふねにきざみてけんをもとむ	idiom
+ja	刻舟	こくしゅう	idiom
+ja	骨になる	ほねになる	idiom
+ja	骨に刻む	ほねにきざむ	idiom
+ja	足元から鳥が立つ	あしもとからとりがたつ	idiom
+ja	馬の耳に風	うまのみみにかぜ	idiom
+ja	生まれぬ先の襁褓さだめ	うまれぬさきのむつきさだめ	idiom
+ja	海のものとも山のものともつかない	うみのものともやまのものともつかない	idiom
+ja	株を守る	くいぜをまもる	idiom
+ja	ごまめの歯軋り	ごまめのはぎしり	idiom
+ja	死んだ魚の目	しんださかなのめ	idiom
+ja	目が死んでいる	めがしんでいる	idiom
+ja	縒りをかける	よりをかける	idiom
+ja	泥棒に追い銭	どろぼうにおいせん	idiom
+ja	盗人に追い銭	ぬすっとにおいせん	idiom
+ja	風の噂	かぜのうわさ	idiom
+ja	羊頭を掲げて狗肉を売る	ようとうをかかげてくにくをうる	idiom
+ja	梅に鶯	うめにうぐいす	idiom
+ja	手を合わせる	てをあわせる	idiom
+ja	紅葉に鹿	もみじにしか	idiom
+ja	のれんを分ける	のれんをわける	idiom
+ja	トップに立つ	とっぷにたつ	idiom
+ja	言葉を呑む	ことばをのむ	idiom
+ja	言葉を挟む	ことばをはさむ	idiom
+ja	敷かれたレール	しかれたれーる	idiom
+ja	実が入る	みがはいる	idiom
+ja	火に油	ひにあぶら	idiom
+ja	声なき声	こえなきこえ	idiom
+ja	道を踏み外す	みちをふみはずす	idiom
+ja	永久就職	えいきゅうしゅうしょく	idiom
+ja	大天狗	だいてんぐ	idiom
+ja	小天狗	こてんぐ	idiom
+ja	心を読む	こころをよむ	idiom
+ja	蔵入り	くらいり	idiom
+ja	裸の付き合い	はだかのつきあい	idiom
+ja	粉々にする	こなごなにする	idiom
+ja	警鐘を鳴らす	けいしょうをならす	idiom
+ja	痛いところを突く	いたいところをつく	idiom
+ja	反感を買う	はんかんをかう	idiom
+ja	一寸刻み	いっすんきざみ	idiom
+ja	空振り三振	からぶりさんしん	idiom
+ja	横串	よこぐし	idiom
+ja	琴線に触れる	きんせんにふれる	idiom
+ja	人間ができている	にんげんができている	idiom
+ja	下駄を履かせる	げたをはかせる	idiom
+ja	睡魔に襲われる	すいまにおそわれる	idiom
+ja	這っても黒豆	はってもくろまめ	idiom
+ja	右に出るものはない	みぎにでるものはない	idiom
+ja	引かれ者の小唄	ひかれもののこうた	idiom
+ja	虫が騒ぐ	むしがさわぐ	idiom
+ja	手癖が悪い	てくせがわるい	idiom
+ja	錦の御旗	にしきのみはた	idiom
+ja	目を背ける	めをそむける	idiom
+ja	蚊帳の外に置く	かやのそとにおく	idiom
+ja	提灯を持つ	ちょうちんをもつ	idiom
+ja	救いの手	すくいのて	idiom
+ja	厚い壁	あついかべ	idiom
+ja	贅沢を言う	ぜいたくをいう	idiom
+ja	心を病む	こころをやむ	idiom
+ja	ふんどしを締めてかかる	ふんどしをしめてかかる	idiom
+ja	耳を揃える	みみをそろえる	idiom
+ja	反響を呼ぶ	はんきょうをよぶ	idiom
+ja	泣いて馬謖を斬る	ないてばしょくをきる	idiom
+ja	吾が仏尊し	あがほとけとうとし	idiom
+ja	鼻血も出ない	はなぢもでない	idiom
+ja	周りの目	まわりのめ	idiom
+ja	光と影	ひかりとかげ	idiom
+ja	相撲に勝って勝負に負ける	すもうにかってしょうぶにまける	idiom
+ja	ハードルを下げる	はーどるをさげる	idiom
+ja	花が咲く	はながさく	idiom
+ja	金魚のうんこ	きんぎょのうんこ	idiom
+ja	黄信号	きしんごう	idiom
+ja	口を酸っぱくする	くちをすっぱくする	idiom
+ja	夢路をたどる	ゆめじをたどる	idiom
+ja	新しいページを加える	あたらしいぺーじをくわえる	idiom
+ja	新しいページをめくる	あたらしいぺーじをめくる	idiom
+ja	新しいページを開く	あたらしいぺーじをひらく	idiom
+ja	服を着る	ふくをきる	idiom
+ja	五指に入る	ごしにはいる	idiom
+ja	肌に合う	はだにあう	idiom
+ja	奥の手を使う	おくのてをつかう	idiom
+ja	心に刺さる	こころにささる	idiom
+ja	胸に刺さる	むねにささる	idiom
+ja	胸に突き刺さる	むねにつきささる	idiom
+ja	心に突き刺さる	こころにつきささる	idiom
+ja	心に響く	こころにひびく	idiom
+ja	重きを置く	おもきをおく	idiom
+ja	上や下への大騒ぎ	うえやしたへのおおさわぎ	idiom
+ja	顔が売れる	かおがうれる	idiom
+ja	地雷を踏む	じらいをふむ	idiom
+ja	スポットを当てる	すぽっとをあてる	idiom
+ja	スポットが当たる	すぽっとがあたる	idiom
+ja	フットワークが軽い	ふっとわーくがかるい	idiom
+ja	池魚の殃	ちぎょのわざわい	idiom
+ja	穴を穿つ	あなをうがつ	idiom
+ja	鍵の穴から天を覗く	かぎのあなからてんをのぞく	idiom
+ja	体が空く	からだがあく	idiom
+ja	首を取る	くびをとる	idiom
+ja	御髭の塵を払う	おひげのちりをはらう	idiom
+ja	お髭の塵を取る	おひげのちりをとる	idiom
+ja	草の根を分けて探す	くさのねをわけてさがす	idiom
+ja	あごを出す	あごをだす	idiom
+ja	足並みを揃える	あしなみをそろえる	idiom
+ja	手に汗握る	てにあせにぎる	idiom
+ja	借りを返す	かりをかえす	idiom
+ja	額に汗する	ひたいにあせする	idiom
+ja	金の卵	きんのたまご	idiom
+ja	一日一歩	いちにちいっぽ	idiom
+ja	盆と正月	ぼんとしょうがつ	idiom
+ja	山を当てる	やまをあてる	idiom
+ja	地に落ちる	ちにおちる	idiom
+ja	毛を吹いて疵を求む	けをふいてきずをもとむ	idiom
+ja	渇に臨みて井を掘る	かつにのぞみていをほる	idiom
+ja	一箪の食一瓢の飲	いったんのしいっぴょうのいん	idiom
+ja	驥尾に付す	きびにふす	idiom
+ja	背中を押す	せなかをおす	idiom
+ja	パンドラの箱を開ける	ぱんどらのはこをあける	idiom
+ja	勝ち馬に乗る	かちうまにのる	idiom
+ja	肩を入れる	かたをいれる	idiom
+ja	背中を追う	せなかをおう	idiom
+ja	鼻が利く	はながきく	idiom
+ja	お釣りがくる	おつりがくる	idiom
+ja	肩透かしを食らう	かたすかしをくらう	idiom
+ja	苦境に立つ	くきょうにたつ	idiom
+ja	城下の盟	じょうかのめい	idiom
+ja	スイッチが入る	すいっちがはいる	idiom
+ja	瓢箪から駒が出る	ひょうたんからこまがでる	idiom
+ja	滄海の一粟	そうかいのいちぞく	idiom
+ja	烏の足跡	からすのあしあと	idiom
+ja	月夜に釜を抜かれる	つきよにかまをぬかれる	idiom
+ja	牛を馬に乗り換える	うしをうまにのりかえる	idiom
+ja	芋の煮えたもご存じない	いものにえたもごぞんじない	idiom
+ja	闇に鉄砲	やみにてっぽう	idiom
+ja	薄氷の勝利	はくひょうのしょうり	idiom
+ja	戴くものは夏も小袖	いただくものはなつもこそで	idiom
+ja	産声を上げる	うぶごえをあげる	idiom
+ja	返り血を浴びる	かえりちをあびる	idiom
+ja	心を開く	こころをひらく	idiom
+ja	ババを引く	ばばをひく	idiom
+ja	天と地の差	てんとちのさ	idiom
+ja	無常の風	むじょうのかぜ	idiom
+ja	家を外にする	いえをそとにする	idiom
+ja	幕が切って落とされる	まくがきっておとされる	idiom
+ja	一端を担う	いったんをになう	idiom
+ja	象が踏んでも壊れない	ぞうがふんでもこわれない	idiom
+ja	不帰の客となる	ふきのきゃくとなる	idiom
+ja	世を去る	よをさる	idiom
+ja	頭がいっぱい	あたまがいっぱい	idiom
+ja	ラットレース		idiom
+ja	穴が開くほど	あながあくほど	idiom
+ja	引けを取らない	ひけをとらない	idiom
+ja	心の壁	こころのかべ	idiom
+ja	尻に帆をかける	しりにほをかける	idiom
+ja	猿猴が月を取る	えんこうがつきをとる	idiom
+ja	手を伸ばす	てをのばす	idiom
+ja	腕を買われる	うでをかわれる	idiom
+ja	歯車が狂う	はぐるまがくるう	idiom
+ja	相場が決まっている	そうばがきまっている	idiom
+ja	心を躍らせる	こころをおどらせる	idiom
+ja	雲をつかむよう	くもをつかむよう	idiom
+ja	白日の下にさらす	はくじつのもとにさらす	idiom
+ja	机を並べる	つくえをならべる	idiom
+ja	あさっての方を向く	あさってのほうをむく	idiom
+ja	ノミの心臓	のみのしんぞう	idiom
+ja	天国から地獄	てんごくからじごく	idiom
+ja	一丁目一番地	いっちょうめいちばんち	idiom
+ja	眼光紙背に徹する	がんこうしはいにてっする	idiom
+ja	金時の火事見舞い	きんときのかじみまい	idiom
+ja	波紋を呼ぶ	はもんをよぶ	idiom
+ja	ふさぎの虫	ふさぎのむし	idiom
+ja	帳尻が合う	ちょうじりがあう	idiom
+ja	六日の菖蒲	むいかのあやめ	idiom
+ja	首が繋がる	くびがつながる	idiom
+ja	万死に値する	ばんしにあたいする	idiom
+ja	今日あって明日ない身	きょうあってあすないみ	idiom
+ja	朝に夕べを謀らず	あしたにゆうべをはからず	idiom
+ja	画竜点睛を欠く	がりょうてんせいをかく	idiom
+ja	同じ穴の狸	おなじあなのたぬき	idiom
+ja	一条の光	いちじょうのひかり	idiom
+ja	犬が西向きゃ尾は東	いぬがにしむきゃおはひがし	idiom
+ja	雨の降る日は天気が悪い	あめのふるひはてんきがわるい	idiom
+ja	水泡に帰す	すいほうにきす	idiom
+ja	職場の花	しょくばのはな	idiom
+ja	月夜の蟹	つきよのかに	idiom
+ja	虎を画きて狗に類す	とらをえがきていぬにるいす	idiom
+ja	まな板の上の鯉	まないたのうえのこい	idiom
+ja	歯止めがかからない	はどめがかからない	idiom
+ja	針の穴から天を覗く	はりのあなからてんをのぞく	idiom
+ja	傷口に塩	きずぐちにしお	idiom
+ja	そりが合う	そりがあう	idiom
+ja	目を開く	めをひらく	idiom
+ja	天にも昇る心地	てんにものぼるここち	idiom
+ja	目くじら立てる	めくじらたてる	idiom
+ja	角を折る	つのをおる	idiom
+ja	手を握る	てをにぎる	idiom
+ja	ケツを拭く	けつをふく	idiom
+ja	大魚を逸する	たいぎょをいっする	idiom
+ja	カードを切る	かーどをきる	idiom
+ja	火を吐く	ひをはく	idiom
+ja	人を食う	ひとをくう	idiom
+ja	芋洗い	いもあらい	idiom
+ja	道が開ける	みちがひらける	idiom
+ja	異域の鬼	いいきのき	idiom
+ja	時を得る	ときをえる	idiom
+ja	馬の背を分ける	うまのせをわける	idiom
+ja	芯を食う	しんをくう	idiom
+ja	ヤキモチ焼く	やきもちやく	idiom
+ja	苦杯をなめる	くはいをなめる	idiom
+ja	藁をも掴む	わらをもつかむ	idiom
+ja	苦杯を喫する	くはいをきっする	idiom
+ja	水が合う	みずがあう	idiom
+ja	足並みが揃う	あしなみがそろう	idiom
+ja	鬼になる	おにになる	idiom
+ja	枕を濡らす	まくらをぬらす	idiom
+ja	神に召される	かみにめされる	idiom
+ja	天から降ったか地から湧いたか	てんからふったかちからわいたか	idiom
+ja	箸にも棒にも引っかからない	はしにもぼうにもひっかからない	idiom
+ja	七重の膝を八重に折る	ななえのひざをやえにおる	idiom
+ja	自分のことを棚に上げる	じぶんのことをたなにあげる	idiom
+ja	辛酸をなめる	しんさんをなめる	idiom
+ja	山と言えば川	やまといえばかわ	idiom
+ja	角を立てる	かどをたてる	idiom
+ja	背中で語る	せなかでかたる	idiom
+ja	重箱の隅	じゅうばこのすみ	idiom
+ja	目を皿のようにする	めをさらのようにする	idiom
+ja	目頭が熱くなる	めがしらがあつくなる	idiom
+ja	天寿を全うする	てんじゅをまっとうする	idiom
+ja	首をもたげる	くびをもたげる	idiom
+ja	涙腺が緩む	るいせんがゆるむ	idiom
+ja	目頭を押さえる	めがしらをおさえる	idiom
+ja	一矢報いる	いっしむくいる	idiom
+ja	白球を追う	はっきゅうをおう	idiom
+ja	裸足で逃げる	はだしでにげる	idiom
+ja	裸足で逃げ出す	はだしでにげだす	idiom
+ja	息のかかる	いきのかかる	idiom
+ja	根が生える	ねがはえる	idiom
+ja	上手を行く	うわてをいく	idiom
+ja	浮き彫りにする	うきぼりにする	idiom
+ja	先陣を切る	せんじんをきる	idiom
+ja	外堀が埋まる	そとぼりがうまる	idiom
+ja	膿を出す	うみをだす	idiom
+ja	手足となる	てあしとなる	idiom
+ja	足の引っ張り合い	あしのひっぱりあい	idiom
+ja	血のにじむよう	ちのにじむよう	idiom
+ja	つかえが取れる	つかえがとれる	idiom
+ja	お茶を挽く	おちゃをひく	idiom
+ja	邪魔を入れる	じゃまをいれる	idiom
+ja	後がつかえる	あとがつかえる	idiom
+ja	疑惑の総合商社	ぎわくのそうごうしょうしゃ	idiom
+ja	疑惑のデパート	ぎわくのでぱーと	idiom
+ja	地獄に仏	じごくにほとけ	idiom
+ja	口が回る	くちがまわる	idiom
+ja	枕を高くして寝る	まくらをたかくしてねる	idiom
+ja	芋の子を洗うよう	いものこをあらうよう	idiom
+ja	引きが強い	ひきがつよい	idiom
+ja	魔女の一撃	まじょのいちげき	idiom
+ja	あさっての方向を向く	あさってのほうこうをむく	idiom
+ja	火にかける	ひにかける	idiom
+ja	一目も二目も置く	いちもくもにもくもおく	idiom
+ja	筆を起こす	ふでをおこす	idiom
+ja	肩をそびやかす	かたをそびやかす	idiom
+ja	酒に飲まれる	さけにのまれる	idiom
+ja	貝になる	かいになる	idiom
+ja	狼煙を上げる	のろしをあげる	idiom
+ja	一線を退く	いっせんをしりぞく	idiom
+ja	森のバター	もりのばたー	idiom
+ja	右に出る者はいない	みぎにでるものはいない	idiom
+ja	化けの皮が剥がれる	ばけのかわがはがれる	idiom
+ja	蓋をする	ふたをする	idiom
+ja	色をなす	いろをなす	idiom
+ja	殻に閉じこもる	からにとじこもる	idiom
+ja	目にも止まらぬ	めにもとまらぬ	idiom
+ja	画像はイメージです	がぞうはいめーじです	idiom
+ja	我が身可愛さ	わがみかわいさ	idiom
+ja	頬をつねる	ほおをつねる	idiom
+ja	体がいくつあっても足りない	からだがいくつあってもたりない	idiom
+ja	背筋が凍る	せすじがこおる	idiom
+ja	鞭をくれる	むちをくれる	idiom
+ja	目が泳ぐ	めがおよぐ	idiom
+ja	泥中の蓮	でいちゅうのはす	idiom
+ja	骸骨を乞う	がいこつをこう	idiom
+ja	行き大名の帰り乞食	ゆきだいみょうのかえりこじき	idiom
+ja	兜の緒を締める	かぶとのおをしめる	idiom
+ja	死者に鞭打つ	ししゃにむちうつ	idiom
+ja	くちばしを入れる	くちばしをいれる	idiom
+ja	触手を伸ばす	しょくしゅをのばす	idiom
+ja	胡蝶の夢	こちょうのゆめ	idiom
+ja	元が取れる	もとがとれる	idiom
+ja	仏作って魂入れず	ほとけつくってたましいいれず	idiom
+ja	痰を切る	たんをきる	idiom
+ja	トンネルの先に光	とんねるのさきにひかり	idiom
+ja	膝を折る	ひざをおる	idiom
+ja	膝を屈する	ひざをくっする	idiom
+ja	冬の時代	ふゆのじだい	idiom
+ja	火蓋が切られる	ひぶたがきられる	idiom
+ja	指をさす	ゆびをさす	idiom
+ja	断琴の交わり	だんきんのまじわり	idiom
+ja	身の丈に合う	みのたけにあう	idiom
+ja	矛を交える	ほこをまじえる	idiom
+ja	側面攻撃	そくめんこうげき	idiom
+ja	土をつける	つちをつける	idiom
+ja	火事場の馬鹿力	かじばのばかぢから	idiom
+ja	頭ひとつ抜ける	あたまひとつぬける	idiom
+ja	天にも昇る	てんにものぼる	idiom
+ja	天を仰ぐ	てんをあおぐ	idiom
+ja	猫っかわいがり	ねこっかわいがり	idiom
+ja	雲をつく	くもをつく	idiom
+ja	釣った魚に餌をやらない	つったさかなにえさをやらない	idiom
+ja	馬に蹴られる	うまにけられる	idiom
+ja	男が立つ	おとこがたつ	idiom
+ja	袖にすがる	そでにすがる	idiom
+ja	芽を吹く	めをふく	idiom
+ja	血気にはやる	けっきにはやる	idiom
+ja	網を張る	あみをはる	idiom
+ja	薄氷を踏む	はくひょうをふむ	idiom
+ja	薄氷を踏む思い	はくひょうをふむおもい	idiom
+ja	算を乱す	さんをみだす	idiom
+ja	轡を並べる	くつわをならべる	idiom
+ja	人目を盗む	ひとめをぬすむ	idiom
+ja	風下に立つ	かざしもにたつ	idiom
+ja	一線を画す	いっせんをかくす	idiom
+ja	音を立てて崩れる	おとをたててくずれる	idiom
+ja	人を選ぶ	ひとをえらぶ	idiom
+ja	世界の警察官	せかいのけいさつかん	idiom
+ja	石もて追われる	いしもておわれる	idiom
