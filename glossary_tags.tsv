@@ -6083,7 +6083,6 @@ ko	가랑가랑	garanggarang	onom
 ko	가르랑	gareurang	onom
 ko	가르랑가르랑	gareuranggareurang	onom
 ko	가르릉	gareureung	onom
-ko	가르릉가르릉	gareureunggareureung	onom
 ko	가만가만	gamangaman	onom
 ko	가뭇가뭇	gamusgamus	onom
 ko	거뭇거뭇	geomusgeomus	onom
@@ -6213,13 +6212,10 @@ ko	끄적끄적	kkeujeogkkeujeog	onom
 ko	끼적끼적	kkijeogkkijeog	onom
 ko	끈적끈적	kkeunjeogkkeunjeog	onom
 ko	끌끌	kkeulkkeul	onom
-ko	끼득끼득	kkideugkkideug	onom
-ko	끼들끼들	kkideulkkideul	onom
 ko	끼룩끼룩	kkirugkkirug	onom
 ko	끼우뚱끼우뚱	kkiuttungkkiuttung	onom
 ko	끼웃끼웃	kkiuskkius	onom
 ko	끼익	kkiig	onom
-ko	끼익끼익	kkiigkkiig	onom
 ko	끽	kkig	onom
 ko	끽끽	kkigkkig	onom
 ko	낄낄	kkilkkil	onom
@@ -6250,15 +6246,12 @@ ko	느럭느럭	neureogneureog	onom
 ko	느물느물	neumulneumul	onom
 ko	능글능글	neunggeulneunggeul	onom
 ko	닁큼	nuingkeum	onom
-ko	다각다각	dagagdagag	onom
-ko	다그닥	dageudag	onom
 ko	다그닥다그닥	dageudagdageudag	onom
 ko	다닥다닥	dadagdadag	onom
 ko	다르르	dareureu	onom
 ko	다보록	daborog	onom
 ko	다보록다보록	daborogdaborog	onom
 ko	다복다복	dabogdabog	onom
-ko	다북다북	dabugdabug	onom
 ko	달가닥	dalgadag	onom
 ko	달가닥달가닥	dalgadagdalgadag	onom
 ko	달각	dalgag	onom
@@ -6320,10 +6313,7 @@ ko	덜컹덜컹	deolkeongdeolkeong	onom
 ko	덤벙	deombeong	onom
 ko	덤벙덤벙	deombeongdeombeong	onom
 ko	덥석덥석	deobseogdeobseog	onom
-ko	덩그렁	deonggeureong	onom
-ko	덩그렁덩그렁	deonggeureongdeonggeureong	onom
 ko	덩더꿍	deongdeokkung	onom
-ko	덩더쿵	deongdeokung	onom
 ko	덩덩	deongdeong	onom
 ko	덩실	deongsil	onom
 ko	덩실덩실	deongsildeongsil	onom
@@ -6354,7 +6344,6 @@ ko	두둥실	dudungsil	onom
 ko	두런두런	dureondureon	onom
 ko	두루뭉술	durumungsul	onom
 ko	두툴두툴	dutuldutul	onom
-ko	두툼두툼	dutumdutum	onom
 ko	둘둘	duldul	onom
 ko	둘레둘레	dulredulre	onom
 ko	둥	dung	onom
@@ -6367,7 +6356,6 @@ ko	뒤뚱	dwittung	onom
 ko	뒤적뒤적	dwijeogdwijeog	onom
 ko	뒤척뒤척	dwicheogdwicheog	onom
 ko	뒹굴뒹굴	dwingguldwinggul	onom
-ko	드글드글	deugeuldeugeul	onom
 ko	드르렁드르렁	deureureongdeureureong	onom
 ko	드르륵	deureureug	onom
 ko	드르륵드르륵	deureureugdeureureug	onom
@@ -6382,12 +6370,9 @@ ko	듬성듬성	deumseongdeumseong	onom
 ko	딩동	dingdong	onom
 ko	따가닥	ttagadag	onom
 ko	따가닥따가닥	ttagadagttagadag	onom
-ko	따각	ttagag	onom
-ko	따각따각	ttagagttagag	onom
 ko	따끈따끈	ttakkeunttakkeun	onom
 ko	따끔	ttakkeum	onom
 ko	따끔따끔	ttakkeumttakkeum	onom
-ko	따닥	ttadag	onom
 ko	따닥따닥	ttadagttadag	onom
 ko	따르르	ttareureu	onom
 ko	따르릉	ttareureung	onom
@@ -6411,8 +6396,6 @@ ko	딸카닥	ttalkadag	onom
 ko	딸카닥딸카닥	ttalkadagttalkadag	onom
 ko	딸칵	ttalkag	onom
 ko	딸칵딸칵	ttalkagttalkag	onom
-ko	땅그랑	ttanggeurang	onom
-ko	땅그랑땅그랑	ttanggeurangttanggeurang	onom
 ko	땅땅	ttangttang	onom
 ko	때굴때굴	ttaegulttaegul	onom
 ko	때그락	ttaegeurag	onom
@@ -6442,15 +6425,11 @@ ko	똑딱	ttogttag	onom
 ko	똑딱똑딱	ttogttagttogttag	onom
 ko	똘망똘망	ttolmangttolmang	onom
 ko	뚜두둑	ttududug	onom
-ko	뚜둑	ttudug	onom
-ko	뚜둑뚜둑	ttudugttudug	onom
 ko	뚜뚜	ttuttu	onom
 ko	뚜루루	ttururu	onom
-ko	뚜벅	ttubeog	onom
 ko	뚜벅뚜벅	ttubeogttubeog	onom
 ko	뚝딱뚝딱	ttugttagttugttag	onom
 ko	뚱땅뚱땅	ttungttangttungttang	onom
-ko	뚱실뚱실	ttungsilttungsil	onom
 ko	뛰뛰빵빵	ttwittwippangppang	onom
 ko	뜨끈뜨끈	tteukkeuntteukkeun	onom
 ko	뜨끔	tteukkeum	onom
@@ -6467,7 +6446,6 @@ ko	말캉말캉	malkangmalkang	onom
 ko	매끈매끈	maekkeunmaekkeun	onom
 ko	메슥메슥	meseugmeseug	onom
 ko	메에	mee	onom
-ko	맨들맨들	maendeulmaendeul	onom
 ko	맨송맨송	maensongmaensong	onom
 ko	맴맴	maemmaem	onom
 ko	맹꽁맹꽁	maengkkongmaengkkong	onom
@@ -6487,13 +6465,10 @@ ko	물큰	mulkeun	onom
 ko	물큰물큰	mulkeunmulkeun	onom
 ko	뭉그적	munggeujeog	onom
 ko	뭉그적뭉그적	munggeujeogmunggeujeog	onom
-ko	뭉기적	munggijeog	onom
-ko	뭉기적뭉기적	munggijeogmunggijeog	onom
 ko	뭉실뭉실	mungsilmungsil	onom
 ko	뭉클	mungkeul	onom
 ko	뭉텅	mungteong	onom
 ko	뭉텅뭉텅	mungteongmungteong	onom
-ko	미끈덩미끈덩	mikkeundeongmikkeundeong	onom
 ko	미끈미끈	mikkeunmikkeun	onom
 ko	미끌미끌	mikkeulmikkeul	onom
 ko	미루적미루적	mirujeogmirujeog	onom
@@ -6572,7 +6547,6 @@ ko	보드득보드득	bodeudeugbodeudeug	onom
 ko	보들보들	bodeulbodeul	onom
 ko	보송보송	bosongbosong	onom
 ko	복슬복슬	bogseulbogseul	onom
-ko	복실복실	bogsilbogsil	onom
 ko	복작복작	bogjagbogjag	onom
 ko	볼록	bolrog	onom
 ko	볼록볼록	bolrogbolrog	onom
@@ -6590,7 +6564,6 @@ ko	부릉부릉	bureungbureung	onom
 ko	부스럭	buseureog	onom
 ko	부스스	buseuseu	onom
 ko	부엉부엉	bueongbueong	onom
-ko	부욱	buug	onom
 ko	부지직	bujijig	onom
 ko	북북	bugbug	onom
 ko	북슬북슬	bugseulbugseul	onom
@@ -6632,9 +6605,7 @@ ko	빨빨	ppalppal	onom
 ko	빵글빵글	ppanggeulppanggeul	onom
 ko	빵긋빵긋	ppanggeusppanggeus	onom
 ko	빵실빵실	ppangsilppangsil	onom
-ko	빼곡빼곡	ppaegogppaegog	onom
 ko	빼꼼	ppaekkom	onom
-ko	빼끔빼끔	ppaekkeumppaekkeum	onom
 ko	빼뚤빼뚤	ppaettulppaettul	onom
 ko	빼죽빼죽	ppaejugppaejug	onom
 ko	빽	ppaeg	onom
@@ -6645,7 +6616,6 @@ ko	뺑뺑	ppaengppaeng	onom
 ko	뻐꾹	ppeokkug	onom
 ko	뻐꾹뻐꾹	ppeokkugppeokkug	onom
 ko	뻐끔뻐끔	ppeokkeumppeokkeum	onom
-ko	뻐드득뻐드득	ppeodeudeugppeodeudeug	onom
 ko	뻑뻑	ppeogppeog	onom
 ko	뻔질뻔질	ppeonjilppeonjil	onom
 ko	뻥뻥	ppeongppeong	onom
@@ -6659,13 +6629,11 @@ ko	뽀송뽀송	pposongpposong	onom
 ko	뽁뽁	ppogppog	onom
 ko	뽈록	ppolrog	onom
 ko	뽈록뽈록	ppolrogppolrog	onom
-ko	뽈뽈	ppolppol	onom
 ko	뾰족뾰족	ppyojogppyojog	onom
 ko	뿌드득	ppudeudeug	onom
 ko	뿌드득뿌드득	ppudeudeugppudeudeug	onom
 ko	뿌득	ppudeug	onom
 ko	뿌득뿌득	ppudeugppudeug	onom
-ko	뿌우	ppuu	onom
 ko	뿔뿔이	ppulppul'i	onom
 ko	뿡뿡	ppungppung	onom
 ko	삐	ppi	onom
@@ -6681,8 +6649,6 @@ ko	삐뽀삐뽀	ppippoppippo	onom
 ko	삐삐	ppippi	onom
 ko	삐악	ppiag	onom
 ko	삐악삐악	ppiagppiag	onom
-ko	삐용삐용	ppiyongppiyong	onom
-ko	삐이익	ppiiig	onom
 ko	삐익	ppiig	onom
 ko	삐죽	ppijug	onom
 ko	삐죽삐죽	ppijugppijug	onom
@@ -6758,7 +6724,6 @@ ko	쏘곤쏘곤	ssogonssogon	onom
 ko	쏙닥쏙닥	ssogdagssogdag	onom
 ko	쏴르르	sswareureu	onom
 ko	쏴아	sswaa	onom
-ko	쏵	sswag	onom
 ko	쑤군덕쑤군덕	ssugundeogssugundeog	onom
 ko	쑤군쑤군	ssugunssugun	onom
 ko	쑥덕쑥덕	ssugdeogssugdeog	onom
@@ -6773,9 +6738,6 @@ ko	씰룩	ssilrug	onom
 ko	씰룩씰룩	ssilrugssilrug	onom
 ko	씽	ssing	onom
 ko	씽씽	ssingssing	onom
-ko	아그작	ageujag	onom
-ko	아그작아그작	ageujag'ageujag	onom
-ko	아글타글	ageultageul	onom
 ko	아기자기	agijagi	onom
 ko	아드득	adeudeug	onom
 ko	아드득아드득	adeudeug'adeudeug	onom
@@ -6901,7 +6863,6 @@ ko	으드득	eudeudeug	onom
 ko	으드득으드득	eudeudeug'eudeudeug	onom
 ko	으르렁	eureureong	onom
 ko	으르렁으르렁	eureureong'eureureong	onom
-ko	으리번쩍	euribeonjjeog	onom
 ko	으리으리	eurieuri	onom
 ko	으밀아밀	eumil'amil	onom
 ko	으스스	euseuseu	onom
@@ -7016,9 +6977,7 @@ ko	짹짹	jjaegjjaeg	onom
 ko	쨍강	jjaenggang	onom
 ko	쨍강쨍강	jjaenggangjjaenggang	onom
 ko	쨍그랑쨍그랑	jjaenggeurangjjaenggeurang	onom
-ko	쨍알쨍알	jjaeng'aljjaeng'al	onom
 ko	쩌렁쩌렁	jjeoreongjjeoreong	onom
-ko	쩌억	jjeoeog	onom
 ko	쩍	jjeog	onom
 ko	쩍쩍	jjeogjjeog	onom
 ko	쩔그렁	jjeolgeureong	onom
@@ -7038,7 +6997,6 @@ ko	쫑긋쫑긋	jjonggeusjjonggeus	onom
 ko	쫑알쫑알	jjong'aljjong'al	onom
 ko	쫙	jjwag	onom
 ko	쫙쫙	jjwagjjwag	onom
-ko	쭈그렁쭈그렁	jjugeureongjjugeureong	onom
 ko	쭈글쭈글	jjugeuljjugeul	onom
 ko	쭈르르	jjureureu	onom
 ko	쭈르륵	jjureureug	onom
@@ -7059,7 +7017,6 @@ ko	찰각	chalgag	onom
 ko	찰각찰각	chalgagchalgag	onom
 ko	찰랑	chalrang	onom
 ko	찰랑찰랑	chalrangchalrang	onom
-ko	찰름찰름	chalreumchalreum	onom
 ko	찰박	chalbag	onom
 ko	찰박찰박	chalbagchalbag	onom
 ko	찰싹	chalssag	onom
@@ -7069,7 +7026,6 @@ ko	찰칵	chalkag	onom
 ko	찰칵찰칵	chalkagchalkag	onom
 ko	참방	chambang	onom
 ko	참방참방	chambangchambang	onom
-ko	챙강	chaenggang	onom
 ko	챙그랑	chaenggeurang	onom
 ko	챙그랑챙그랑	chaenggeurangchaenggeurang	onom
 ko	처덕처덕	cheodeogcheodeog	onom
@@ -7095,7 +7051,6 @@ ko	촐싹촐싹	cholssagcholssag	onom
 ko	촘촘	chomchom	onom
 ko	총총	chongchong	onom
 ko	촤르르	chwareureu	onom
-ko	촤악	chwaag	onom
 ko	추근추근	chugeunchugeun	onom
 ko	추적추적	chujeogchujeog	onom
 ko	축축	chugchug	onom
@@ -7122,7 +7077,6 @@ ko	컹	keong	onom
 ko	컹컹	keongkeong	onom
 ko	켁	keg	onom
 ko	켁켁	kegkeg	onom
-ko	켈록켈록	kelrogkelrog	onom
 ko	켜켜이	kyeokyeoi	onom
 ko	콜록	kolrog	onom
 ko	콜콜	kolkol	onom
@@ -7132,13 +7086,9 @@ ko	콰광	kwagwang	onom
 ko	콰당	kwadang	onom
 ko	콰당탕	kwadangtang	onom
 ko	콰르릉	kwareureung	onom
-ko	콰쾅	kwakwang	onom
 ko	쾅쾅	kwangkwang	onom
 ko	쿠당탕	kudangtang	onom
-ko	쿠당탕탕	kudangtangtang	onom
-ko	쿠당탕퉁탕	kudangtangtungtang	onom
 ko	쿠르릉	kureureung	onom
-ko	쿠르릉쿠르릉	kureureungkureureung	onom
 ko	쿠웅	kuung	onom
 ko	쿡	kug	onom
 ko	쿡쿡	kugkug	onom
@@ -7211,7 +7161,6 @@ ko	퉤퉤	twetwe	onom
 ko	팅팅	tingting	onom
 ko	파닥	padag	onom
 ko	파닥파닥	padagpadag	onom
-ko	파드득	padeudeug	onom
 ko	파들파들	padeulpadeul	onom
 ko	파르르	pareureu	onom
 ko	파릇파릇	pareuspareus	onom
@@ -7229,7 +7178,6 @@ ko	팽글팽글	paenggeulpaenggeul	onom
 ko	퍼덕	peodeog	onom
 ko	퍼덕퍼덕	peodeogpeodeog	onom
 ko	퍼드덕	peodeudeog	onom
-ko	퍼드득	peodeudeug	onom
 ko	퍼석퍼석	peoseogpeoseog	onom
 ko	퍽퍽	peogpeog	onom
 ko	펀둥펀둥	peondungpeondung	onom
@@ -7256,7 +7204,6 @@ ko	푸다닥	pudadag	onom
 ko	푸덕푸덕	pudeogpudeog	onom
 ko	푸드덕	pudeudeog	onom
 ko	푸드덕푸드덕	pudeudeogpudeudeog	onom
-ko	푸드득	pudeudeug	onom
 ko	푸들푸들	pudeulpudeul	onom
 ko	푸르르	pureureu	onom
 ko	푸릇푸릇	pureuspureus	onom
@@ -7275,7 +7222,6 @@ ko	핑그르르	pinggeureureu	onom
 ko	핑글핑글	pinggeulpinggeul	onom
 ko	핑핑	pingping	onom
 ko	하느작하느작	haneujaghaneujag	onom
-ko	하들하들	hadeulhadeul	onom
 ko	하하하	hahaha	onom
 ko	한들한들	handeulhandeul	onom
 ko	할금할금	halgeumhalgeum	onom
@@ -7286,7 +7232,6 @@ ko	할딱할딱	halttaghalttag	onom
 ko	할짝할짝	haljjaghaljjag	onom
 ko	함빡	hamppag	onom
 ko	해롱해롱	haeronghaerong	onom
-ko	해실해실	haesilhaesil	onom
 ko	해죽해죽	haejughaejug	onom
 ko	해쭉해쭉	haejjughaejjug	onom
 ko	해해	haehae	onom
@@ -7356,7 +7301,6 @@ ko	희끄무레하다	huikkeumurehada	onom
 ko	희끗희끗	huikkeushuikkeus	onom
 ko	희룽희룽	huirunghuirung	onom
 ko	희번덕희번덕	huibeondeoghuibeondeog	onom
-ko	희죽희죽	huijughuijug	onom
 ko	히힝	hihing	onom
 ko	힐금힐금	hilgeumhilgeum	onom
 ko	힐긋힐긋	hilgeushilgeus	onom
@@ -7370,7 +7314,6 @@ ko	가는 토끼 잡으려다 잡은 토끼 놓친다	ganeun tokki jab'euryeoda 
 ko	가랑비에 옷 젖는 줄 모른다	garangbie os jeojneun jul moreunda	proverb
 ko	가랑잎이 솔잎더러 바스락거린다고 한다	garang'ip'i sol'ipdeoreo baseuraggeorindago handa	proverb
 ko	가루는 칠수록 고와지고 말은 할수록 거칠어진다	garuneun chilsurog gowajigo maleun halsurog geochil'eojinda	proverb
-ko	가마솥이 노구솥더러 검다 한다	gamasot'i nogusotdeoreo geomda handa	proverb
 ko	가만히 있으면 중간은 간다	gamanhi iss'eumyeon junggan'eun ganda	proverb
 ko	가뭄 끝은 있어도 장마 끝은 없다	gamum kkeuteun iss'eodo jangma kkeuteun eobsda	proverb
 ko	가을에는 부지깽이도 덤벙인다	ga'eul'eneun bujikkaeng'ido deombeong'inda	proverb
@@ -7378,7 +7321,6 @@ ko	가죽이 있어야 털이 난다	gajug'i iss'eoya teol'i nanda	proverb
 ko	간에 기별도 안 간다	gan'e gibyeoldo an ganda	proverb
 ko	간에 붙고 쓸개에 붙는다	gan'e butgo sseulgaee butneunda	proverb
 ko	감 놔라 배 놔라 한다	gam nwara bae nwara handa	proverb
-ko	감기는 고뿔도 남 안 준다	gamgineun goppuldo nam an junda	proverb
 ko	감나무 밑에 누워서 홍시 떨어지기를 기다린다	gamnamu mite nuwoseo hongsi tteol'eojigireul gidarinda	proverb
 ko	강 건너 불 구경	gang geonneo bul gugyeong	proverb
 ko	같은 값이면 다홍치마	gateun gabs'imyeon dahongchima	proverb
@@ -7408,7 +7350,6 @@ ko	걸레는 빨아도 걸레	geolreneun ppal'ado geolre	proverb
 ko	겉 다르고 속 다르다	geot dareugo sog dareuda	proverb
 ko	겉보리 서 말만 있으면 처가살이 하랴	geotbori seo malman iss'eumyeon cheogasal'i harya	proverb
 ko	겉볼안	geotbol'an	proverb
-ko	겉이 검기로 속도 검을까	geot'i geomgiro sogdo geom'eulkka	proverb
 ko	게 눈 감추듯	ge nun gamchudeus	proverb
 ko	게도 구럭도 다 잃는다	gedo gureogdo da ilhneunda	proverb
 ko	계란에도 뼈가 있다	gyeran'edo ppyeoga issda	proverb
@@ -7462,7 +7403,6 @@ ko	급하다고 바늘허리에 실 매어 쓰랴	geubhadago baneulheorie sil ma
 ko	급할수록 돌아가라	geubhalsurog dol'agara	proverb
 ko	급히 먹는 밥이 체한다	geubhi meogneun babi chehanda	proverb
 ko	기는 놈 위에 나는 놈 있다	gineun nom wie naneun nom issda	proverb
-ko	기르던 개에게 발등 물린다	gireudeon gaeege baldeung mulrinda	proverb
 ko	기와 한 장 아끼다 대들보 썩힌다	giwa han jang akkida daedeulbo sseoghinda	proverb
 ko	긴 병에 효자 없다	gin byeonge hyoja eobsda	proverb
 ko	길가에 집 짓기	gilga'e jib jisgi	proverb
@@ -7481,8 +7421,6 @@ ko	나중에 보자는 사람 무섭지 않다	najunge bojaneun saram museobji a
 ko	낙락장송도 근본은 종자	nagragjangsongdo geunbon'eun jongja	proverb
 ko	낙숫물이 댓돌을 뚫는다	nagsusmul'i daesdol'eul ttulhneunda	proverb
 ko	난 거지 든 부자	nan geoji deun buja	proverb
-ko	난 부자 든 거지	nan buja deun geoji	proverb
-ko	날마다 장날인가	nalmada jangnal'inga	proverb
 ko	남 잡이가 제 잡이	nam jab'iga je jab'i	proverb
 ko	남의 다리 긁는다	nam'ui dari geulgneunda	proverb
 ko	남의 떡에 설 쇤다	nam'ui tteog'e seol soenda	proverb
@@ -7493,18 +7431,14 @@ ko	남의 불에 게 잡는다	nam'ui bul'e ge jabneunda	proverb
 ko	남의 잔치에 감 놔라 배 놔라 한다	nam'ui janchie gam nwara bae nwara handa	proverb
 ko	남의 장단에 엉덩춤 춘다	nam'ui jangdan'e eongdeongchum chunda	proverb
 ko	남이 장에 간다고 하니 거름 지고 나선다	nam'i jange gandago hani georeum jigo naseonda	proverb
-ko	낮에 나온 반달	naje naon bandal	proverb
 ko	낳은 정보다 기른 정	nah'eun jeongboda gireun jeong	proverb
 ko	내 논에 물 대기	nae non'e mul daegi	proverb
-ko	내 배 부르면 종 배고픈 줄 모른다	nae bae bureumyeon jong baegopeun jul moreunda	proverb
-ko	내 배가 부르면 평안 감사가 조카 같다	nae baega bureumyeon pyeong'an gamsaga joka gatda	proverb
 ko	내 손에 장을 지져라	nae sone jangeul jijyeora	proverb
 ko	내 코가 석 자	nae koga seog ja	proverb
 ko	내리사랑은 있어도 치사랑은 없다	naerisarang'eun iss'eodo chisarang'eun eobsda	proverb
 ko	냉수 먹고 속 차려라	naengsu meoggo sog charyeora	proverb
 ko	냉수 먹고 이 쑤시기	naengsu meoggo i ssusigi	proverb
 ko	넘어진 김에 쉬어 간다	neom'eojin gime swieo ganda	proverb
-ko	노느니 염불한다	noneuni yeombulhanda	proverb
 ko	노는 입에 염불하기	noneun ibe yeombulhagi	proverb
 ko	노루 꼬리가 길면 얼마나 길까	noru kkoriga gilmyeon eolmana gilkka	proverb
 ko	노루 제 방귀에 놀라듯	noru je banggwie nolradeus	proverb
@@ -7515,16 +7449,13 @@ ko	누운 소 타기	nuun so tagi	proverb
 ko	누울 자리 봐 가며 발을 뻗어라	nuul jari bwa gamyeo baleul ppeod'eora	proverb
 ko	누이 좋고 매부 좋다	nui johgo maebu johda	proverb
 ko	눈 뜨고 도둑맞는다	nun tteugo dodugmajneunda	proverb
-ko	눈먼 망아지 워낭 소리 따라간다	nunmeon mang'aji wonang sori ttaraganda	proverb
 ko	눈 위에 서리 친다	nun wie seori chinda	proverb
 ko	눈치가 빠르면 절에 가도 젓갈을 얻어먹는다	nunchiga ppareumyeon jeol'e gado jeosgal'eul eod'eomeogneunda	proverb
 ko	늙은 말이 길을 안다	neulg'eun mali gileul anda	proverb
 ko	늙은 말이 콩 마다할까	neulg'eun mali kong madahalkka	proverb
-ko	늙은이 말 그른 데 없다	neulg'eun'i mal geureun de eobsda	proverb
 ko	늦게 배운 도둑이 날 새는 줄 모른다	neujge baeun dodug'i nal saeneun jul moreunda	proverb
 ko	늦바람이 용마름 벗긴다	neujbaram'i yongmareum beosginda	proverb
 ko	다 된 밥에 재 뿌리기	da doen bab'e jae ppurigi	proverb
-ko	다 된 밥에 코 빠뜨리기	da doen bab'e ko ppatteurigi	proverb
 ko	다 된 죽에 코 풀기	da doen jug'e ko pulgi	proverb
 ko	다람쥐 쳇바퀴 돌듯	daramjwi chesbakwi doldeus	proverb
 ko	다리 부러진 장수 성 안에서 호령한다	dari bureojin jangsu seong aneseo horyeonghanda	proverb
@@ -7573,7 +7504,6 @@ ko	두 마리 토끼를 쫓다	du mari tokkireul jjochda	proverb
 ko	두 손뼉이 맞아야 소리가 난다	du sonppyeog'i maj'aya soriga nanda	proverb
 ko	두꺼비 파리 잡아먹듯	dukkeobi pari jab'ameogdeus	proverb
 ko	두부 먹다 이 빠진다	dubu meogda i ppajinda	proverb
-ko	두부에도 뼈가 있다	dubuedo ppyeoga issda	proverb
 ko	둘러치나 메어치나 매한가지	dulreochina meeochina maehangaji	proverb
 ko	둘이 먹다 하나 죽어도 모른다	duli meogda hana jug'eodo moreunda	proverb
 ko	뒤로 호박씨 깐다	dwiro hobagssi kkanda	proverb
@@ -7605,8 +7535,6 @@ ko	망둥이가 뛰니까 꼴뚜기도 뛴다	mangdung'iga ttwinikka kkolttugido
 ko	매 앞에 장사 없다	mae ape jangsa eobsda	proverb
 ko	매도 먼저 맞는 놈이 낫다	maedo meonjeo majneun nom'i nasda	proverb
 ko	맹물에 조약돌 삶은 맛	maengmul'e joyagdol salmeun mas	proverb
-ko	머리 검은 짐승은 구제하지 말라	meori geom'eun jimseung'eun gujehaji malra	proverb
-ko	먹을 것 없는 제사에 절만 많이 한다	meogeul geos eobsneun jesa'e jeolman manhi handa	proverb
 ko	먼 사촌보다 가까운 이웃이 낫다	meon sachonboda gakkaun ius'i nasda	proverb
 ko	멍석 깔아 놓으면 하던 짓도 안 한다	meongseog kkal'a noh'eumyeon hadeon jisdo an handa	proverb
 ko	메뚜기도 오뉴월이 한철	mettugido onyuwol'i hancheol	proverb
@@ -7620,7 +7548,6 @@ ko	목마른 놈이 우물 판다	mogmareun nom'i umul panda	proverb
 ko	몸이 천 냥이면 눈이 구백 냥이다	momi cheon nyang'imyeon nuni gubaeg nyang'ida	proverb
 ko	못 먹는 감 찔러나 본다	mos meogneun gam jjilreona bonda	proverb
 ko	못 오를 나무는 쳐다보지도 마라	mos oreul namuneun chyeodabojido mara	proverb
-ko	못난 소나무가 선산 지킨다	mosnan sonamuga seonsan jikinda	proverb
 ko	못된 송아지 엉덩이에 뿔 난다	mosdoen song'aji eongdeong'ie ppul nanda	proverb
 ko	무는 개는 짖지 않는다	muneun gaeneun jij'ji anhneunda	proverb
 ko	무자식 상팔자	mujasig sangpalja	proverb
@@ -7644,8 +7571,6 @@ ko	바늘구멍에 황소바람 들어온다	baneulgumeong'e hwangsobaram deul'e
 ko	바다는 메워도 사람의 욕심은 못 채운다	badaneun mewodo saram'ui yogsim'eun mos chaeunda	proverb
 ko	바람 부는 대로 물결 치는 대로	baram buneun daero mulgyeol chineun daero	proverb
 ko	바람 앞의 등불	baram ap'ui deungbul	proverb
-ko	바람이 불어야 배를 띄운다	baram'i bul'eoya baereul ttuiunda	proverb
-ko	바쁘다고 바늘허리에 실 매어 쓸까	bappeudago baneulheorie sil maeeo sseulkka	proverb
 ko	바쁠수록 돌아가라	bappeulsurog dol'agara	proverb
 ko	밤 잔 원수 없고 날 샌 은혜 없다	bam jan wonsu eobsgo nal saen eunhye eobsda	proverb
 ko	밥 먹을 때는 개도 안 때린다	bab meogeul ttaeneun gaedo an ttaerinda	proverb
@@ -7654,7 +7579,6 @@ ko	방귀 뀐 놈이 성낸다	banggwi kkwin nom'i seongnaenda	proverb
 ko	방귀가 잦으면 똥 싸기 쉽다	banggwiga jaj'eumyeon ttong ssagi swibda	proverb
 ko	배 먹고 이 닦기	bae meoggo i dakkgi	proverb
 ko	배고픈 호랑이가 원님을 알아보나	baegopeun horang'iga wonnim'eul al'abona	proverb
-ko	배부르니 평양 감사도 조카 같다	baebureuni pyeongyang gamsado joka gatda	proverb
 ko	배부른 흥정	baebureun heungjeong	proverb
 ko	뱁새가 황새를 따라가면 가랑이가 찢어진다	baebsaega hwangsaereul ttaragamyeon garang'iga jjij'eojinda	proverb
 ko	뱁새는 작아도 알만 잘 낳는다	baebsaeneun jag'ado alman jal nahneunda	proverb
@@ -7669,8 +7593,6 @@ ko	벼룩의 간을 내먹는다	byeorug'ui gan'eul naemeogneunda	proverb
 ko	벼룩의 등에 육간대청을 짓는다	byeorug'ui deunge yuggandaecheong'eul jisneunda	proverb
 ko	벽에도 귀가 있다	byeog'edo gwiga issda	proverb
 ko	변덕이 죽 끓듯 한다	byeondeog'i jug kkeulhdeus handa	proverb
-ko	병은 자랑하라 하였다	byeong'eun jaranghara hayeossda	proverb
-ko	병이 있으면 약도 있다	byeongi iss'eumyeon yagdo issda	proverb
 ko	보기 좋은 떡이 먹기도 좋다	bogi joheun tteogi meoggido johda	proverb
 ko	복날 개 패듯	bognal gae paedeus	proverb
 ko	봄비는 일비요 여름비는 잠비요 가을비는 떡비요 겨울비는 술비라	bombineun ilbiyo yeoreumbineun jambiyo ga'eulbineun tteogbiyo gyeoulbineun sulbira	proverb
@@ -7679,7 +7601,6 @@ ko	부모가 온 효자 되어야 자식이 반 효자 된다	bumoga on hyoja do
 ko	부부 싸움은 칼로 물 베기	bubu ssaum'eun kalro mul begi	proverb
 ko	부자는 망해도 삼 년 먹을 것이 있다	bujaneun manghaedo sam nyeon meogeul geosi issda	proverb
 ko	부지깽이도 덤빈다	bujikkaeng'ido deombinda	proverb
-ko	부지런한 물레방아는 얼 새가 없다	bujireonhan mulrebang'aneun eol saega eobsda	proverb
 ko	부처 눈에는 부처만 보이고 돼지 눈에는 돼지만 보인다	bucheo nun'eneun bucheoman boigo dwaeji nun'eneun dwaejiman boinda	proverb
 ko	부처님 가운데 토막	bucheonim gaunde tomag	proverb
 ko	북 치고 장구 친다	bug chigo janggu chinda	proverb
@@ -7698,7 +7619,6 @@ ko	사돈 남 말 한다	sadon nam mal handa	proverb
 ko	사돈네 안방 같다	sadonne anbang gatda	proverb
 ko	사돈집과 뒷간은 멀수록 좋다	sadonjibgwa dwisgan'eun meolsurog johda	proverb
 ko	사또 덕분에 나팔 분다	satto deogbune napal bunda	proverb
-ko	사또 행차 뒤에 나팔	satto haengcha dwie napal	proverb
 ko	사람은 겪어 보아야 안다	saram'eun gyeokk'eo boaya anda	proverb
 ko	호랑이는 죽어서 가죽을 남기고 사람은 죽어서 이름을 남긴다	horang'ineun jug'eoseo gajug'eul namgigo saram'eun jug'eoseo ireum'eul namginda	proverb
 ko	사위는 백년손님	sawineun baegnyeonsonnim	proverb
@@ -7709,12 +7629,10 @@ ko	산에 가야 범을 잡지	sane gaya beom'eul jabji	proverb
 ko	산이 높아야 골이 깊다	sani nop'aya gol'i gipda	proverb
 ko	삼밭에 쑥대	sambat'e ssugdae	proverb
 ko	삼십육계 줄행랑이 제일	samsib'yuggye julhaengrang'i jeil	proverb
-ko	상주보다 복재기가 더 서러워한다	sangjuboda bogjaegiga deo seoreowohanda	proverb
 ko	새끼 많이 둔 소 길마 벗을 날 없다	saekki manhi dun so gilma beos'eul nal eobsda	proverb
 ko	새우로 잉어를 낚는다	saeuro ing'eoreul nakkneunda	proverb
 ko	서울 가서 김 서방 찾기	seoul gaseo gim seobang chajgi	proverb
 ko	서투른 무당이 장구만 나무란다	seotureun mudang'i jangguman namuranda	proverb
-ko	석 자 베를 짜도 베틀 차리기는 일반	seog ja bereul jjado beteul charigineun ilban	proverb
 ko	선무당이 사람 잡는다	seonmudang'i saram jabneunda	proverb
 ko	설마가 사람 잡는다	seolmaga saram jabneunda	proverb
 ko	성복 뒤에 약방문	seongbog dwie yagbangmun	proverb
@@ -7726,7 +7644,6 @@ ko	소같이 벌어서 쥐같이 먹어라	sogat'i beol'eoseo jwigat'i meog'eora
 ko	소귀에 경 읽기	sogwie gyeong ilggi	proverb
 ko	소금 먹은 놈이 물 켠다	sogeum meog'eun nom'i mul kyeonda	proverb
 ko	소도 언덕이 있어야 비빈다	sodo eondeog'i iss'eoya bibinda	proverb
-ko	소매가 길어야 춤을 춘다	somaega gil'eoya chumeul chunda	proverb
 ko	소문난 잔치에 먹을 것 없다	somunnan janchie meogeul geos eobsda	proverb
 ko	손바닥으로 하늘 가리기	sonbadag'euro haneul garigi	proverb
 ko	손뼉도 마주쳐야 소리가 난다	sonppyeogdo majuchyeoya soriga nanda	proverb
@@ -7788,7 +7705,6 @@ ko	어르고 뺨 치기	eoreugo ppyam chigi	proverb
 ko	어물전 망신은 꼴뚜기가 시킨다	eomuljeon mangsin'eun kkolttugiga sikinda	proverb
 ko	억지 춘향이	eogji chunhyang'i	proverb
 ko	언 발에 오줌 누기	eon bale ojum nugi	proverb
-ko	얻어먹는 놈이 찬밥 더운밥 가리랴	eod'eomeogneun nom'i chanbab deounbab garirya	proverb
 ko	얼음에 박 밀듯	eol'eum'e bag mildeus	proverb
 ko	없는 집에 제사 돌아오듯	eobsneun jibe jesa dol'aodeus	proverb
 ko	엎드려 절 받기	eopdeuryeo jeol badgi	proverb
@@ -7797,7 +7713,6 @@ ko	여름 불도 쬐다 나면 섭섭하다	yeoreum buldo jjoeda namyeon seobseo
 ko	열 길 물속은 알아도 한 길 사람 속은 모른다	yeol gil mulsog'eun al'ado han gil saram sog'eun moreunda	proverb
 ko	열 사람이 지켜도 한 도둑 못 막는다	yeol saram'i jikyeodo han dodug mos magneunda	proverb
 ko	열 손가락 깨물어 안 아픈 손가락 없다	yeol songarag kkaemul'eo an apeun songarag eobsda	proverb
-ko	열두 가지 재주 가진 놈이 저녁거리가 없다	yeoldu gaji jaeju gajin nom'i jeonyeoggeoriga eobsda	proverb
 ko	열흘 붉은 꽃 없다	yeolheul bulg'eun kkoch eobsda	proverb
 ko	염불에는 맘이 없고 잿밥에만 맘이 있다	yeombul'eneun mam'i eobsgo jaesbab'eman mam'i issda	proverb
 ko	오뉴월 개 팔자	onyuwol gae palja	proverb
@@ -7830,11 +7745,8 @@ ko	자다가 봉창 두드린다	jadaga bongchang dudeurinda	proverb
 ko	자라 보고 놀란 가슴 솥뚜껑 보고 놀란다	jara bogo nolran gaseum sotttukkeong bogo nolranda	proverb
 ko	자랑 끝에 불붙는다	jarang kkeute bulbutneunda	proverb
 ko	자식 이기는 부모 없다	jasig igineun bumo eobsda	proverb
-ko	잠자코 있으면 중간은 간다	jamjako iss'eumyeon junggan'eun ganda	proverb
 ko	장님 문고리 잡기	jangnim mungori jabgi	proverb
-ko	장이 단 집에는 가도 말이 단 집에는 가지 마라	jangi dan jib'eneun gado mali dan jib'eneun gaji mara	proverb
 ko	재수 없는 포수는 곰을 잡아도 웅담이 없다	jaesu eobsneun posuneun gom'eul jab'ado ungdam'i eobsda	proverb
-ko	재주는 곰이 부리고 돈은 주인이 받는다	jaejuneun gom'i burigo doneun juin'i badneunda	proverb
 ko	절에 간 색시	jeol'e gan saegsi	proverb
 ko	절이 싫으면 중이 떠나야 한다	jeol'i silh'eumyeon jung'i tteonaya handa	proverb
 ko	젊어서 고생은 사서도 한다	jeolm'eoseo gosaeng'eun saseodo handa	proverb
@@ -7844,13 +7756,10 @@ ko	정들자 이별	jeongdeulja ibyeol	proverb
 ko	정승 집 개가 죽으면 문상 가도 정승이 죽으면 가지 않는다	jeongseung jib gaega jug'eumyeon munsang gado jeongseung'i jug'eumyeon gaji anhneunda	proverb
 ko	제 꾀에 제가 넘어간다	je kkoee jega neom'eoganda	proverb
 ko	제 논에 물 대기	je non'e mul daegi	proverb
-ko	제 배 부르면 종의 배고픈 줄 모른다	je bae bureumyeon jong'ui baegopeun jul moreunda	proverb
 ko	제 버릇 개 줄까	je beoreus gae julkka	proverb
 ko	제 얼굴에 침 뱉기	je eolgul'e chim baetgi	proverb
-ko	제 칼도 제 자루 못 깎는다	je kaldo je jaru mos kkakkneunda	proverb
 ko	제 코가 석 자	je koga seog ja	proverb
 ko	제비는 작아도 알만 잘 낳는다	jebineun jag'ado alman jal nahneunda	proverb
-ko	제사보다 젯밥에 맘이 있다	jesaboda jesbab'e mam'i issda	proverb
 ko	종로에서 뺨 맞고 한강에서 화풀이한다	jongro'eseo ppyam majgo hangang'eseo hwapul'ihanda	proverb
 ko	좋은 약은 입에 쓰다	joheun yag'eun ibe sseuda	proverb
 ko	주먹은 가깝고 법은 멀다	jumeog'eun gakkabgo beob'eun meolda	proverb
@@ -7874,7 +7783,6 @@ ko	참을 인 자 셋이면 살인도 피한다	cham'eul in ja ses'imyeon sal'in
 ko	처녀가 아이를 낳아도 할 말이 있다	cheonyeoga aireul nah'ado hal mali issda	proverb
 ko	처삼촌 벌초하듯	cheosamchon beolchohadeus	proverb
 ko	천 길 물속은 알아도 사람 속은 모른다	cheon gil mulsog'eun al'ado saram sog'eun moreunda	proverb
-ko	천하장사도 먹어야 산다	cheonhajangsado meog'eoya sanda	proverb
 ko	청기와 장수	cheonggiwa jangsu	proverb
 ko	초가삼간 다 타도 빈대 죽는 것만 시원하다	chogasamgan da tado bindae jugneun geosman siwonhada	proverb
 ko	초록은 동색	chorog'eun dongsaeg	proverb
@@ -8056,7 +7964,6 @@ ko	고왕금래	gowanggeumrae	yoji
 ko	고운야학	goun'yahag	yoji
 ko	고육지계	goyugjigye	yoji
 ko	고장난명	gojangnanmyeong	yoji
-ko	고침무우	gochimmuu	yoji
 ko	고침안면	gochim'anmyeon	yoji
 ko	곡고화과	goggohwagwa	yoji
 ko	곡돌사신	gogdolsasin	yoji
@@ -8092,7 +7999,6 @@ ko	괄목상대	gwalmogsangdae	yoji
 ko	광대무변	gwangdaemubyeon	yoji
 ko	광명정대	gwangmyeongjeongdae	yoji
 ko	광풍제월	gwangpungjewol	yoji
-ko	괘일루만	gwaeilruman	yoji
 ko	괴력난신	goeryeognansin	yoji
 ko	교각살우	gyogagsal'u	yoji
 ko	교룡득수	gyoryongdeugsu	yoji
@@ -8103,7 +8009,6 @@ ko	교왕과직	gyowanggwajig	yoji
 ko	교외별전	gyooebyeoljeon	yoji
 ko	교우이신	gyou'isin	yoji
 ko	교주고슬	gyojugoseul	yoji
-ko	교천언심	gyocheon'eonsim	yoji
 ko	교칠지교	gyochiljigyo	yoji
 ko	교토삼굴	gyotosamgul	yoji
 ko	교학상장	gyohagsangjang	yoji
@@ -8216,21 +8121,16 @@ ko	노갑이을	nogab'ieul	yoji
 ko	노기복력	nogibogryeog	yoji
 ko	노기충천	nogichungcheon	yoji
 ko	노당익장	nodang'igjang	yoji
-ko	노래지희	noraejihui	yoji
 ko	노마십가	nomasibga	yoji
 ko	노마지지	nomajiji	yoji
 ko	노발대발	nobaldaebal	yoji
 ko	노발충관	nobalchunggwan	yoji
-ko	노방생주	nobangsaengju	yoji
-ko	노생상담	nosaengsangdam	yoji
 ko	노소동락	nosodongrag	yoji
 ko	노승발검	noseungbalgeom	yoji
 ko	노이무공	noimugong	yoji
-ko	노화순청	nohwasuncheong	yoji
 ko	녹림호걸	nogrimhogeol	yoji
 ko	녹수청산	nogsucheongsan	yoji
 ko	녹양방초	nog'yangbangcho	yoji
-ko	녹엽성음	nog'yeobseong'eum	yoji
 ko	녹의홍상	nog'uihongsang	yoji
 ko	논공행상	nongonghaengsang	yoji
 ko	농와지경	nong'wajigyeong	yoji
@@ -8247,7 +8147,6 @@ ko	다기망양	dagimang'yang	yoji
 ko	다문박식	damunbagsig	yoji
 ko	다사다난	dasadanan	yoji
 ko	다사제제	dasajeje	yoji
-ko	다언삭궁	da'eonsaggung	yoji
 ko	다재다능	dajaedaneung	yoji
 ko	다재다병	dajaedabyeong	yoji
 ko	다정다감	dajeongdagam	yoji
@@ -8266,7 +8165,6 @@ ko	단표누항	danpyonuhang	yoji
 ko	달인대관	dal'indaegwan	yoji
 ko	담대심소	damdaesimso	yoji
 ko	담소자약	damsojayag	yoji
-ko	담호색변	damhosaegbyeon	yoji
 ko	당구풍월	danggupung'wol	yoji
 ko	당동벌이	dangdongbeol'i	yoji
 ko	당랑거철	dangranggeocheol	yoji
@@ -8289,14 +8187,10 @@ ko	대음희성	daeeumhuiseong	yoji
 ko	대의멸친	daeuimyeolchin	yoji
 ko	대의명분	daeuimyeongbun	yoji
 ko	대자대비	daejadaebi	yoji
-ko	대재소용	daejaesoyong	yoji
-ko	대지약우	daejiyag'u	yoji
 ko	도광양회	dogwang'yanghoe	yoji
 ko	도로무공	doromugong	yoji
 ko	도로무익	doromuig	yoji
-ko	도문대작	domundaejag	yoji
 ko	도불습유	dobulseub'yu	yoji
-ko	도산검림	dosangeomrim	yoji
 ko	도원결의	dowongyeol'ui	yoji
 ko	도청도설	docheongdoseol	yoji
 ko	도탄지고	dotanjigo	yoji
@@ -8336,13 +8230,10 @@ ko	둔필승총	dunpilseungchong	yoji
 ko	득롱망촉	deugrongmangchog	yoji
 ko	득어망전	deug'eomangjeon	yoji
 ko	득의양양	deug'uiyang'yang	yoji
-ko	득촌진척	deugchonjincheog	yoji
 ko	등고자비	deunggojabi	yoji
-ko	등당입실	deungdang'ibsil	yoji
 ko	등루거제	deungrugeoje	yoji
 ko	등하불명	deunghabulmyeong	yoji
 ko	등화가친	deunghwagachin	yoji
-ko	마각노출	magagnochul	yoji
 ko	마부작침	mabujagchim	yoji
 ko	마중지봉	majungjibong	yoji
 ko	막역지간	mag'yeogjigan	yoji
@@ -8427,7 +8318,6 @@ ko	무사태평	musataepyeong	yoji
 ko	무소부지	musobuji	yoji
 ko	무소불능	musobulneung	yoji
 ko	무소불위	musobul'wi	yoji
-ko	무아몽중	muamongjung	yoji
 ko	무아지경	muajigyeong	yoji
 ko	무용지물	muyongjimul	yoji
 ko	무용지용	muyongjiyong	yoji
@@ -8440,7 +8330,6 @@ ko	무정세월	mujeongsewol	yoji
 ko	무지막지	mujimagji	yoji
 ko	무지몽매	mujimongmae	yoji
 ko	묵묵부답	mugmugbudab	yoji
-ko	묵수성규	mugsuseonggyu	yoji
 ko	문경지교	mungyeongjigyo	yoji
 ko	문무겸전	munmugyeomjeon	yoji
 ko	문무백관	munmubaeggwan	yoji
@@ -8518,7 +8407,6 @@ ko	병귀신속	byeonggwisinsog	yoji
 ko	병불염사	byeongbul'yeomsa	yoji
 ko	병입고황	byeong'ibgohwang	yoji
 ko	병촉야유	byeongchog'yayu	yoji
-ko	보거순치	bogeosunchi	yoji
 ko	보국안민	bogug'anmin	yoji
 ko	보무당당	bomudangdang	yoji
 ko	보원이덕	bowon'ideog	yoji
@@ -8535,13 +8423,10 @@ ko	부귀재천	bugwijaecheon	yoji
 ko	부급종사	bugeubjongsa	yoji
 ko	부모구존	bumogujon	yoji
 ko	부부유별	bubuyubyeol	yoji
-ko	부생약몽	busaeng'yagmong	yoji
-ko	부석침목	buseogchimmog	yoji
 ko	부앙무괴	buangmugoe	yoji
 ko	부위부강	buwibugang	yoji
 ko	부위자강	buwijagang	yoji
 ko	부자유친	bujayuchin	yoji
-ko	부자자효	bujajahyo	yoji
 ko	부전자전	bujeonjajeon	yoji
 ko	부중지어	bujungjieo	yoji
 ko	부지기수	bujigisu	yoji
@@ -8570,7 +8455,6 @@ ko	불원천리	bul'woncheonri	yoji
 ko	불철주야	bulcheoljuya	yoji
 ko	불초소생	bulchososaeng	yoji
 ko	불측지변	bulcheugjibyeon	yoji
-ko	불치지병	bulchijibyeong	yoji
 ko	불치하문	bulchihamun	yoji
 ko	불편부당	bulpyeonbudang	yoji
 ko	불평불만	bulpyeongbulman	yoji
@@ -8582,7 +8466,6 @@ ko	비명횡사	bimyeonghoengsa	yoji
 ko	비몽사몽	bimongsamong	yoji
 ko	비분강개	bibunganggae	yoji
 ko	비육지탄	biyugjitan	yoji
-ko	빈계무신	bingyemusin	yoji
 ko	빈계지신	bingyejisin	yoji
 ko	빈자일등	binjaildeung	yoji
 ko	빈천지교	bincheonjigyo	yoji
@@ -8621,7 +8504,6 @@ ko	살생유택	salsaeng'yutaeg	yoji
 ko	살신성인	salsinseong'in	yoji
 ko	삼간초옥	samganchoog	yoji
 ko	삼강오륜	samgang'oryun	yoji
-ko	삼고지례	samgojirye	yoji
 ko	삼고초려	samgochoryeo	yoji
 ko	삼대독자	samdaedogja	yoji
 ko	삼라만상	samramansang	yoji
@@ -8656,7 +8538,6 @@ ko	생이지지	saeng'ijiji	yoji
 ko	생자필멸	saengjapilmyeol	yoji
 ko	서리지탄	seorijitan	yoji
 ko	서불진언	seobuljin'eon	yoji
-ko	서시효빈	seosihyobin	yoji
 ko	서제막급	seojemaggeub	yoji
 ko	석고대죄	seoggodaejoe	yoji
 ko	석과불식	seoggwabulsig	yoji
@@ -8700,7 +8581,6 @@ ko	수구초심	suguchosim	yoji
 ko	수기치인	sugichiin	yoji
 ko	수락석출	suragseogchul	yoji
 ko	수륙진미	suryugjinmi	yoji
-ko	수명재천	sumyeongjaecheon	yoji
 ko	수문수답	sumunsudab	yoji
 ko	수미일관	sumiilgwan	yoji
 ko	수복강녕	suboggangnyeong	yoji
@@ -8820,7 +8700,6 @@ ko	염화미소	yeomhwamiso	yoji
 ko	염화시중	yeomhwasijung	yoji
 ko	영고성쇠	yeonggoseongsoe	yoji
 ko	영구불변	yeonggubulbyeon	yoji
-ko	영서연설	yeongseoyeonseol	yoji
 ko	영세불망	yeongsebulmang	yoji
 ko	영웅호걸	yeong'unghogeol	yoji
 ko	영원불멸	yeong'wonbulmyeol	yoji
@@ -8865,7 +8744,6 @@ ko	용모단정	yongmodanjeong	yoji
 ko	용왕매진	yong'wangmaejin	yoji
 ko	용의주도	yong'uijudo	yoji
 ko	용호상박	yonghosangbag	yoji
-ko	우각괘서	ugaggwaeseo	yoji
 ko	우공이산	ugong'isan	yoji
 ko	우국지사	ugugjisa	yoji
 ko	우국충정	ugugchungjeong	yoji
@@ -8903,7 +8781,6 @@ ko	유일무이	yuilmui	yoji
 ko	유종지미	yujongjimi	yoji
 ko	육도윤회	yugdoyunhoe	yoji
 ko	윤회전생	yunhoejeonsaeng	yoji
-ko	은산철벽	eunsancheolbyeog	yoji
 ko	은위병행	eun'wibyeonghaeng	yoji
 ko	은인자중	eun'injajung	yoji
 ko	음덕양보	eumdeog'yangbo	yoji
@@ -8987,13 +8864,11 @@ ko	자가당착	jagadangchag	yoji
 ko	자강불식	jagangbulsig	yoji
 ko	자격지심	jagyeogjisim	yoji
 ko	자고이래	jagoirae	yoji
-ko	자구지책	jagujichaeg	yoji
 ko	자급자족	jageubjajog	yoji
 ko	자기도취	jagidochwi	yoji
 ko	자기만족	jagimanjog	yoji
 ko	자기모순	jagimosun	yoji
 ko	자문자답	jamunjadab	yoji
-ko	자생자멸	jasaengjamyeol	yoji
 ko	자손만대	jasonmandae	yoji
 ko	자승자박	jaseungjabag	yoji
 ko	자신만만	jasinmanman	yoji
@@ -9068,11 +8943,9 @@ ko	조족지혈	jojogjihyeol	yoji
 ko	조진궁장	jojingungjang	yoji
 ko	족탈불급	jogtalbulgeub	yoji
 ko	존망지추	jonmangjichu	yoji
-ko	존심양성	jonsim'yangseong	yoji
 ko	존왕양이	jon'wang'yang'i	yoji
 ko	종두득두	jongdudeugdu	yoji
 ko	종선여류	jongseon'yeoryu	yoji
-ko	종호귀산	jonghogwisan	yoji
 ko	종횡무진	jonghoengmujin	yoji
 ko	좌고우면	jwagoumyeon	yoji
 ko	좌불안석	jwabul'anseog	yoji
@@ -9100,7 +8973,6 @@ ko	지록위마	jirog'wima	yoji
 ko	지리멸렬	jirimyeolryeol	yoji
 ko	지성감천	jiseonggamcheon	yoji
 ko	지어지앙	jieojiang	yoji
-ko	지엽말단	jiyeobmaldan	yoji
 ko	지자요수	jijayosu	yoji
 ko	지지부진	jijibujin	yoji
 ko	지척지간	jicheogjigan	yoji
@@ -9164,7 +9036,6 @@ ko	초전박살	chojeonbagsal	yoji
 ko	초지일관	chojiilgwan	yoji
 ko	촌철살인	choncheolsal'in	yoji
 ko	추풍낙엽	chupungnag'yeob	yoji
-ko	춘란추국	chunranchugug	yoji
 ko	춘추필법	chunchupilbeob	yoji
 ko	춘풍추상	chunpungchusang	yoji
 ko	출람지예	chulramjiye	yoji
@@ -9195,7 +9066,6 @@ ko	태평천하	taepyeongcheonha	yoji
 ko	토붕와해	tobung'wahae	yoji
 ko	토사구팽	tosagupaeng	yoji
 ko	토사호비	tosahobi	yoji
-ko	투필종융	tupiljong'yung	yoji
 ko	파경중원	pagyeongjung'won	yoji
 ko	파란곡절	parangogjeol	yoji
 ko	파사현정	pasahyeonjeong	yoji
@@ -9225,9 +9095,7 @@ ko	필마단기	pilmadangi	yoji
 ko	필부지용	pilbujiyong	yoji
 ko	필사즉생	pilsajeugsaeng	yoji
 ko	필유곡절	pil'yugogjeol	yoji
-ko	필주묵벌	piljumugbeol	yoji
 ko	하로동선	harodongseon	yoji
-ko	하청난사	hacheongnansa	yoji
 ko	하학상달	hahagsangdal	yoji
 ko	하해지택	hahaejitaeg	yoji
 ko	학립계군	hagribgyegun	yoji
@@ -9237,7 +9105,6 @@ ko	한단지몽	handanjimong	yoji
 ko	한단지보	handanjibo	yoji
 ko	한우충동	han'uchungdong	yoji
 ko	한운야학	han'un'yahag	yoji
-ko	할계우도	halgyeudo	yoji
 ko	함구무언	hamgumueon	yoji
 ko	함포고복	hampogobog	yoji
 ko	합종연횡	habjong'yeonhoeng	yoji
@@ -9247,7 +9114,6 @@ ko	항산항심	hangsanhangsim	yoji
 ko	해괴망측	haegoemangcheug	yoji
 ko	해로동혈	haerodonghyeol	yoji
 ko	해불양수	haebul'yangsu	yoji
-ko	해의추식	haeuichusig	yoji
 ko	해현경장	haehyeongyeongjang	yoji
 ko	행시주육	haengsijuyug	yoji
 ko	행운유수	haeng'un'yusu	yoji
@@ -9299,7 +9165,6 @@ ko	황당무계	hwangdangmugye	yoji
 ko	회계지치	hoegyejichi	yoji
 ko	회광반조	hoegwangbanjo	yoji
 ko	회사후소	hoesahuso	yoji
-ko	회자인구	hoejaingu	yoji
 ko	회자정리	hoejajeongri	yoji
 ko	효제충신	hyojechungsin	yoji
 ko	후목분장	humogbunjang	yoji
@@ -9395,7 +9260,6 @@ ko	값을 매기다	gabseul maegida	idiom
 ko	값을 치르다	gabseul chireuda	idiom
 ko	값이 떨어지다	gabsi tteol'eojida	idiom
 ko	값이 뛰다	gabsi ttwida	idiom
-ko	강 건너 불 구경하다	gang geonneo bul gugyeonghada	idiom
 ko	갖은	gaj'eun	idiom
 ko	갖은 고생	gaj'eun gosaeng	idiom
 ko	개 닭 보듯 하다	gae dalg bodeus hada	idiom
@@ -9444,7 +9308,6 @@ ko	고개를 젓다	gogaereul jeosda	idiom
 ko	고개를 쳐들다	gogaereul chyeodeulda	idiom
 ko	고무신을 거꾸로 신다	gomusin'eul geokkuro sinda	idiom
 ko	고삐가 풀리다	goppiga pulrida	idiom
-ko	고삐를 놓다	goppireul nohda	idiom
 ko	고삐를 늦추다	goppireul neujchuda	idiom
 ko	고삐를 잡다	goppireul jabda	idiom
 ko	고삐를 쥐다	goppireul jwida	idiom
@@ -9491,7 +9354,6 @@ ko	궤도에 오르다	gwedo'e oreuda	idiom
 ko	귀가 밝다	gwiga balgda	idiom
 ko	귀가 번쩍 뜨이다	gwiga beonjjeog tteuida	idiom
 ko	귀가 어둡다	gwiga eodubda	idiom
-ko	귀가 절벽이다	gwiga jeolbyeog'ida	idiom
 ko	귀가 트이다	gwiga teuida	idiom
 ko	귀동냥하다	gwidongnyanghada	idiom
 ko	귀를 곤두세우다	gwireul gonduse'uda	idiom
@@ -10084,7 +9946,6 @@ ko	배알이 뒤틀리다	baeal'i dwiteulrida	idiom
 ko	배알이 없다	baeal'i eobsda	idiom
 ko	배짱	baejjang	idiom
 ko	배짱을 부리다	baejjang'eul burida	idiom
-ko	배짱을 튕기다	baejjang'eul twinggida	idiom
 ko	배짱이 두둑하다	baejjang'i dudughada	idiom
 ko	배포가 크다	baepoga keuda	idiom
 ko	백년해로	baegnyeonhaero	idiom
@@ -10252,7 +10113,6 @@ ko	속이 뒤틀리다	sogi dwiteulrida	idiom
 ko	속이 들여다보이다	sogi deul'yeodaboida	idiom
 ko	속이 문드러지다	sogi mundeureojida	idiom
 ko	속이 쓰리다	sogi sseurida	idiom
-ko	속이 차다	sogi chada	idiom
 ko	속이 풀리다	sogi pulrida	idiom
 ko	속임수	sog'imsu	idiom
 ko	손가락 안에 꼽히다	songarag ane kkobhida	idiom
@@ -10414,7 +10274,6 @@ ko	애간장을 녹이다	aeganjang'eul nog'ida	idiom
 ko	애간장을 태우다	aeganjang'eul taeuda	idiom
 ko	애간장이 녹다	aeganjang'i nogda	idiom
 ko	애간장이 타다	aeganjang'i tada	idiom
-ko	애를 끓이다	aereul kkeulh'ida	idiom
 ko	애를 먹이다	aereul meog'ida	idiom
 ko	애를 태우다	aereul taeuda	idiom
 ko	애쓰셨습니다	aesseusyeossseubnida	idiom
@@ -10498,7 +10357,6 @@ ko	오기가 생기다	ogiga saenggida	idiom
 ko	오기를 부리다	ogireul burida	idiom
 ko	오냐오냐	onyaonya	idiom
 ko	오장이 뒤집히다	ojang'i dwijibhida	idiom
-ko	오장이 뒤틀리다	ojang'i dwiteulrida	idiom
 ko	오죽하면	ojughamyeon	idiom
 ko	오지랖이 넓다	ojirap'i neolbda	idiom
 ko	오해를 사다	ohaereul sada	idiom
@@ -10643,7 +10501,6 @@ ko	입에 자물쇠를 채우다	ibe jamulsoereul chaeuda	idiom
 ko	입에 재갈을 물리다	ibe jaegal'eul mulrida	idiom
 ko	입에 풀칠하다	ibe pulchilhada	idiom
 ko	입에서 단내가 나다	ibeseo dannaega nada	idiom
-ko	입에서 뱅뱅 돌다	ibeseo baengbaeng dolda	idiom
 ko	입에서 살살 녹다	ibeseo salsal nogda	idiom
 ko	입에서 젖내가 나다	ibeseo jeojnaega nada	idiom
 ko	입을 내밀다	ibeul naemilda	idiom
@@ -10825,7 +10682,6 @@ ko	코너에 몰리다	koneoe molrida	idiom
 ko	코를 꿰다	koreul kkweda	idiom
 ko	코를 납작하게 만들다	koreul nabjaghage mandeulda	idiom
 ko	코웃음을 치다	kous'eum'eul chida	idiom
-ko	콧김이 세다	kosgim'i seda	idiom
 ko	콧등이 시큰하다	kosdeung'i sikeunhada	idiom
 ko	콧노래를 부르다	kosnoraereul bureuda	idiom
 ko	콧대가 세다	kosdaega seda	idiom
@@ -10978,3 +10834,4 @@ ko	힘이 빠지다	him'i ppajida	idiom
 ko	힘이 솟다	him'i sosda	idiom
 ko	힘이 실리다	him'i silrida	idiom
 ko	힘이 풀리다	him'i pulrida	idiom
+ko	강 건너 불구경하다	gang geonneo bulgugyeonghada	idiom
